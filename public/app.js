@@ -339,18 +339,62 @@ const state = {
 };
 
 const app = typeof document === "undefined" ? null : document.querySelector("#app");
+let lastPointerActionTime = 0;
+
 if (app) {
+  app.addEventListener("pointerup", handlePointerUp);
+  app.addEventListener("touchend", handleTouchEnd, { passive: false });
   app.addEventListener("click", handleClick);
   app.addEventListener("input", handleInput);
   startApp();
 }
 
-function handleClick(event) {
+function handlePointerUp(event) {
+  if (event.pointerType === "mouse") return;
+
   const button = event.target.closest("button");
-  if (!button) return;
+  if (!button || button.disabled) return;
+
   const action = button.dataset.action;
   if (!action) return;
 
+  event.preventDefault();
+  lastPointerActionTime = Date.now();
+  handleButtonAction(button, action);
+}
+
+function handleTouchEnd(event) {
+  if (Date.now() - lastPointerActionTime < 700) {
+    return;
+  }
+
+  const button = event.target.closest("button");
+  if (!button || button.disabled) return;
+
+  const action = button.dataset.action;
+  if (!action) return;
+
+  event.preventDefault();
+  lastPointerActionTime = Date.now();
+  handleButtonAction(button, action);
+}
+
+function handleClick(event) {
+  if (Date.now() - lastPointerActionTime < 700) {
+    event.preventDefault();
+    return;
+  }
+
+  const button = event.target.closest("button");
+  if (!button || button.disabled) return;
+
+  const action = button.dataset.action;
+  if (!action) return;
+
+  handleButtonAction(button, action);
+}
+
+function handleButtonAction(button, action) {
   if (action === "mute") {
     state.muted = !state.muted;
     render();

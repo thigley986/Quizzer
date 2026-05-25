@@ -1040,9 +1040,6 @@ legend {
   }
 
   .mode-quiz .feedback-strip {
-    position: sticky;
-    bottom: max(6px, env(safe-area-inset-bottom));
-    z-index: 2;
     grid-template-columns: minmax(0, 1fr) auto;
     gap: 8px;
     align-items: center;
