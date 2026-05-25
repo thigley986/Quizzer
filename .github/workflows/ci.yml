@@ -35,6 +35,9 @@ jobs:
       - name: Validate question bank
         run: npm run lint
 
+      - name: Run tests
+        run: npm test
+
       - name: Build Cloudflare Pages output
         run: npm run build
 

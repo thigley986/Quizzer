@@ -339,7 +339,8 @@ const state = {
 };
 
 const app = typeof document === "undefined" ? null : document.querySelector("#app");
-let lastPointerActionTime = 0;
+let lastTouchActionButton = null;
+let lastTouchActionTime = 0;
 
 if (app) {
   app.addEventListener("pointerup", handlePointerUp);
@@ -359,28 +360,28 @@ function handlePointerUp(event) {
   if (!action) return;
 
   event.preventDefault();
-  lastPointerActionTime = Date.now();
+  markTouchAction(button);
   handleButtonAction(button, action);
 }
 
 function handleTouchEnd(event) {
-  if (Date.now() - lastPointerActionTime < 700) {
-    return;
-  }
-
   const button = event.target.closest("button");
   if (!button || button.disabled) return;
+
+  if (wasRecentlyHandledTouch(button)) {
+    return;
+  }
 
   const action = button.dataset.action;
   if (!action) return;
 
   event.preventDefault();
-  lastPointerActionTime = Date.now();
+  markTouchAction(button);
   handleButtonAction(button, action);
 }
 
 function handleClick(event) {
-  if (Date.now() - lastPointerActionTime < 700) {
+  if (Date.now() - lastTouchActionTime < 700) {
     event.preventDefault();
     return;
   }
@@ -392,6 +393,15 @@ function handleClick(event) {
   if (!action) return;
 
   handleButtonAction(button, action);
+}
+
+function markTouchAction(button) {
+  lastTouchActionButton = button;
+  lastTouchActionTime = Date.now();
+}
+
+function wasRecentlyHandledTouch(button) {
+  return button === lastTouchActionButton && Date.now() - lastTouchActionTime < 700;
 }
 
 function handleButtonAction(button, action) {
