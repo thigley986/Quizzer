@@ -69,6 +69,82 @@ test("mobile touch answer shows feedback and touch next advances", async (t) => 
   assert.equal(await client.evaluate(`!!document.querySelector(".feedback-strip")`), false);
 });
 
+test("age input keeps focus and replaces the existing age on first typing", async (t) => {
+  const server = await startStaticServer(publicDir);
+  t.after(() => server.close());
+
+  const chrome = await launchChrome();
+  t.after(() => chrome.close());
+
+  const client = await connectToPage(chrome.port);
+  t.after(() => client.close());
+
+  await client.send("Page.enable");
+  await client.send("Runtime.enable");
+  await client.send("Emulation.setDeviceMetricsOverride", {
+    width: 393,
+    height: 664,
+    deviceScaleFactor: 3,
+    mobile: true,
+    hasTouch: true,
+  });
+
+  await client.send("Page.navigate", { url: server.url });
+  await waitFor(client, "input[data-action=\"age-input\"]");
+
+  const focusedState = await client.evaluate(`new Promise((resolve) => {
+    const input = document.querySelector("input[data-action='age-input']");
+    input.focus();
+    input.dispatchEvent(new Event("touchend", { bubbles: true, cancelable: true }));
+    setTimeout(() => resolve({
+      active: document.activeElement === input,
+      value: input.value,
+      replaceOnInput: input.dataset.replaceOnInput === "true"
+    }), 50);
+  })`);
+
+  assert.deepEqual(focusedState, {
+    active: true,
+    value: "12",
+    replaceOnInput: true,
+  });
+
+  const partialState = await client.evaluate(`(() => {
+    const input = document.querySelector("input[data-action='age-input']");
+    input.dataset.probe = "same-node";
+    input.dispatchEvent(new InputEvent("beforeinput", {
+      bubbles: true,
+      cancelable: true,
+      inputType: "insertText",
+      data: "4"
+    }));
+    const currentInput = document.querySelector("input[data-action='age-input']");
+    return {
+      active: document.activeElement === currentInput,
+      sameNode: currentInput.dataset.probe === "same-node",
+      value: currentInput.value,
+      errorVisible: !!document.querySelector(".error-message")
+    };
+  })()`);
+
+  assert.deepEqual(partialState, {
+    active: true,
+    sameNode: true,
+    value: "4",
+    errorVisible: false,
+  });
+
+  await client.evaluate(`(() => {
+    const input = document.querySelector("input[data-action='age-input']");
+    input.value = "14";
+    input.dispatchEvent(new Event("input", { bubbles: true }));
+  })()`);
+  await touchAndClick(client, "button[data-action=\"start\"]");
+  await waitFor(client, ".game-header");
+
+  assert.equal(await textContent(client, ".session-pills span"), "Age 14");
+});
+
 async function startStaticServer(directory) {
   const server = createServer(async (request, response) => {
     try {

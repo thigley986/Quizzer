@@ -330,15 +330,15 @@
     "difficulty": "easy",
     "question": "Why might a caribou migrate instead of staying in one place all year?",
     "choices": [
-      "to reach safe nesting beaches",
+      "to reach seasonal feeding and calving areas",
       "to avoid using energy",
       "to become a plant",
       "to stop all seasons"
     ],
-    "correctAnswer": "to reach safe nesting beaches",
-    "explanation": "Many migrations follow seasonal or geographic changes in food, breeding, or survival conditions.",
-    "sourceName": "National Geographic Education - Animal Migration",
-    "sourceUrl": "https://education.nationalgeographic.org/resource/resource-library-animal-migration/",
+    "correctAnswer": "to reach seasonal feeding and calving areas",
+    "explanation": "Caribou migrate between seasonal ranges, including areas used for feeding and calving.",
+    "sourceName": "National Park Service - Caribou Resource Brief",
+    "sourceUrl": "https://www.nps.gov/articles/000/arcn-caribou-resource-brief.htm",
     "reviewStatus": "reviewed"
   },
   {

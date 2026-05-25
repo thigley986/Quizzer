@@ -54,6 +54,26 @@ test("combined bank has no duplicate IDs across static and procedural sources", 
   assert.equal(ids.size, allQuestions.length);
 });
 
+test("nature bank rejects known animal-habitat mismatches", async () => {
+  const factualQuestions = JSON.parse(await readFile("public/data/factual-bank.json", "utf8"));
+  const natureQuestions = factualQuestions.filter((question) => question.category === "nature");
+
+  for (const question of natureQuestions) {
+    const searchableText = [
+      question.question,
+      question.correctAnswer,
+      question.explanation,
+      ...question.choices,
+    ].join(" ").toLowerCase();
+
+    assert.equal(
+      /\bcaribou\b/.test(searchableText) && /\bnesting\b|\bbeach(?:es)?\b/.test(searchableText),
+      false,
+      `${question.id} pairs caribou with nesting or beach language`,
+    );
+  }
+});
+
 function countBy(items, key) {
   return items.reduce((counts, item) => {
     counts[item[key]] = (counts[item[key]] ?? 0) + 1;

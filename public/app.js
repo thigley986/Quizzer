@@ -346,12 +346,22 @@ if (app) {
   app.addEventListener("pointerup", handlePointerUp);
   app.addEventListener("touchend", handleTouchEnd, { passive: false });
   app.addEventListener("click", handleClick);
+  app.addEventListener("beforeinput", handleBeforeInput);
   app.addEventListener("input", handleInput);
+  app.addEventListener("focus", handleFocusIn, true);
+  app.addEventListener("focusin", handleFocusIn);
+  app.addEventListener("focusout", handleFocusOut);
   startApp();
 }
 
 function handlePointerUp(event) {
   if (event.pointerType === "mouse") return;
+
+  const input = event.target.closest("input");
+  if (input?.dataset.action === "age-input") {
+    primeAgeInput(input);
+    return;
+  }
 
   const button = event.target.closest("button");
   if (!button || button.disabled) return;
@@ -365,6 +375,12 @@ function handlePointerUp(event) {
 }
 
 function handleTouchEnd(event) {
+  const input = event.target.closest("input");
+  if (input?.dataset.action === "age-input") {
+    primeAgeInput(input);
+    return;
+  }
+
   const button = event.target.closest("button");
   if (!button || button.disabled) return;
 
@@ -433,17 +449,69 @@ function handleInput(event) {
   const input = event.target.closest("input");
   if (!input || input.dataset.action !== "age-input") return;
 
-  const value = input.value;
-  state.ageInput = value;
-  const age = Number(value);
+  applyAgeInput(input.value);
+}
 
-  if (Number.isInteger(age) && age >= 9 && age <= 99) {
-    updateSetting({ ageGroup: age >= 18 ? "18+" : String(age) });
-    return;
+function handleBeforeInput(event) {
+  const input = event.target.closest("input");
+  if (!input || input.dataset.action !== "age-input" || input.dataset.replaceOnInput !== "true") return;
+  if (!["insertText", "insertFromPaste"].includes(event.inputType)) return;
+
+  const nextValue = String(event.data ?? "").replace(/\D/g, "").slice(0, 2);
+  if (!nextValue) return;
+
+  event.preventDefault();
+  delete input.dataset.replaceOnInput;
+  input.value = nextValue;
+  applyAgeInput(nextValue);
+}
+
+function applyAgeInput(value) {
+  state.ageInput = value;
+
+  if (isSupportedAgeInput(value)) {
+    state.error = null;
+    state.settings = { ...state.settings, ageGroup: ageGroupForInput(value) };
+  }
+}
+
+function handleFocusIn(event) {
+  const input = event.target.closest("input");
+  if (!input || input.dataset.action !== "age-input") return;
+
+  primeAgeInput(input);
+}
+
+function primeAgeInput(input) {
+  input.dataset.replaceOnInput = "true";
+  setTimeout(() => {
+    input.setSelectionRange(0, input.value.length);
+  }, 0);
+}
+
+function handleFocusOut(event) {
+  const input = event.target.closest("input");
+  if (!input || input.dataset.action !== "age-input") return;
+
+  delete input.dataset.replaceOnInput;
+
+  if (isSupportedAgeInput(state.ageInput)) {
+    state.error = null;
+  } else {
+    state.error = state.ageInput === "" ? "Enter an age from 9 to 99." : "Quizzer supports ages 9 to 99.";
   }
 
-  state.error = value === "" ? "Enter an age from 9 to 99." : "Quizzer supports ages 9 to 99.";
   render();
+}
+
+function isSupportedAgeInput(value) {
+  const age = Number(value);
+  return Number.isInteger(age) && age >= 9 && age <= 99;
+}
+
+function ageGroupForInput(value) {
+  const age = Number(value);
+  return age >= 18 ? "18+" : String(age);
 }
 
 function updateSetting(next) {
@@ -458,6 +526,10 @@ function updateSetting(next) {
 
 function startQuiz() {
   try {
+    if (!isSupportedAgeInput(state.ageInput)) {
+      throw new Error(state.ageInput === "" ? "Enter an age from 9 to 99." : "Quizzer supports ages 9 to 99.");
+    }
+
     const available = filteredQuestions();
     if (available.length < state.settings.questionCount) {
       throw new Error(`Only ${available.length} questions are available for this selection.`);
@@ -603,7 +675,7 @@ function setupPanel(available) {
           <legend>Your age</legend>
           <label class="age-entry">
             <span>Ages 9 to 99</span>
-            <input data-action="age-input" type="number" min="9" max="99" inputmode="numeric" value="${escapeHtml(state.ageInput)}" aria-label="Enter your age" />
+            <input data-action="age-input" type="text" inputmode="numeric" pattern="[0-9]*" maxlength="2" value="${escapeHtml(state.ageInput)}" aria-label="Enter your age" />
           </label>
           <p class="hint">Quizzer picks the closest age-appropriate bank automatically.</p>
         </fieldset>
