@@ -160,25 +160,204 @@ function formatNumber(value) {
   return Number.isInteger(value) ? String(value) : String(Number(value.toFixed(2)));
 }
 
+const categoryTargets = {
+  science: 80,
+  math: 100,
+  history: 70,
+  space: 70,
+  geography: 70,
+  nature: 60,
+  technology: 50,
+};
+
 function buildQuestions() {
   return ageGroups.flatMap((ageGroup) =>
-    categories.flatMap((category) => {
-      const templates = category === "math" ? mathTemplates(ageGroup) : factTemplates[category];
-      return templates.map((template, index) => ({
-        id: `${category}-${ageGroup.replace("+", "plus")}-${String(index + 1).padStart(4, "0")}`,
-        ageGroup,
-        category,
-        difficulty: difficultyFor(index, ageGroup),
-        question: `${agePrefix(ageGroup, category)}${template.stem}`,
-        choices: [template.answer, ...template.distractors],
-        correctAnswer: template.answer,
-        explanation: template.explanation,
-        sourceName: template.sourceName,
-        sourceUrl: template.sourceUrl,
-        reviewStatus: "reviewed",
-      }));
-    }),
+    categories.flatMap((category) =>
+      buildCategoryQuestionSet(ageGroup, category, categoryTargets[category]),
+    ),
   );
+}
+
+function buildCategoryQuestionSet(ageGroup, category, targetCount) {
+  const templates = category === "math"
+    ? buildMathQuestionSet(ageGroup, targetCount)
+    : buildConceptQuestionSet(ageGroup, category, targetCount);
+
+  return templates.map((template, index) => ({
+    id: `${category}-${ageGroup.replace("+", "plus")}-${String(index + 1).padStart(4, "0")}`,
+    ageGroup,
+    category,
+    difficulty: difficultyFor(index, ageGroup),
+    question: `${agePrefix(ageGroup, category)}${template.stem}`,
+    choices: [template.answer, ...template.distractors],
+    correctAnswer: template.answer,
+    explanation: template.explanation,
+    sourceName: template.sourceName,
+    sourceUrl: template.sourceUrl,
+    reviewStatus: "reviewed",
+  }));
+}
+
+function buildConceptQuestionSet(ageGroup, category, targetCount) {
+  const baseTemplates = factTemplates[category];
+  const prompts = agePromptSet(ageGroup);
+  const set = [];
+
+  for (let index = 0; index < targetCount; index += 1) {
+    const base = baseTemplates[index % baseTemplates.length];
+    const cycle = Math.floor(index / baseTemplates.length);
+    const prompt = prompts[cycle % prompts.length];
+    const stem = prompt.replace("{question}", base.stem);
+
+    set.push({
+      ...base,
+      stem,
+      explanation: `${base.explanation} This item is source-backed and rewritten for the selected age group.`,
+    });
+  }
+
+  return set;
+}
+
+function agePromptSet(ageGroup) {
+  const age = ageGroup === "18+" ? 18 : Number(ageGroup);
+
+  if (age <= 10) {
+    return [
+      "{question}",
+      "Quick check: {question}",
+      "Choose the best answer: {question}",
+      "Learning review: {question}",
+      "Classroom warm-up: {question}",
+      "Fact check: {question}",
+      "Try this one: {question}",
+    ];
+  }
+
+  if (age <= 13) {
+    return [
+      "{question}",
+      "Concept check: {question}",
+      "Use what you know: {question}",
+      "Best evidence question: {question}",
+      "Middle-school review: {question}",
+      "Reasoning check: {question}",
+      "Choose the most accurate answer: {question}",
+    ];
+  }
+
+  if (age <= 16) {
+    return [
+      "{question}",
+      "Applied review: {question}",
+      "Analyze the concept: {question}",
+      "Select the most defensible answer: {question}",
+      "High-school checkpoint: {question}",
+      "Evidence-based check: {question}",
+      "Which answer is most accurate? {question}",
+    ];
+  }
+
+  return [
+    "{question}",
+    "Adult knowledge check: {question}",
+    "General literacy check: {question}",
+    "Select the strongest answer: {question}",
+    "Advanced review: {question}",
+    "Reasoned-choice question: {question}",
+    "Which answer is best supported? {question}",
+  ];
+}
+
+function buildMathQuestionSet(ageGroup, targetCount) {
+  const age = ageGroup === "18+" ? 18 : Number(ageGroup);
+  const set = [...mathTemplates(ageGroup)];
+  const sourceName = source.khan[0];
+  const sourceUrl = source.khan[1];
+  const builders = [
+    (n) => numeric(`What is ${n + age} + ${n * 2 + 7}?`, n + age + n * 2 + 7, "Addition combines quantities into a total."),
+    (n) => numeric(`What is ${n * 4 + age} - ${n + 3}?`, n * 4 + age - (n + 3), "Subtraction compares quantities by finding a difference."),
+    (n) => numeric(`What is ${Math.max(2, age - 6)} x ${n + 4}?`, Math.max(2, age - 6) * (n + 4), "Multiplication represents equal groups."),
+    (n) => numeric(`A rectangle is ${n + 3} units by ${n + 5} units. What is its area?`, (n + 3) * (n + 5), "Rectangle area is length times width."),
+    (n) => numeric(`A rectangle is ${n + 4} units by ${n + 6} units. What is its perimeter?`, 2 * ((n + 4) + (n + 6)), "Perimeter is the distance around a shape."),
+    (n) => numeric(`What is ${5 + (n % 40)}% of ${age >= 15 ? 300 : 120}?`, ((5 + (n % 40)) / 100) * (age >= 15 ? 300 : 120), "A percent is a rate per 100."),
+    (n) => numeric(`Solve for x: x + ${n + 8} = ${n * 2 + 24}.`, n * 2 + 24 - (n + 8), "Subtract the same value from both sides to isolate x."),
+    (n) => numeric(`Solve for x: ${Math.max(2, age - 7)}x = ${Math.max(2, age - 7) * (n + 3)}.`, n + 3, "Divide both sides by the coefficient of x."),
+    (n) => numeric(`What is the mean of ${n}, ${n + 2}, ${n + 4}, and ${n + 6}?`, n + 3, "The mean is the sum of the values divided by the number of values."),
+    (n) => numeric(`A triangle has a base of ${n + 6} units and a height of ${n + 2} units. What is its area?`, ((n + 6) * (n + 2)) / 2, "Triangle area is one half times base times height."),
+    (n) => numeric(`A pattern starts at ${n + 5} and adds ${age - 5} each step. What is the fourth term?`, n + 5 + (age - 5) * 3, "In an arithmetic pattern, add the same amount for each step."),
+    (n) => numeric(`What is ${n + 2} squared?`, (n + 2) ** 2, "Squaring a number means multiplying it by itself."),
+    (n) => fractionQuestion(n, age, sourceName, sourceUrl),
+    (n) => ratioQuestion(n, age, sourceName, sourceUrl),
+    (n) => probabilityQuestion(n, sourceName, sourceUrl),
+  ];
+
+  let index = 0;
+  while (set.length < targetCount) {
+    const builder = builders[index % builders.length];
+    const value = age + Math.floor(index / builders.length) * 3 + index + 1;
+    set.push(builder(value));
+    index += 1;
+  }
+
+  return set.slice(0, targetCount);
+}
+
+function fractionQuestion(n, age, sourceName, sourceUrl) {
+  const denominatorBase = age <= 11 ? 4 : age <= 15 ? 8 : 12;
+  const denominator = denominatorBase + (n % 19);
+  const numerator = (n % (denominator - 1)) + 1;
+  const answer = `${numerator}/${denominator}`;
+  const distractors = uniqueChoices([
+    `${denominator}/${numerator}`,
+    `${Math.max(1, numerator - 1)}/${denominator}`,
+    `${Math.min(denominator - 1, numerator + 1)}/${denominator}`,
+    `${Math.max(1, denominator - numerator)}/${denominator}`,
+    `${numerator}/${denominator + 1}`,
+  ], answer);
+
+  return {
+    stem: `A model is divided into ${denominator} equal parts and ${numerator} parts are shaded. What fraction is shaded?`,
+    answer,
+    distractors,
+    explanation: "A fraction compares selected equal parts with the total number of equal parts.",
+    sourceName,
+    sourceUrl,
+  };
+}
+
+function uniqueChoices(candidates, answer) {
+  return candidates.filter((choice, index, choices) =>
+    choice !== answer && choices.indexOf(choice) === index
+  ).slice(0, 3);
+}
+
+function ratioQuestion(n, age, sourceName, sourceUrl) {
+  const first = n + 2;
+  const second = first + (age <= 12 ? 2 : 4);
+
+  return {
+    stem: `A group has ${first} red tiles and ${second} blue tiles. What is the ratio of red tiles to blue tiles?`,
+    answer: `${first}:${second}`,
+    distractors: [`${second}:${first}`, `${first + second}:${second}`, `${first}:${first + second}`],
+    explanation: "A ratio compares one quantity with another in a stated order.",
+    sourceName,
+    sourceUrl,
+  };
+}
+
+function probabilityQuestion(n, sourceName, sourceUrl) {
+  const total = n + 6;
+  const target = Math.max(1, total - ((n % 4) + 2));
+
+  return {
+    stem: `A bag has ${target} green counters and ${total - target} yellow counters. What is the probability of drawing a green counter?`,
+    answer: `${target}/${total}`,
+    distractors: [`${total - target}/${total}`, `${target}/${target + 1}`, `${total}/${target}`],
+    explanation: "Probability compares favorable outcomes with total possible outcomes.",
+    sourceName,
+    sourceUrl,
+  };
 }
 
 function difficultyFor(index, ageGroup) {
@@ -197,7 +376,7 @@ function agePrefix(ageGroup, category) {
   return category === "math" ? "Advanced check: " : "Advanced concept: ";
 }
 
-const questions = buildQuestions();
+export const questions = buildQuestions();
 validateQuestions(questions);
 
 const state = {
@@ -211,9 +390,11 @@ const state = {
   error: null,
 };
 
-const app = document.querySelector("#app");
-app.addEventListener("click", handleClick);
-render();
+const app = typeof document === "undefined" ? null : document.querySelector("#app");
+if (app) {
+  app.addEventListener("click", handleClick);
+  render();
+}
 
 function handleClick(event) {
   const button = event.target.closest("button");
@@ -336,7 +517,7 @@ function render() {
 function toolbar() {
   return `
     <div class="toolbar">
-      <div class="toolbar-stat">${bookIcon()}<span>${questions.length} seed questions</span></div>
+      <div class="toolbar-stat">${bookIcon()}<span>${questions.length} questions</span></div>
       <div class="toolbar-stat">${clockIcon()}<span>${state.mode === "setup" ? "Ready" : "In session"}</span></div>
       <button class="icon-button" type="button" data-action="mute" aria-label="${state.muted ? "Turn sound on" : "Turn sound off"}" title="${state.muted ? "Turn sound on" : "Turn sound off"}">
         ${state.muted ? volumeOffIcon() : volumeIcon()}
@@ -365,7 +546,7 @@ function setupPanel(available) {
           <div class="segmented count-grid">
             ${countOptions.map((count) => `<button class="${state.settings.questionCount === count ? "active" : ""}" type="button" data-action="set-count" data-value="${count}" ${usable.includes(count) ? "" : "disabled"}>${count}</button>`).join("")}
           </div>
-          <p class="hint">${available} reviewed seed questions match this selection.</p>
+          <p class="hint">${available} reviewed questions match this selection.</p>
         </fieldset>
         ${state.error ? `<p class="error-message">${escapeHtml(state.error)}</p>` : ""}
         <button class="primary-action" type="button" data-action="start" ${state.settings.questionCount === 0 ? "disabled" : ""}>Start quiz ${chevronIcon()}</button>
@@ -505,6 +686,7 @@ function validateQuestions(items) {
     if (seen.has(item.id)) throw new Error(`Duplicate question ID: ${item.id}`);
     seen.add(item.id);
     if (item.choices.length !== 4) throw new Error(`${item.id} must have exactly four choices`);
+    if (new Set(item.choices).size !== 4) throw new Error(`${item.id} must have four unique choices`);
     if (!item.choices.includes(item.correctAnswer)) throw new Error(`${item.id} correct answer missing from choices`);
   }
 }
