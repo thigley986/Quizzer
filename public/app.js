@@ -73,7 +73,7 @@ const factTemplates = {
     t("Which layer of gases surrounds Earth?", "Atmosphere", ["Lithosphere", "Core", "Mantle"], "Earth's atmosphere is the mixture of gases held near the planet by gravity.", source.noaa),
     t("What is a rover designed to do on another world?", "Move across the surface and collect data", ["Turn planets into stars", "Block sunlight permanently", "Measure ocean tides on Earth only"], "Planetary rovers carry instruments and travel across surfaces to study rocks, soil, and conditions.", source.nasa),
     t("What is the asteroid belt mostly made of?", "Rocky and metallic objects", ["Liquid water oceans", "Wood fragments", "Living plants"], "The main asteroid belt contains many rocky and metallic bodies orbiting the Sun.", source.nasa),
-    t("Why do astronauts in orbit often seem weightless?", "They are falling around Earth with their spacecraft", ["Gravity turns off", "Their mass becomes zero", "Air pushes them upward"], "Objects in orbit are in continuous free fall around Earth, which creates apparent weightlessness.", source.nasa),
+    t("Why do astronauts aboard an orbiting spacecraft float instead of falling to the floor?", "They and the spacecraft are falling around Earth together", ["Gravity turns off in orbit", "Their mass becomes zero", "Air pushes them upward"], "Gravity still pulls on astronauts in orbit. They float because they and their spacecraft are in continuous free fall around Earth together.", ["NASA Glenn Research Center", "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/free-falling-objects/"]),
   ],
   geography: [
     t("Which imaginary line divides Earth into Northern and Southern Hemispheres?", "Equator", ["Prime Meridian", "Tropic of Cancer", "Arctic Circle"], "The equator circles Earth halfway between the North Pole and South Pole.", source.ngs),
@@ -188,7 +188,7 @@ function buildCategoryQuestionSet(ageGroup, category, targetCount) {
     ageGroup,
     category,
     difficulty: difficultyFor(index, ageGroup),
-    question: `${agePrefix(ageGroup, category)}${template.stem}`,
+    question: template.stem,
     choices: [template.answer, ...template.distractors],
     correctAnswer: template.answer,
     explanation: template.explanation,
@@ -200,73 +200,39 @@ function buildCategoryQuestionSet(ageGroup, category, targetCount) {
 
 function buildConceptQuestionSet(ageGroup, category, targetCount) {
   const baseTemplates = factTemplates[category];
-  const prompts = agePromptSet(ageGroup);
   const set = [];
 
   for (let index = 0; index < targetCount; index += 1) {
     const base = baseTemplates[index % baseTemplates.length];
     const cycle = Math.floor(index / baseTemplates.length);
-    const prompt = prompts[cycle % prompts.length];
-    const stem = prompt.replace("{question}", base.stem);
+    const stem = conceptStemVariant(base.stem, category, cycle);
 
     set.push({
       ...base,
       stem,
-      explanation: `${base.explanation} This item is source-backed and rewritten for the selected age group.`,
+      explanation: base.explanation,
     });
   }
 
   return set;
 }
 
-function agePromptSet(ageGroup) {
-  const age = ageGroup === "18+" ? 18 : Number(ageGroup);
+function conceptStemVariant(stem, category, cycle) {
+  const starters = {
+    science: ["", "In a science investigation", "For a lab discussion", "When checking a model", "In a science explanation", "When comparing evidence", "For a concept review"],
+    history: ["", "When studying historical evidence", "In a history discussion", "When comparing sources", "For a timeline review", "When analyzing the past", "In a civics or history lesson"],
+    space: ["", "In space science", "For a mission briefing", "When studying orbital motion", "In an astronomy discussion", "When comparing space objects", "For a solar system review"],
+    geography: ["", "When reading a map", "In a geography discussion", "When studying Earth's surface", "For a map skills review", "When comparing places", "In a landforms lesson"],
+    nature: ["", "In an ecology discussion", "When studying ecosystems", "For a nature science review", "When comparing organisms", "In an environment lesson", "When tracing a food web"],
+    technology: ["", "In a technology design review", "When thinking like an engineer", "For a computing discussion", "When comparing systems", "In a digital literacy lesson", "When testing a design"],
+  };
+  const starter = starters[category][cycle % starters[category].length];
 
-  if (age <= 10) {
-    return [
-      "{question}",
-      "Quick check: {question}",
-      "Choose the best answer: {question}",
-      "Learning review: {question}",
-      "Classroom warm-up: {question}",
-      "Fact check: {question}",
-      "Try this one: {question}",
-    ];
+  if (!starter) {
+    return stem;
   }
 
-  if (age <= 13) {
-    return [
-      "{question}",
-      "Concept check: {question}",
-      "Use what you know: {question}",
-      "Best evidence question: {question}",
-      "Middle-school review: {question}",
-      "Reasoning check: {question}",
-      "Choose the most accurate answer: {question}",
-    ];
-  }
-
-  if (age <= 16) {
-    return [
-      "{question}",
-      "Applied review: {question}",
-      "Analyze the concept: {question}",
-      "Select the most defensible answer: {question}",
-      "High-school checkpoint: {question}",
-      "Evidence-based check: {question}",
-      "Which answer is most accurate? {question}",
-    ];
-  }
-
-  return [
-    "{question}",
-    "Adult knowledge check: {question}",
-    "General literacy check: {question}",
-    "Select the strongest answer: {question}",
-    "Advanced review: {question}",
-    "Reasoned-choice question: {question}",
-    "Which answer is best supported? {question}",
-  ];
+  return `${starter}, ${lowerFirst(stem)}`;
 }
 
 function buildMathQuestionSet(ageGroup, targetCount) {
@@ -367,13 +333,8 @@ function difficultyFor(index, ageGroup) {
   return index < 3 ? "easy" : index < 8 ? "medium" : "hard";
 }
 
-function agePrefix(ageGroup, category) {
-  if (ageGroup === "18+") return category === "math" ? "Adult review: " : "Adult knowledge: ";
-  const age = Number(ageGroup);
-  if (age <= 10) return "";
-  if (age <= 13) return category === "math" ? "Think it through: " : "";
-  if (age <= 16) return category === "math" ? "Apply the concept: " : "Concept check: ";
-  return category === "math" ? "Advanced check: " : "Advanced concept: ";
+function lowerFirst(text) {
+  return text.charAt(0).toLowerCase() + text.slice(1);
 }
 
 export const questions = buildQuestions();
@@ -526,7 +487,6 @@ function render() {
   app.innerHTML = `
     ${state.mode === "setup" ? setupHero() : gameHeader()}
     <section class="workspace">
-      ${state.mode === "setup" ? toolbar() : ""}
       ${state.mode === "setup" ? setupPanel(available) : ""}
       ${state.mode === "quiz" ? quizPanel() : ""}
       ${state.mode === "results" ? resultsPanel() : ""}
@@ -543,6 +503,13 @@ function setupHero() {
           <p class="eyebrow">Ages 9 to 99</p>
           <h1 id="app-title">Quizzer</h1>
           <p class="hero-copy">Fast, smart quiz rounds in science, math, history, space, geography, nature, and technology.</p>
+          <div class="setup-meta" aria-label="Quizzer status">
+            <span>${bookIcon()} 5000 questions</span>
+            <span>${clockIcon()} Ready</span>
+            <button class="icon-button" type="button" data-action="mute" aria-label="${state.muted ? "Turn sound on" : "Turn sound off"}" title="${state.muted ? "Turn sound on" : "Turn sound off"}">
+              ${state.muted ? volumeOffIcon() : volumeIcon()}
+            </button>
+          </div>
         </div>
       </div>
       <div class="hero-visual" aria-hidden="true">
