@@ -380,7 +380,8 @@ export const questions = buildQuestions();
 validateQuestions(questions);
 
 const state = {
-  settings: { ageGroup: "12", category: "mixed", questionCount: 10 },
+  settings: { ageGroup: "12", category: "mixed", questionCount: 25 },
+  ageInput: "12",
   mode: "setup",
   quiz: [],
   answers: [],
@@ -393,6 +394,7 @@ const state = {
 const app = typeof document === "undefined" ? null : document.querySelector("#app");
 if (app) {
   app.addEventListener("click", handleClick);
+  app.addEventListener("input", handleInput);
   render();
 }
 
@@ -407,14 +409,40 @@ function handleClick(event) {
     render();
     return;
   }
-  if (action === "set-age") updateSetting({ ageGroup: button.dataset.value });
-  if (action === "set-count") updateSetting({ questionCount: Number(button.dataset.value) });
-  if (action === "set-category") updateSetting({ category: button.dataset.value });
+  if (action === "set-age") {
+    playTone("select");
+    updateSetting({ ageGroup: button.dataset.value });
+  }
+  if (action === "set-count") {
+    playTone("select");
+    updateSetting({ questionCount: Number(button.dataset.value) });
+  }
+  if (action === "set-category") {
+    playTone("select");
+    updateSetting({ category: button.dataset.value });
+  }
   if (action === "start") startQuiz();
   if (action === "answer") recordAnswer(state.quiz[state.currentIndex].shuffledChoices[Number(button.dataset.index)]);
   if (action === "next") advanceQuiz();
   if (action === "exit" || action === "new") resetQuiz();
   if (action === "retry") retryQuiz();
+}
+
+function handleInput(event) {
+  const input = event.target.closest("input");
+  if (!input || input.dataset.action !== "age-input") return;
+
+  const value = input.value;
+  state.ageInput = value;
+  const age = Number(value);
+
+  if (Number.isInteger(age) && age >= 9 && age <= 99) {
+    updateSetting({ ageGroup: age >= 18 ? "18+" : String(age) });
+    return;
+  }
+
+  state.error = value === "" ? "Enter an age from 9 to 99." : "Quizzer supports ages 9 to 99.";
+  render();
 }
 
 function updateSetting(next) {
@@ -494,23 +522,52 @@ function retryQuiz() {
 
 function render() {
   const available = availableQuestionCount();
+  app.className = `app-shell mode-${state.mode}`;
   app.innerHTML = `
-    <section class="intro-band" aria-labelledby="app-title">
-      <div class="brand-lockup">
-        <span class="brand-mark" aria-hidden="true">${sparkIcon()}</span>
-        <div>
-          <p class="eyebrow">Age-smart educational quizzes</p>
-          <h1 id="app-title">Quizzer</h1>
-        </div>
-      </div>
-      <div class="hero-visual" aria-hidden="true">${categoryScene(state.settings.category)}</div>
-    </section>
+    ${state.mode === "setup" ? setupHero() : gameHeader()}
     <section class="workspace">
-      ${toolbar()}
+      ${state.mode === "setup" ? toolbar() : ""}
       ${state.mode === "setup" ? setupPanel(available) : ""}
       ${state.mode === "quiz" ? quizPanel() : ""}
       ${state.mode === "results" ? resultsPanel() : ""}
     </section>
+  `;
+}
+
+function setupHero() {
+  return `
+    <section class="intro-band" aria-labelledby="app-title">
+      <div class="brand-lockup">
+        <span class="brand-mark" aria-hidden="true">${sparkIcon()}</span>
+        <div>
+          <p class="eyebrow">Ages 9 to 99</p>
+          <h1 id="app-title">Quizzer</h1>
+          <p class="hero-copy">Fast, smart quiz rounds in science, math, history, space, geography, nature, and technology.</p>
+        </div>
+      </div>
+      <div class="hero-visual" aria-hidden="true">
+        <img class="mascot-image" src="/assets/quizzer-orb.png" alt="" />
+      </div>
+    </section>
+  `;
+}
+
+function gameHeader() {
+  return `
+    <header class="game-header" aria-label="Quizzer session">
+      <div class="mini-brand">
+        <span class="mini-mark" aria-hidden="true">${sparkIcon()}</span>
+        <strong>Quizzer</strong>
+      </div>
+      <div class="session-pills">
+        <span>${state.settings.ageGroup === "18+" ? "18+" : `Age ${state.settings.ageGroup}`}</span>
+        <span>${state.settings.category === "mixed" ? "Mixed" : categoryLabels[state.settings.category]}</span>
+        <span>${state.settings.questionCount} questions</span>
+      </div>
+      <button class="icon-button" type="button" data-action="mute" aria-label="${state.muted ? "Turn sound on" : "Turn sound off"}" title="${state.muted ? "Turn sound on" : "Turn sound off"}">
+        ${state.muted ? volumeOffIcon() : volumeIcon()}
+      </button>
+    </header>
   `;
 }
 
@@ -536,10 +593,12 @@ function setupPanel(available) {
           <h2 id="setup-heading">Choose the quiz</h2>
         </div>
         <fieldset>
-          <legend>Age group</legend>
-          <div class="segmented age-grid">
-            ${ageGroups.map((age) => `<button class="${state.settings.ageGroup === age ? "active" : ""}" type="button" data-action="set-age" data-value="${age}">${age}</button>`).join("")}
-          </div>
+          <legend>Your age</legend>
+          <label class="age-entry">
+            <span>Ages 9 to 99</span>
+            <input data-action="age-input" type="number" min="9" max="99" inputmode="numeric" value="${escapeHtml(state.ageInput)}" aria-label="Enter your age" />
+          </label>
+          <p class="hint">Quizzer picks the closest age-appropriate bank automatically.</p>
         </fieldset>
         <fieldset>
           <legend>Questions</legend>
@@ -759,14 +818,37 @@ function retryIcon() {
   return `<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 12a9 9 0 1 0 3-6.7"/><path d="M3 3v6h6"/></svg>`;
 }
 
+const soundFiles = {
+  select: "/assets/sounds/select.m4a",
+  start: "/assets/sounds/select.m4a",
+  correct: "/assets/sounds/correct.m4a",
+  incorrect: "/assets/sounds/incorrect.m4a",
+  complete: "/assets/sounds/complete.m4a",
+};
+const soundPlayers = {};
+
 function playTone(tone) {
   if (state.muted) return;
+  if (typeof Audio !== "undefined" && soundFiles[tone]) {
+    const player = soundPlayers[tone] ?? new Audio(soundFiles[tone]);
+    soundPlayers[tone] = player;
+    player.pause();
+    player.currentTime = 0;
+    player.volume = tone === "incorrect" ? 0.26 : 0.34;
+    player.playbackRate = tone === "select" ? 1.25 : tone === "incorrect" ? 1.08 : 1;
+    player.play().catch(() => playSynthTone(tone));
+    return;
+  }
+  playSynthTone(tone);
+}
+
+function playSynthTone(tone) {
   const AudioContextClass = window.AudioContext || window.webkitAudioContext;
   if (!AudioContextClass) return;
   const context = new AudioContextClass();
   const oscillator = context.createOscillator();
   const gain = context.createGain();
-  const frequency = { start: 420, correct: 660, incorrect: 180, complete: 760 }[tone];
+  const frequency = { select: 520, start: 420, correct: 660, incorrect: 180, complete: 760 }[tone];
   const duration = tone === "complete" ? 0.28 : 0.16;
   oscillator.type = tone === "incorrect" ? "sawtooth" : "sine";
   oscillator.frequency.setValueAtTime(frequency, context.currentTime);

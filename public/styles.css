@@ -43,12 +43,12 @@ a {
 
 .intro-band {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(280px, 420px);
+  grid-template-columns: minmax(0, 1fr) minmax(260px, 360px);
   gap: 24px;
   align-items: center;
   width: min(1180px, calc(100% - 32px));
   margin: 0 auto;
-  padding: 28px 0 12px;
+  padding: 24px 0 10px;
 }
 
 .brand-lockup {
@@ -87,7 +87,7 @@ p {
 
 h1 {
   margin-bottom: 0;
-  font-size: clamp(2.8rem, 7vw, 5.8rem);
+  font-size: clamp(2.8rem, 7vw, 5.3rem);
   line-height: 0.92;
   letter-spacing: 0;
 }
@@ -106,7 +106,84 @@ h3 {
 }
 
 .hero-visual {
-  min-height: 210px;
+  display: grid;
+  min-height: 200px;
+  place-items: center;
+}
+
+.hero-copy {
+  max-width: 640px;
+  margin: 14px 0 0;
+  color: #34474d;
+  font-size: clamp(1rem, 2vw, 1.22rem);
+  font-weight: 750;
+  line-height: 1.38;
+}
+
+.mascot-image {
+  display: block;
+  width: min(360px, 100%);
+  aspect-ratio: 1;
+  object-fit: contain;
+  filter: drop-shadow(0 24px 34px rgba(22, 56, 61, 0.22));
+  animation: hover 3.8s ease-in-out infinite alternate;
+}
+
+.game-header {
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr) auto;
+  gap: 14px;
+  align-items: center;
+  width: min(1180px, calc(100% - 32px));
+  min-height: 58px;
+  margin: 0 auto;
+  padding: 8px 0;
+  background: rgba(238, 248, 249, 0.92);
+  backdrop-filter: blur(12px);
+}
+
+.mini-brand {
+  display: inline-flex;
+  gap: 8px;
+  align-items: center;
+  font-size: 1rem;
+}
+
+.mini-mark {
+  display: grid;
+  width: 34px;
+  height: 34px;
+  place-items: center;
+  color: #ffffff;
+  background: #176b72;
+  border-radius: 8px;
+}
+
+.mini-mark .icon {
+  width: 18px;
+  height: 18px;
+}
+
+.session-pills {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  min-width: 0;
+}
+
+.session-pills span {
+  min-height: 30px;
+  padding: 6px 10px;
+  color: #34474d;
+  background: rgba(255, 255, 255, 0.78);
+  border: 1px solid rgba(38, 50, 56, 0.12);
+  border-radius: 999px;
+  font-size: 0.82rem;
+  font-weight: 900;
 }
 
 .scene {
@@ -139,6 +216,11 @@ h3 {
   width: min(1180px, calc(100% - 32px));
   margin: 0 auto;
   padding: 12px 0 36px;
+}
+
+.mode-quiz .workspace,
+.mode-results .workspace {
+  padding-top: 4px;
 }
 
 .toolbar {
@@ -258,6 +340,36 @@ legend {
   background: #eef1f1;
 }
 
+.age-entry {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 112px;
+  gap: 12px;
+  align-items: center;
+  min-height: 62px;
+  padding: 10px 12px;
+  background: #f8faf8;
+  border: 1px solid rgba(38, 50, 56, 0.15);
+  border-radius: 8px;
+}
+
+.age-entry span {
+  color: #34474d;
+  font-weight: 900;
+}
+
+.age-entry input {
+  width: 100%;
+  min-height: 42px;
+  padding: 0 10px;
+  color: #176b72;
+  background: #ffffff;
+  border: 2px solid rgba(23, 107, 114, 0.22);
+  border-radius: 8px;
+  font-size: 1.35rem;
+  font-weight: 950;
+  text-align: center;
+}
+
 .hint {
   margin: 8px 0 0;
   color: #63767b;
@@ -362,6 +474,7 @@ legend {
 .results-panel {
   position: relative;
   overflow: hidden;
+  padding-top: 18px;
 }
 
 .quiz-topline,
@@ -678,6 +791,21 @@ legend {
     min-height: 0;
   }
 
+  .mascot-image {
+    width: min(260px, 72vw);
+  }
+
+  .game-header {
+    grid-template-columns: auto auto;
+  }
+
+  .session-pills {
+    grid-column: 1 / -1;
+    justify-content: flex-start;
+    overflow-x: auto;
+    padding-bottom: 2px;
+  }
+
   .toolbar {
     flex-wrap: wrap;
     justify-content: flex-start;
@@ -729,6 +857,10 @@ legend {
 
   .age-grid {
     grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .age-entry {
+    grid-template-columns: 1fr;
   }
 
   .count-grid {

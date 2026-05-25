@@ -33,6 +33,10 @@ npm run security:scan
 
 The scan checks source files, generated build output, and git history for common secret formats and conversational transcript markers.
 
+## Assets
+
+Image and sound asset notes are tracked in [ASSETS.md](ASSETS.md).
+
 ## Cloudflare Pages
 
 Use these Pages settings:
