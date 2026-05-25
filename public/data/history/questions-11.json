@@ -1,0 +1,362 @@
+[
+  {
+    "id": "history-11-0001",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which grievance document from 1776 also announced a new nation?",
+    "choices": [
+      "Declaration of Independence",
+      "Treaty of Versailles",
+      "Chinese Exclusion Act",
+      "Marshall Plan"
+    ],
+    "correctAnswer": "Declaration of Independence",
+    "explanation": "The Declaration both announced independence and explained the colonists' complaints.",
+    "sourceName": "National Archives - Declaration of Independence",
+    "sourceUrl": "https://www.archives.gov/founding-docs/declaration-transcript",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0002",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which part of the Constitution begins with “We the People”?",
+    "choices": [
+      "Preamble",
+      "Article III only",
+      "Bill of Rights",
+      "Signing statement"
+    ],
+    "correctAnswer": "Preamble",
+    "explanation": "The Preamble introduces the purposes of the Constitution.",
+    "sourceName": "National Archives - Constitution Transcript",
+    "sourceUrl": "https://www.archives.gov/founding-docs/constitution-transcript",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0003",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which amendment protects peaceful assembly and petition?",
+    "choices": [
+      "First Amendment",
+      "Fifth Amendment",
+      "Eighth Amendment",
+      "Twenty-Second Amendment"
+    ],
+    "correctAnswer": "First Amendment",
+    "explanation": "The First Amendment includes assembly and petition among its protected freedoms.",
+    "sourceName": "National Archives - Bill of Rights Transcript",
+    "sourceUrl": "https://www.archives.gov/founding-docs/bill-of-rights-transcript",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0004",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Why was the Nile important to ancient Egypt?",
+    "choices": [
+      "It supported farming and settlement",
+      "It separated Egypt from all trade",
+      "It was the capital city",
+      "It replaced writing"
+    ],
+    "correctAnswer": "It supported farming and settlement",
+    "explanation": "The Nile Valley was central to agriculture, travel, and daily life.",
+    "sourceName": "British Museum - Ancient Egypt",
+    "sourceUrl": "https://www.britishmuseum.org/learn/schools/ages-7-11/ancient-egypt",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0005",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "What made the Rosetta Stone useful for decoding hieroglyphs?",
+    "choices": [
+      "It carried related text in multiple scripts",
+      "It was written only in Latin",
+      "It listed Roman emperors",
+      "It was a map of Athens"
+    ],
+    "correctAnswer": "It carried related text in multiple scripts",
+    "explanation": "Comparing scripts helped scholars connect known Greek with Egyptian scripts.",
+    "sourceName": "British Museum - Rosetta Stone",
+    "sourceUrl": "https://www.britishmuseum.org/blog/everything-you-ever-wanted-know-about-rosetta-stone",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0006",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "On the Silk Road, what could move along with silk and spices?",
+    "choices": [
+      "Religious and technological ideas",
+      "Modern telephones",
+      "Railroad engines",
+      "Airplane tickets"
+    ],
+    "correctAnswer": "Religious and technological ideas",
+    "explanation": "Trade routes helped ideas and beliefs spread between societies.",
+    "sourceName": "National Geographic Education - Ideas on the Move: Silk Road",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/ideas-on-the-move/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0007",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which feature fits the Roman Republic?",
+    "choices": [
+      "Representative government",
+      "Rule by pharaohs",
+      "No public offices",
+      "Direct rule by Britain"
+    ],
+    "correctAnswer": "Representative government",
+    "explanation": "Roman citizens elected officials who carried out government roles.",
+    "sourceName": "National Geographic Education - Roman Republic",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/roman-republic/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0008",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Ancient Greek democracy differed from modern U.S. democracy because Athens expected citizens to do what?",
+    "choices": [
+      "Participate directly in government",
+      "Avoid all public meetings",
+      "Serve a king for life",
+      "Vote by mail only"
+    ],
+    "correctAnswer": "Participate directly in government",
+    "explanation": "Athenian democracy involved direct participation by eligible citizens.",
+    "sourceName": "National Geographic Education - Democracy in Ancient Greece",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/democracy-ancient-greece/Wikipedia/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0009",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was one limit of the Emancipation Proclamation?",
+    "choices": [
+      "It applied to areas in rebellion, not every state",
+      "It ended the Constitution",
+      "It created the Senate",
+      "It bought western land"
+    ],
+    "correctAnswer": "It applied to areas in rebellion, not every state",
+    "explanation": "The proclamation was a wartime measure and did not by itself abolish slavery everywhere.",
+    "sourceName": "National Archives - Emancipation Proclamation",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/emancipation-proclamation",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0010",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which three amendments are often grouped as Reconstruction amendments?",
+    "choices": [
+      "13th, 14th, and 15th",
+      "1st, 2nd, and 3rd",
+      "16th, 17th, and 18th",
+      "21st, 22nd, and 23rd"
+    ],
+    "correctAnswer": "13th, 14th, and 15th",
+    "explanation": "The 13th, 14th, and 15th Amendments addressed slavery, citizenship, equal protection, and voting after the Civil War.",
+    "sourceName": "National Archives - 13th Amendment",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/13th-amendment",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0011",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What promise is central to the 14th Amendment's Equal Protection Clause?",
+    "choices": [
+      "Equal protection of the laws",
+      "Free public land for settlers",
+      "A two-term presidency",
+      "Direct election of senators"
+    ],
+    "correctAnswer": "Equal protection of the laws",
+    "explanation": "The 14th Amendment requires states to provide equal protection to people in their jurisdiction.",
+    "sourceName": "National Archives - 14th Amendment",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/14th-amendment",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0012",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What did the 15th Amendment not fully achieve on its own?",
+    "choices": [
+      "A lasting end to voting discrimination",
+      "A ban on slavery",
+      "Creation of Congress",
+      "Purchase of Louisiana"
+    ],
+    "correctAnswer": "A lasting end to voting discrimination",
+    "explanation": "Later discriminatory rules still blocked many African Americans from voting until further action.",
+    "sourceName": "National Archives - 15th Amendment",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/15th-amendment",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0013",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which movement used petitions, marches, lobbying, and other tactics to win a constitutional amendment?",
+    "choices": [
+      "Woman suffrage movement",
+      "Market Revolution",
+      "Lewis and Clark expedition",
+      "Space race"
+    ],
+    "correctAnswer": "Woman suffrage movement",
+    "explanation": "Suffrage supporters used different methods over decades before the 19th Amendment was ratified.",
+    "sourceName": "Library of Congress - Women's Suffrage",
+    "sourceUrl": "https://www.loc.gov/classroom-materials/womens-suffrage-their-rights-and-nothing-less/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0014",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which war-era evidence type does the Library of Congress lesson on Civil War women use?",
+    "choices": [
+      "Diaries, letters, and photographs",
+      "Satellite images only",
+      "Modern product labels",
+      "Weather radar"
+    ],
+    "correctAnswer": "Diaries, letters, and photographs",
+    "explanation": "The lesson uses firsthand records to study women's experiences during the Civil War.",
+    "sourceName": "Library of Congress - Women in the Civil War",
+    "sourceUrl": "https://www.loc.gov/classroom-materials/women-in-the-civil-war-ladies-contraband-and-spies/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0015",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What did the Homestead Act require from claimants besides eligibility?",
+    "choices": [
+      "Settlement and cultivation of land",
+      "Owning a factory",
+      "Serving in Congress",
+      "Publishing a newspaper"
+    ],
+    "correctAnswer": "Settlement and cultivation of land",
+    "explanation": "Claimants had to meet residence and cultivation requirements before receiving title.",
+    "sourceName": "National Archives - Homestead Act",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/homestead-act",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0016",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "What policy idea was central to the Dawes Act?",
+    "choices": [
+      "Breaking reservation land into individual allotments",
+      "Creating a national bank",
+      "Ending all immigration",
+      "Ratifying women's suffrage"
+    ],
+    "correctAnswer": "Breaking reservation land into individual allotments",
+    "explanation": "The Dawes Act treated Native people as individual landholders rather than tribal communities.",
+    "sourceName": "National Archives - Dawes Act",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/dawes-act",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0017",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Why is the Chinese Exclusion Act significant in immigration history?",
+    "choices": [
+      "It was a major federal law restricting immigration by nationality and labor status",
+      "It expanded voting rights",
+      "It created Social Security",
+      "It ended the Civil War"
+    ],
+    "correctAnswer": "It was a major federal law restricting immigration by nationality and labor status",
+    "explanation": "The law sharply restricted Chinese laborers and affected Chinese immigrants' rights.",
+    "sourceName": "National Archives - Chinese Exclusion Act",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/chinese-exclusion-act",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0018",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "What was one New Deal goal shown by the Social Security Act?",
+    "choices": [
+      "Increase economic security for older and unemployed people",
+      "Purchase territory from France",
+      "Create the Roman Republic",
+      "Translate hieroglyphs"
+    ],
+    "correctAnswer": "Increase economic security for older and unemployed people",
+    "explanation": "The act created programs connected to old-age benefits and unemployment compensation.",
+    "sourceName": "National Archives - Social Security Act",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/social-security-act",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0019",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which civil rights law was signed one year before the Voting Rights Act?",
+    "choices": [
+      "Civil Rights Act of 1964",
+      "Homestead Act",
+      "Dawes Act",
+      "Louisiana Purchase Treaty"
+    ],
+    "correctAnswer": "Civil Rights Act of 1964",
+    "explanation": "The Civil Rights Act of 1964 addressed discrimination before Congress passed the Voting Rights Act in 1965.",
+    "sourceName": "National Archives - Civil Rights Act",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/civil-rights-act",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0020",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Why should a historian compare several primary sources about one event?",
+    "choices": [
+      "To see different perspectives and test claims",
+      "To make all evidence identical",
+      "To erase difficult details",
+      "To avoid asking questions"
+    ],
+    "correctAnswer": "To see different perspectives and test claims",
+    "explanation": "Multiple sources can reveal context, bias, agreement, and disagreement.",
+    "sourceName": "Library of Congress - Getting Started with Primary Sources",
+    "sourceUrl": "https://www.loc.gov/programs/teachers/getting-started-with-primary-sources/",
+    "reviewStatus": "reviewed"
+  }
+]

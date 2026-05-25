@@ -1,0 +1,362 @@
+[
+  {
+    "id": "history-10-0001",
+    "ageGroup": "10",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "What did the Declaration of Independence give as reasons for?",
+    "choices": [
+      "Separation from Great Britain",
+      "Building the Erie Canal",
+      "Creating the United Nations",
+      "Starting the Roman Republic"
+    ],
+    "correctAnswer": "Separation from Great Britain",
+    "explanation": "The Declaration stated political ideas and grievances behind independence.",
+    "sourceName": "National Archives - Declaration of Independence",
+    "sourceUrl": "https://www.archives.gov/founding-docs/declaration-transcript",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-10-0002",
+    "ageGroup": "10",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which branch of government does Article I of the U.S. Constitution create?",
+    "choices": [
+      "Congress",
+      "Supreme Court only",
+      "President only",
+      "State governors"
+    ],
+    "correctAnswer": "Congress",
+    "explanation": "Article I vests legislative powers in Congress.",
+    "sourceName": "National Archives - Constitution Transcript",
+    "sourceUrl": "https://www.archives.gov/founding-docs/constitution-transcript",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-10-0003",
+    "ageGroup": "10",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which First Amendment freedom protects the right to publish news and opinions?",
+    "choices": [
+      "Freedom of the press",
+      "Right to quarter troops",
+      "Right to a jury in civil cases",
+      "Right to coin money"
+    ],
+    "correctAnswer": "Freedom of the press",
+    "explanation": "The First Amendment protects speech, religion, press, assembly, and petition.",
+    "sourceName": "National Archives - Bill of Rights Transcript",
+    "sourceUrl": "https://www.archives.gov/founding-docs/bill-of-rights-transcript",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-10-0004",
+    "ageGroup": "10",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "The Rosetta Stone included Egyptian hieroglyphs, demotic writing, and which language?",
+    "choices": [
+      "Ancient Greek",
+      "Latin",
+      "Sanskrit",
+      "Old English"
+    ],
+    "correctAnswer": "Ancient Greek",
+    "explanation": "Greek helped scholars compare the scripts and work toward reading Egyptian writing.",
+    "sourceName": "British Museum - Rosetta Stone",
+    "sourceUrl": "https://www.britishmuseum.org/blog/everything-you-ever-wanted-know-about-rosetta-stone",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-10-0005",
+    "ageGroup": "10",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which Egyptian writing system used picture signs?",
+    "choices": [
+      "Hieroglyphs",
+      "Cuneiform",
+      "Runes",
+      "Morse code"
+    ],
+    "correctAnswer": "Hieroglyphs",
+    "explanation": "Hieroglyphs were one form of ancient Egyptian writing.",
+    "sourceName": "British Museum - Hieroglyphs Resources",
+    "sourceUrl": "https://www.britishmuseum.org/hieroglyphs-resources",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-10-0006",
+    "ageGroup": "10",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "What kind of cultural change did Silk Road trade encourage?",
+    "choices": [
+      "Exchange of ideas among regions",
+      "Isolation of every city",
+      "End of all travel",
+      "Replacement of farming with mining"
+    ],
+    "correctAnswer": "Exchange of ideas among regions",
+    "explanation": "Trade routes carried religions, technologies, art, and stories as well as goods.",
+    "sourceName": "National Geographic Education - Ideas on the Move: Silk Road",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/ideas-on-the-move/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-10-0007",
+    "ageGroup": "10",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "In ancient Athens, the word democracy was linked to which idea?",
+    "choices": [
+      "Rule by the people",
+      "Rule by one emperor",
+      "Rule by hereditary nobles only",
+      "Rule by foreign governors"
+    ],
+    "correctAnswer": "Rule by the people",
+    "explanation": "Democracy comes from Greek ideas about people taking part in government.",
+    "sourceName": "National Geographic Education - Democracy in Ancient Greece",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/democracy-ancient-greece/Wikipedia/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-10-0008",
+    "ageGroup": "10",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "The Roman Republic lasted before which later form of Roman rule?",
+    "choices": [
+      "Roman Empire",
+      "United States Congress",
+      "Ottoman Empire",
+      "British Parliament"
+    ],
+    "correctAnswer": "Roman Empire",
+    "explanation": "The republic period came before Rome became an empire.",
+    "sourceName": "National Geographic Education - Roman Republic",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/roman-republic/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-10-0009",
+    "ageGroup": "10",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What changed after Lincoln issued the Emancipation Proclamation?",
+    "choices": [
+      "The Union war effort included freedom as a central goal",
+      "The Civil War immediately ended",
+      "All amendments were canceled",
+      "The United States bought Louisiana"
+    ],
+    "correctAnswer": "The Union war effort included freedom as a central goal",
+    "explanation": "The proclamation helped transform the Civil War into a fight tied directly to freedom.",
+    "sourceName": "National Archives - Emancipation Proclamation",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/emancipation-proclamation",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-10-0010",
+    "ageGroup": "10",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which amendment granted citizenship to people born or naturalized in the United States?",
+    "choices": [
+      "14th Amendment",
+      "3rd Amendment",
+      "12th Amendment",
+      "21st Amendment"
+    ],
+    "correctAnswer": "14th Amendment",
+    "explanation": "The 14th Amendment defined national citizenship after the Civil War.",
+    "sourceName": "National Archives - 14th Amendment",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/14th-amendment",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-10-0011",
+    "ageGroup": "10",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which amendment said voting rights could not be denied because of race, color, or previous condition of servitude?",
+    "choices": [
+      "15th Amendment",
+      "2nd Amendment",
+      "13th Amendment",
+      "22nd Amendment"
+    ],
+    "correctAnswer": "15th Amendment",
+    "explanation": "The 15th Amendment was a Reconstruction amendment about voting rights.",
+    "sourceName": "National Archives - 15th Amendment",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/15th-amendment",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-10-0012",
+    "ageGroup": "10",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "The 19th Amendment was ratified in which year?",
+    "choices": [
+      "1920",
+      "1776",
+      "1865",
+      "1965"
+    ],
+    "correctAnswer": "1920",
+    "explanation": "The amendment became part of the Constitution in 1920.",
+    "sourceName": "National Archives - 19th Amendment",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/19th-amendment",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-10-0013",
+    "ageGroup": "10",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Why do historians ask who created a source?",
+    "choices": [
+      "To understand point of view and context",
+      "To avoid reading the source",
+      "To make every source agree",
+      "To remove dates from history"
+    ],
+    "correctAnswer": "To understand point of view and context",
+    "explanation": "A source creator's purpose and perspective can shape what evidence shows.",
+    "sourceName": "Library of Congress - Getting Started with Primary Sources",
+    "sourceUrl": "https://www.loc.gov/programs/teachers/getting-started-with-primary-sources/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-10-0014",
+    "ageGroup": "10",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "The Louisiana Purchase was made from which country?",
+    "choices": [
+      "France",
+      "Spain",
+      "Mexico",
+      "Canada"
+    ],
+    "correctAnswer": "France",
+    "explanation": "The 1803 treaty transferred Louisiana from France to the United States.",
+    "sourceName": "National Archives - Louisiana Purchase Treaty",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/louisiana-purchase-treaty",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-10-0015",
+    "ageGroup": "10",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What did the Chinese Exclusion Act of 1882 restrict?",
+    "choices": [
+      "Chinese labor immigration to the United States",
+      "Voting by women nationwide",
+      "The sale of public land",
+      "The creation of factories"
+    ],
+    "correctAnswer": "Chinese labor immigration to the United States",
+    "explanation": "The act was a major federal restriction on Chinese immigration.",
+    "sourceName": "National Archives - Chinese Exclusion Act",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/chinese-exclusion-act",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-10-0016",
+    "ageGroup": "10",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which event is often named as the start of the modern civil rights movement period covered by NPS resources?",
+    "choices": [
+      "Brown v. Board of Education",
+      "Louisiana Purchase",
+      "Declaration of Independence",
+      "Marshall Plan"
+    ],
+    "correctAnswer": "Brown v. Board of Education",
+    "explanation": "The NPS frames 1954-1964 civil rights history around school desegregation and mass protest.",
+    "sourceName": "National Park Service - Modern Civil Rights Movement",
+    "sourceUrl": "https://www.nps.gov/subjects/civilrights/modern-civil-rights-movement.htm/index.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-10-0017",
+    "ageGroup": "10",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "What did the Voting Rights Act of 1965 outlaw as a barrier used in many southern states?",
+    "choices": [
+      "Literacy tests for voting",
+      "Postal stamps",
+      "Public libraries",
+      "National parks"
+    ],
+    "correctAnswer": "Literacy tests for voting",
+    "explanation": "The act attacked discriminatory voting rules such as literacy tests.",
+    "sourceName": "National Archives - Voting Rights Act",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/voting-rights-act",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-10-0018",
+    "ageGroup": "10",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "The Social Security Act of 1935 was passed during which broader crisis?",
+    "choices": [
+      "Great Depression",
+      "American Revolution",
+      "War of 1812",
+      "Gold Rush"
+    ],
+    "correctAnswer": "Great Depression",
+    "explanation": "The law was part of New Deal responses to economic insecurity during the Great Depression era.",
+    "sourceName": "National Archives - Social Security Act",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/social-security-act",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-10-0019",
+    "ageGroup": "10",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which canal is mentioned by the Smithsonian as a transportation example in the Market Revolution?",
+    "choices": [
+      "Erie Canal",
+      "Panama Canal",
+      "Suez Canal",
+      "Grand Canal of China"
+    ],
+    "correctAnswer": "Erie Canal",
+    "explanation": "The Erie Canal helped move goods to more distant markets in the 1800s.",
+    "sourceName": "Smithsonian National Museum of American History - A Market Revolution",
+    "sourceUrl": "https://americanhistory.si.edu/explore/exhibitions/american-revolution-world-war/online/market-revolution",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-10-0020",
+    "ageGroup": "10",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "What does the Library of Congress call original documents and objects created at the time under study?",
+    "choices": [
+      "Raw materials of history",
+      "Secondary summaries",
+      "Future predictions",
+      "Fictional settings"
+    ],
+    "correctAnswer": "Raw materials of history",
+    "explanation": "Primary sources are the evidence historians use to investigate the past.",
+    "sourceName": "Library of Congress - Getting Started with Primary Sources",
+    "sourceUrl": "https://www.loc.gov/programs/teachers/getting-started-with-primary-sources/",
+    "reviewStatus": "reviewed"
+  }
+]

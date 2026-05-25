@@ -1,0 +1,362 @@
+[
+  {
+    "id": "history-15-0001",
+    "ageGroup": "15",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which political idea in the Declaration challenges rule by hereditary monarchy?",
+    "choices": [
+      "People may alter or abolish destructive government",
+      "Kings rule by divine right only",
+      "Citizens cannot petition",
+      "Colonies cannot write grievances"
+    ],
+    "correctAnswer": "People may alter or abolish destructive government",
+    "explanation": "The Declaration argues that people can change a government that violates rights.",
+    "sourceName": "National Archives - Declaration of Independence",
+    "sourceUrl": "https://www.archives.gov/founding-docs/declaration-transcript",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-15-0002",
+    "ageGroup": "15",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "What does federalism divide?",
+    "choices": [
+      "Power between national and state governments",
+      "Scripts on the Rosetta Stone",
+      "Silk Road caravan routes",
+      "Factory assembly lines"
+    ],
+    "correctAnswer": "Power between national and state governments",
+    "explanation": "The Constitution creates a federal system with national and state authority.",
+    "sourceName": "National Archives - Constitution Transcript",
+    "sourceUrl": "https://www.archives.gov/founding-docs/constitution-transcript",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-15-0003",
+    "ageGroup": "15",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which amendment reserves undelegated powers to the states or the people?",
+    "choices": [
+      "Tenth Amendment",
+      "First Amendment",
+      "Fourth Amendment",
+      "Fifteenth Amendment"
+    ],
+    "correctAnswer": "Tenth Amendment",
+    "explanation": "The Tenth Amendment addresses powers not delegated to the federal government.",
+    "sourceName": "National Archives - Bill of Rights Transcript",
+    "sourceUrl": "https://www.archives.gov/founding-docs/bill-of-rights-transcript",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-15-0004",
+    "ageGroup": "15",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "How did the Rosetta Stone change study of ancient Egypt?",
+    "choices": [
+      "It provided a key to deciphering hieroglyphs",
+      "It ended the Roman Republic",
+      "It started the U.S. Civil War",
+      "It wrote the Bill of Rights"
+    ],
+    "correctAnswer": "It provided a key to deciphering hieroglyphs",
+    "explanation": "Once scholars could read hieroglyphs, many more Egyptian records became usable evidence.",
+    "sourceName": "British Museum - Hieroglyphs Resources",
+    "sourceUrl": "https://www.britishmuseum.org/hieroglyphs-resources",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-15-0005",
+    "ageGroup": "15",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "What does the Ptolemaic period show about Egypt after Alexander?",
+    "choices": [
+      "Greek-speaking rulers governed Egypt",
+      "Egypt became a U.S. territory",
+      "Rome became a democracy",
+      "The Nile dried up"
+    ],
+    "correctAnswer": "Greek-speaking rulers governed Egypt",
+    "explanation": "The British Museum timeline describes Greek rule under Ptolemy and his descendants.",
+    "sourceName": "British Museum - Timeline of Ancient Egypt",
+    "sourceUrl": "https://www.britishmuseum.org/learn/schools/ages-7-11/ancient-egypt/timeline-ancient-egypt",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-15-0006",
+    "ageGroup": "15",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which process best explains Buddhism spreading along Silk Road routes?",
+    "choices": [
+      "Cultural diffusion",
+      "Judicial review",
+      "Nullification",
+      "Allotment"
+    ],
+    "correctAnswer": "Cultural diffusion",
+    "explanation": "Religions spread when travelers and communities exchanged ideas across regions.",
+    "sourceName": "National Geographic Education - Ideas on the Move: Silk Road",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/ideas-on-the-move/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-15-0007",
+    "ageGroup": "15",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "What is “representative democracy” in the Roman Republic context?",
+    "choices": [
+      "Citizens chose officials to represent them",
+      "Every resident voted on every law",
+      "A pharaoh chose every official",
+      "No public offices existed"
+    ],
+    "correctAnswer": "Citizens chose officials to represent them",
+    "explanation": "The Roman Republic included elected offices that represented citizens.",
+    "sourceName": "National Geographic Education - Roman Republic",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/roman-republic/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-15-0008",
+    "ageGroup": "15",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "What was a key limit of Athenian democracy?",
+    "choices": [
+      "Citizenship was restricted and many residents were excluded",
+      "No citizens took part",
+      "It had no public meetings",
+      "It used a modern constitution"
+    ],
+    "correctAnswer": "Citizenship was restricted and many residents were excluded",
+    "explanation": "Ancient Athenian democracy was direct but not broadly inclusive by modern standards.",
+    "sourceName": "National Geographic Education - Democracy in Ancient Greece",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/democracy-ancient-greece/Wikipedia/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-15-0009",
+    "ageGroup": "15",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "How did the Emancipation Proclamation affect foreign policy?",
+    "choices": [
+      "It made foreign support for the Confederacy harder to justify",
+      "It created NATO",
+      "It transferred Louisiana",
+      "It ended all trade with Europe"
+    ],
+    "correctAnswer": "It made foreign support for the Confederacy harder to justify",
+    "explanation": "By making freedom a Union war aim, it complicated British and French recognition of the Confederacy.",
+    "sourceName": "National Archives - Emancipation Proclamation",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/emancipation-proclamation",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-15-0010",
+    "ageGroup": "15",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Why did Lincoln support a constitutional amendment after the proclamation?",
+    "choices": [
+      "A constitutional amendment could end slavery nationally and permanently",
+      "The proclamation had repealed Congress",
+      "The amendment would buy territory",
+      "The Supreme Court had closed"
+    ],
+    "correctAnswer": "A constitutional amendment could end slavery nationally and permanently",
+    "explanation": "Lincoln saw that emancipation needed a constitutional solution beyond a wartime order.",
+    "sourceName": "National Archives - 13th Amendment",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/13th-amendment",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-15-0011",
+    "ageGroup": "15",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which 14th Amendment concept later helped apply parts of the Bill of Rights to states?",
+    "choices": [
+      "Due process",
+      "Quartering",
+      "Naturalization quotas",
+      "Severalty"
+    ],
+    "correctAnswer": "Due process",
+    "explanation": "The due process clause became central to later incorporation of rights against states.",
+    "sourceName": "National Archives - 14th Amendment",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/14th-amendment",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-15-0012",
+    "ageGroup": "15",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Why did Reconstruction voting gains erode after the 15th Amendment?",
+    "choices": [
+      "Southern states adopted barriers and segregation systems",
+      "The amendment expired in 1880",
+      "Congress abolished elections",
+      "The Roman Republic returned"
+    ],
+    "correctAnswer": "Southern states adopted barriers and segregation systems",
+    "explanation": "Literacy tests, grandfather clauses, and intimidation undermined voting rights.",
+    "sourceName": "National Archives - 15th Amendment",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/15th-amendment",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-15-0013",
+    "ageGroup": "15",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which strategy difference divided parts of the woman suffrage movement?",
+    "choices": [
+      "State-by-state laws versus a national amendment",
+      "Factories versus farms",
+      "Greek versus demotic scripts",
+      "Canals versus railroads only"
+    ],
+    "correctAnswer": "State-by-state laws versus a national amendment",
+    "explanation": "Some suffragists worked through individual states while others emphasized federal constitutional change.",
+    "sourceName": "National Archives - 19th Amendment",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/19th-amendment",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-15-0014",
+    "ageGroup": "15",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which ruling did Brown v. Board challenge in practice?",
+    "choices": [
+      "Separate but equal school segregation",
+      "Consent of the governed",
+      "Federal land allotment",
+      "Lend-Lease aid"
+    ],
+    "correctAnswer": "Separate but equal school segregation",
+    "explanation": "Brown rejected the constitutionality of segregated public education.",
+    "sourceName": "National Park Service - Brown v. Board of Education",
+    "sourceUrl": "https://www.nps.gov/brvb/planyourvisit/the-story-of-brown.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-15-0015",
+    "ageGroup": "15",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What did the Voting Rights Act authorize to address local discrimination?",
+    "choices": [
+      "Federal enforcement of voting rights",
+      "Purchase of private factories",
+      "A ban on primary sources",
+      "Creation of Roman assemblies"
+    ],
+    "correctAnswer": "Federal enforcement of voting rights",
+    "explanation": "The act gave the federal government tools to stop discriminatory voting practices.",
+    "sourceName": "National Archives - Voting Rights Act",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/voting-rights-act",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-15-0016",
+    "ageGroup": "15",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "What was the economic purpose of the Marshall Plan?",
+    "choices": [
+      "Restore postwar European productive capacity and stability",
+      "Finance the Louisiana Purchase",
+      "Create the Homestead Act",
+      "Fund ancient trade caravans"
+    ],
+    "correctAnswer": "Restore postwar European productive capacity and stability",
+    "explanation": "The plan used U.S. aid to rebuild European economies after World War II.",
+    "sourceName": "National Archives - Marshall Plan",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/marshall-plan",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-15-0017",
+    "ageGroup": "15",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "How did Lend-Lease revise U.S. neutrality before Pearl Harbor?",
+    "choices": [
+      "It allowed material aid to countries whose defense mattered to the United States",
+      "It declared war on every Axis power immediately",
+      "It abolished the Navy",
+      "It ended defense production"
+    ],
+    "correctAnswer": "It allowed material aid to countries whose defense mattered to the United States",
+    "explanation": "The act moved the United States toward active support for Allied defense without a formal war declaration.",
+    "sourceName": "National Archives - Lend-Lease Act",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/lend-lease-act",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-15-0018",
+    "ageGroup": "15",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Why is the Chinese Exclusion Act often studied with documents about identity papers?",
+    "choices": [
+      "The law required certificates and documentation for enforcement",
+      "It ended all recordkeeping",
+      "It created passports for Roman citizens",
+      "It replaced all court records"
+    ],
+    "correctAnswer": "The law required certificates and documentation for enforcement",
+    "explanation": "Enforcement relied on certificates and records used to identify Chinese travelers and residents.",
+    "sourceName": "National Archives - Chinese Exclusion Act",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/chinese-exclusion-act",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-15-0019",
+    "ageGroup": "15",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "What was one effect of the Social Security Act on federal-state relations?",
+    "choices": [
+      "It created cooperative programs with federal standards and state administration",
+      "It ended all state government",
+      "It gave states power over foreign policy",
+      "It banned unemployment compensation"
+    ],
+    "correctAnswer": "It created cooperative programs with federal standards and state administration",
+    "explanation": "Social Security involved national legislation with state roles in some programs.",
+    "sourceName": "National Archives - Social Security Act",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/social-security-act",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-15-0020",
+    "ageGroup": "15",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which question best evaluates a primary source's reliability?",
+    "choices": [
+      "What was the creator's purpose and access to information?",
+      "Does it use modern font?",
+      "Is it the shortest source?",
+      "Does it avoid dates?"
+    ],
+    "correctAnswer": "What was the creator's purpose and access to information?",
+    "explanation": "Reliability depends on context, purpose, perspective, and evidence, not appearance alone.",
+    "sourceName": "Library of Congress - Getting Started with Primary Sources",
+    "sourceUrl": "https://www.loc.gov/programs/teachers/getting-started-with-primary-sources/",
+    "reviewStatus": "reviewed"
+  }
+]

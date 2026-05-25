@@ -1,0 +1,362 @@
+[
+  {
+    "id": "history-16-0001",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which Declaration idea influenced later democratic movements beyond the United States?",
+    "choices": [
+      "Government should secure natural rights",
+      "Empires should forbid petitions",
+      "Only nobles may own land",
+      "Trade routes should choose leaders"
+    ],
+    "correctAnswer": "Government should secure natural rights",
+    "explanation": "The Declaration expressed rights-based arguments that later reformers cited.",
+    "sourceName": "National Archives - Declaration of Independence",
+    "sourceUrl": "https://www.archives.gov/founding-docs/declaration-transcript",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0002",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which constitutional mechanism makes treaties part of federal authority?",
+    "choices": [
+      "The treaty-making power with Senate involvement",
+      "The Bill of Rights alone",
+      "State court appointments",
+      "Athenian assemblies"
+    ],
+    "correctAnswer": "The treaty-making power with Senate involvement",
+    "explanation": "The Constitution gives the President treaty power with the advice and consent of the Senate.",
+    "sourceName": "National Archives - Constitution Transcript",
+    "sourceUrl": "https://www.archives.gov/founding-docs/constitution-transcript",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0003",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Why is the Bill of Rights historically significant?",
+    "choices": [
+      "It added explicit protections for individual liberties",
+      "It bought territory from France",
+      "It created the Roman Republic",
+      "It translated hieroglyphs"
+    ],
+    "correctAnswer": "It added explicit protections for individual liberties",
+    "explanation": "The first ten amendments place limits on government and protect rights.",
+    "sourceName": "National Archives - Bill of Rights Transcript",
+    "sourceUrl": "https://www.archives.gov/founding-docs/bill-of-rights-transcript",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0004",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "What kind of source is the Rosetta Stone?",
+    "choices": [
+      "An artifact with inscriptions",
+      "A secondary textbook chapter",
+      "A modern podcast",
+      "A weather station"
+    ],
+    "correctAnswer": "An artifact with inscriptions",
+    "explanation": "The stone is a physical primary source carrying ancient written evidence.",
+    "sourceName": "British Museum - Rosetta Stone",
+    "sourceUrl": "https://www.britishmuseum.org/blog/everything-you-ever-wanted-know-about-rosetta-stone",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0005",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Why do historians connect scripts to state power in ancient Egypt?",
+    "choices": [
+      "Administrative scripts helped governments record decrees and business",
+      "Scripts prevented tax records",
+      "Only songs used writing",
+      "Writing had no public use"
+    ],
+    "correctAnswer": "Administrative scripts helped governments record decrees and business",
+    "explanation": "British Museum resources discuss scripts used for official and everyday administration.",
+    "sourceName": "British Museum - Hieroglyphs Resources",
+    "sourceUrl": "https://www.britishmuseum.org/hieroglyphs-resources",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0006",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "How did Silk Road exchange affect technology?",
+    "choices": [
+      "Inventions such as papermaking and the compass spread beyond their origins",
+      "Technology stopped at borders",
+      "Only coins moved",
+      "No travelers exchanged knowledge"
+    ],
+    "correctAnswer": "Inventions such as papermaking and the compass spread beyond their origins",
+    "explanation": "National Geographic notes that technologies traveled with goods and people.",
+    "sourceName": "National Geographic Education - Ideas on the Move: Silk Road",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/ideas-on-the-move/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0007",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Why did Rome's republican system matter to later political thought?",
+    "choices": [
+      "It offered an early model of representative government",
+      "It abolished all armies",
+      "It invented hieroglyphs",
+      "It required universal suffrage"
+    ],
+    "correctAnswer": "It offered an early model of representative government",
+    "explanation": "The Roman Republic became a reference point for later republics and constitutional design.",
+    "sourceName": "National Geographic Education - Roman Republic",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/roman-republic/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0008",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Why is Athenian democracy both influential and limited?",
+    "choices": [
+      "It advanced citizen rule while excluding many people",
+      "It had no elections or public debate",
+      "It governed all of Europe",
+      "It guaranteed modern equal rights"
+    ],
+    "correctAnswer": "It advanced citizen rule while excluding many people",
+    "explanation": "Athens influenced democratic ideas but restricted participation to a limited citizen body.",
+    "sourceName": "National Geographic Education - Democracy in Ancient Greece",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/democracy-ancient-greece/Wikipedia/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0009",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was the military logic behind the Emancipation Proclamation?",
+    "choices": [
+      "It used presidential war powers to weaken rebellion",
+      "It used the commerce clause to set tariffs",
+      "It created a peacetime land office",
+      "It dissolved state governments"
+    ],
+    "correctAnswer": "It used presidential war powers to weaken rebellion",
+    "explanation": "Lincoln issued it as commander in chief during armed rebellion.",
+    "sourceName": "National Archives - Emancipation Proclamation",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/emancipation-proclamation",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0010",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What constitutional problem did the 13th Amendment solve more fully than the proclamation?",
+    "choices": [
+      "Permanent abolition across the whole country",
+      "Direct election of senators",
+      "Women's suffrage",
+      "Judicial tenure"
+    ],
+    "correctAnswer": "Permanent abolition across the whole country",
+    "explanation": "The amendment made abolition part of the Constitution and not dependent on wartime occupation.",
+    "sourceName": "National Archives - 13th Amendment",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/13th-amendment",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0011",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Why is the 14th Amendment central to debates over civil rights?",
+    "choices": [
+      "It links citizenship, due process, and equal protection",
+      "It sets import tariffs",
+      "It defines the Silk Road",
+      "It buys western territory"
+    ],
+    "correctAnswer": "It links citizenship, due process, and equal protection",
+    "explanation": "Its first section became foundational for many later civil rights claims.",
+    "sourceName": "National Archives - 14th Amendment",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/14th-amendment",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0012",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What does the history after the 15th Amendment show about constitutional rights?",
+    "choices": [
+      "Formal rights often need enforcement to be effective",
+      "Amendments cannot change society",
+      "Voting rights never change",
+      "Courts never interpret rights"
+    ],
+    "correctAnswer": "Formal rights often need enforcement to be effective",
+    "explanation": "The right to vote was undermined by state practices until later enforcement.",
+    "sourceName": "National Archives - 15th Amendment",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/15th-amendment",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0013",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which fact shows the 19th Amendment was the result of a long movement?",
+    "choices": [
+      "The amendment was first introduced decades before ratification",
+      "It passed one day after Seneca Falls",
+      "It was issued by one president alone",
+      "It was only a state law"
+    ],
+    "correctAnswer": "The amendment was first introduced decades before ratification",
+    "explanation": "Suffrage campaigns lasted generations before national ratification.",
+    "sourceName": "National Archives - 19th Amendment",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/19th-amendment",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0014",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Why is the Civil Rights Act of 1964 linked to federal power?",
+    "choices": [
+      "It used national law to confront discrimination in public life",
+      "It returned all power to city councils",
+      "It created the Roman Senate",
+      "It repealed the 14th Amendment"
+    ],
+    "correctAnswer": "It used national law to confront discrimination in public life",
+    "explanation": "The act brought federal enforcement to major civil rights issues.",
+    "sourceName": "National Archives - Civil Rights Act",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/civil-rights-act",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0015",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What made the Voting Rights Act a stronger enforcement tool than earlier promises alone?",
+    "choices": [
+      "It provided federal mechanisms against discriminatory registration rules",
+      "It ended all elections",
+      "It transferred power to museums",
+      "It limited voting to property owners"
+    ],
+    "correctAnswer": "It provided federal mechanisms against discriminatory registration rules",
+    "explanation": "The act targeted practical barriers to registering and voting.",
+    "sourceName": "National Archives - Voting Rights Act",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/voting-rights-act",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0016",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "How did the Marshall Plan connect economics and containment?",
+    "choices": [
+      "Economic recovery was seen as a way to stabilize Western Europe",
+      "It promoted isolation from all alliances",
+      "It restored ancient monarchies",
+      "It replaced the United Nations"
+    ],
+    "correctAnswer": "Economic recovery was seen as a way to stabilize Western Europe",
+    "explanation": "Postwar U.S. policy linked recovery aid with limiting instability and Soviet expansion.",
+    "sourceName": "National Archives - Marshall Plan",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/marshall-plan",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0017",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "What does Lend-Lease show about U.S. foreign policy in 1941?",
+    "choices": [
+      "The United States supported Allied defense before formally entering the war",
+      "The United States had no interest in world affairs",
+      "Congress ended defense spending",
+      "The president could not report to Congress"
+    ],
+    "correctAnswer": "The United States supported Allied defense before formally entering the war",
+    "explanation": "Lend-Lease supplied defense aid before U.S. entry after Pearl Harbor.",
+    "sourceName": "National Archives - Lend-Lease Act",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/lend-lease-act",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0018",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "How did the Dawes Act reflect changing federal Indian policy after 1870?",
+    "choices": [
+      "It shifted toward allotment and assimilation rather than treaty-based tribal landholding",
+      "It restored all treaty lands immediately",
+      "It ended federal involvement",
+      "It created equal statehood for tribes"
+    ],
+    "correctAnswer": "It shifted toward allotment and assimilation rather than treaty-based tribal landholding",
+    "explanation": "The act broke communal reservation land into individual allotments.",
+    "sourceName": "National Archives - Dawes Act",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/dawes-act",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0019",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Why is the Chinese Exclusion Act important for studying race and law?",
+    "choices": [
+      "It made exclusion by Chinese labor status part of federal immigration policy",
+      "It ended racial categories in law",
+      "It guaranteed universal naturalization",
+      "It created equal immigration quotas"
+    ],
+    "correctAnswer": "It made exclusion by Chinese labor status part of federal immigration policy",
+    "explanation": "The act connected immigration restriction with racialized legal status.",
+    "sourceName": "National Archives - Chinese Exclusion Act",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/chinese-exclusion-act",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0020",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "What is sourcing in historical analysis?",
+    "choices": [
+      "Evaluating who made a source, when, why, and for whom",
+      "Sorting sources by page count",
+      "Ignoring the creator",
+      "Replacing evidence with opinion"
+    ],
+    "correctAnswer": "Evaluating who made a source, when, why, and for whom",
+    "explanation": "Sourcing helps historians judge perspective, purpose, and usefulness.",
+    "sourceName": "Library of Congress - Getting Started with Primary Sources",
+    "sourceUrl": "https://www.loc.gov/programs/teachers/getting-started-with-primary-sources/",
+    "reviewStatus": "reviewed"
+  }
+]

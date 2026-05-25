@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "nature-14-0001",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "medium",
+    "question": "In a salt marsh ecosystem, which item is biotic?",
+    "choices": [
+      "temperature reading",
+      "bare rock",
+      "rock surface",
+      "marsh snail"
+    ],
+    "correctAnswer": "marsh snail",
+    "explanation": "A biotic factor is living or once living; marsh snail is an organism in the salt marsh.",
+    "sourceName": "USGS Ecosystems",
+    "sourceUrl": "https://www.usgs.gov/science/science-explorer/biology/ecosystems",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0002",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "medium",
+    "question": "Which nonliving factor could change what survives in a salt marsh?",
+    "choices": [
+      "rock surface",
+      "a pollinator",
+      "a food web",
+      "marsh snail"
+    ],
+    "correctAnswer": "rock surface",
+    "explanation": "Abiotic factors such as rock surface shape the conditions that organisms must tolerate.",
+    "sourceName": "USGS Ecosystems",
+    "sourceUrl": "https://www.usgs.gov/science/science-explorer/biology/ecosystems",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0003",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "hard",
+    "question": "Which ecosystem service best matches coastal storm protection?",
+    "choices": [
+      "a random nickname",
+      "a map projection",
+      "coastal storm protection",
+      "a mineral hardness test"
+    ],
+    "correctAnswer": "coastal storm protection",
+    "explanation": "Ecosystem services are benefits people and other life receive from healthy ecosystems, including coastal storm protection.",
+    "sourceName": "USGS Ecosystems",
+    "sourceUrl": "https://www.usgs.gov/science/science-explorer/biology/ecosystems",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0004",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "medium",
+    "question": "What is the best meaning of habitat for an organism living near a desert surface?",
+    "choices": [
+      "the place that provides conditions it needs",
+      "the number of bones it has",
+      "the animal that eats it",
+      "the color of a map symbol"
+    ],
+    "correctAnswer": "the place that provides conditions it needs",
+    "explanation": "A habitat is the place where an organism can find the conditions and resources it needs.",
+    "sourceName": "USGS Ecosystems",
+    "sourceUrl": "https://www.usgs.gov/science/science-explorer/biology/ecosystems",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0005",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "medium",
+    "question": "Which trait is an adaptation that can help an organism survive in a coral reef?",
+    "choices": [
+      "random decoration",
+      "a calendar month",
+      "a shorter source URL",
+      "flexible kelp blades"
+    ],
+    "correctAnswer": "flexible kelp blades",
+    "explanation": "An adaptation is a body feature or behavior that improves survival or reproduction in a habitat.",
+    "sourceName": "Smithsonian National Zoo - Suited for Survival",
+    "sourceUrl": "https://nationalzoo.si.edu/education/school-programs/suited-survival",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0006",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "hard",
+    "question": "A species lives only on a narrow desert surface. What would most directly threaten that population?",
+    "choices": [
+      "a new constellation name",
+      "a lower map scale",
+      "loss of that habitat",
+      "more empty space on a worksheet"
+    ],
+    "correctAnswer": "loss of that habitat",
+    "explanation": "Species with specialized habitats can be vulnerable when that habitat is damaged or disappears.",
+    "sourceName": "National Geographic Education - At-Risk Species and Biodiversity",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/at-risk-species-biodiversity/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0007",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "medium",
+    "question": "In a food web, why is marsh plants called a producer?",
+    "choices": [
+      "it never uses energy",
+      "it makes its own food",
+      "it hunts large animals",
+      "it breaks down only rocks"
+    ],
+    "correctAnswer": "it makes its own food",
+    "explanation": "Producers make food through photosynthesis or chemosynthesis and form the base of many food webs.",
+    "sourceName": "National Geographic Education - Food Web",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/food-web/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0008",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "medium",
+    "question": "If a snail eats plants, which food-web role is it filling?",
+    "choices": [
+      "primary consumer",
+      "decomposer",
+      "producer",
+      "abiotic factor"
+    ],
+    "correctAnswer": "primary consumer",
+    "explanation": "Primary consumers eat producers, so plant-eating animals occupy that trophic level.",
+    "sourceName": "National Geographic Education - Food Web",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/food-web/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0009",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "hard",
+    "question": "What role does mold play after leaves or animals die?",
+    "choices": [
+      "blocks all energy flow",
+      "removes every producer",
+      "turns sunlight into tides",
+      "returns nutrients to the ecosystem"
+    ],
+    "correctAnswer": "returns nutrients to the ecosystem",
+    "explanation": "Decomposers break down organic matter and recycle nutrients for future producers.",
+    "sourceName": "National Geographic Education - Food Web",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/food-web/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0010",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "medium",
+    "question": "In the chain marsh plants -> snail -> predator, where does usable energy enter first?",
+    "choices": [
+      "mold",
+      "marsh plants",
+      "snail",
+      "predator"
+    ],
+    "correctAnswer": "marsh plants",
+    "explanation": "Producers capture energy first, usually from sunlight, before consumers obtain it by eating.",
+    "sourceName": "National Geographic Education - Energy Flow Through an Ecosystem",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/resource-library-energy-flow-through-ecosystem/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0011",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "medium",
+    "question": "Why are food webs usually more realistic than single food chains in a coral reef?",
+    "choices": [
+      "organisms often have several feeding connections",
+      "every organism eats only one thing",
+      "energy never moves",
+      "abiotic factors are animals"
+    ],
+    "correctAnswer": "organisms often have several feeding connections",
+    "explanation": "A food web shows many overlapping feeding paths in one ecosystem.",
+    "sourceName": "National Geographic Education - Food Web",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/food-web/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0012",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "hard",
+    "question": "In a desert wash food web, why is less energy available to top consumers than to mosses near the base?",
+    "choices": [
+      "producers erase energy",
+      "predators do photosynthesis",
+      "decomposers stop sunlight",
+      "much energy is used or lost as heat at each transfer"
+    ],
+    "correctAnswer": "much energy is used or lost as heat at each transfer",
+    "explanation": "Energy transfer between trophic levels is inefficient, so upper levels have less available energy.",
+    "sourceName": "National Geographic Education - Energy Flow Through an Ecosystem",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/resource-library-energy-flow-through-ecosystem/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0013",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "medium",
+    "question": "What does biodiversity describe in a coral reef?",
+    "choices": [
+      "the variety of living things",
+      "the age of rocks only",
+      "the direction of wind only",
+      "the height of waves only"
+    ],
+    "correctAnswer": "the variety of living things",
+    "explanation": "Biodiversity includes variety among species, genes, and ecosystems.",
+    "sourceName": "National Geographic Education - At-Risk Species and Biodiversity",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/at-risk-species-biodiversity/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0014",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "medium",
+    "question": "Which observation is evidence of higher species diversity in a coral reef?",
+    "choices": [
+      "all organisms are identical",
+      "many different species are present",
+      "there is no food web",
+      "only one species is found"
+    ],
+    "correctAnswer": "many different species are present",
+    "explanation": "Species diversity increases when more kinds of organisms share an ecosystem.",
+    "sourceName": "National Geographic Education - At-Risk Species and Biodiversity",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/at-risk-species-biodiversity/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0015",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "hard",
+    "question": "Why could losing mosses change other species in a desert wash food web?",
+    "choices": [
+      "only rocks depend on animals",
+      "species never interact",
+      "feeding and habitat relationships connect species",
+      "sunlight stops at one species"
+    ],
+    "correctAnswer": "feeding and habitat relationships connect species",
+    "explanation": "Connected species can depend on one another for food, shelter, pollination, or other interactions.",
+    "sourceName": "National Geographic Education - Food Web",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/food-web/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0016",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "medium",
+    "question": "What does a wasp often move between flowers during pollination?",
+    "choices": [
+      "salt crystals",
+      "tree bark",
+      "sand",
+      "pollen"
+    ],
+    "correctAnswer": "pollen",
+    "explanation": "Pollinators transfer pollen, helping many flowering plants make seeds and fruits.",
+    "sourceName": "National Park Service - Pollinators",
+    "sourceUrl": "https://www.nps.gov/grsm/learn/nature/pollinators.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0017",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "medium",
+    "question": "In a rocky shore, why would planting native flowers help mosses?",
+    "choices": [
+      "local wildlife evolved relationships with them",
+      "they stop all insects from visiting",
+      "they are all the same species",
+      "they never need sunlight"
+    ],
+    "correctAnswer": "local wildlife evolved relationships with them",
+    "explanation": "Native plants can support pollinators and other wildlife that developed with them in the same region.",
+    "sourceName": "National Park Service - Pollinators",
+    "sourceUrl": "https://www.nps.gov/grsm/learn/nature/pollinators.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0018",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "hard",
+    "question": "Which pressure could reduce pollinators around a rocky shore?",
+    "choices": [
+      "more flower diversity",
+      "careful native planting",
+      "habitat destruction",
+      "protected natural areas"
+    ],
+    "correctAnswer": "habitat destruction",
+    "explanation": "NPS identifies habitat destruction, pesticides, diseases, invasive species, and climate change as pollinator threats.",
+    "sourceName": "National Park Service - Pollinators",
+    "sourceUrl": "https://www.nps.gov/grsm/learn/nature/pollinators.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0019",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "medium",
+    "question": "Why might a shorebird migrate instead of staying in one place all year?",
+    "choices": [
+      "to reach fresh grazing plants",
+      "to become a plant",
+      "to stop all seasons",
+      "to avoid using energy"
+    ],
+    "correctAnswer": "to reach fresh grazing plants",
+    "explanation": "Many migrations follow seasonal or geographic changes in food, breeding, or survival conditions.",
+    "sourceName": "National Geographic Education - Animal Migration",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/resource-library-animal-migration/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0020",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "medium",
+    "question": "Which conservation action could help animals moving through a desert wash migration route?",
+    "choices": [
+      "removing all resting habitat",
+      "blocking breeding areas",
+      "protecting connected corridors",
+      "adding more road barriers"
+    ],
+    "correctAnswer": "protecting connected corridors",
+    "explanation": "Migration corridors and wildlife crossings can reduce barriers along animal movement routes.",
+    "sourceName": "National Geographic Education - Animal Migration",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/resource-library-animal-migration/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0021",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "hard",
+    "question": "What data would best show whether shorebird migration timing is changing?",
+    "choices": [
+      "one drawing with no date",
+      "a single unlabeled footprint",
+      "observations recorded across many years",
+      "a list of unrelated planets"
+    ],
+    "correctAnswer": "observations recorded across many years",
+    "explanation": "Long-term observations help scientists compare movement patterns through time.",
+    "sourceName": "National Geographic Education - Animal Migration",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/resource-library-animal-migration/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0022",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "medium",
+    "question": "What feature defines a salt marsh as a wetland?",
+    "choices": [
+      "land saturated with water",
+      "a mountain above tree line",
+      "land that is always dry",
+      "a paved city street"
+    ],
+    "correctAnswer": "land saturated with water",
+    "explanation": "NOAA describes wetlands as areas of land saturated with water, with many different types.",
+    "sourceName": "NOAA National Ocean Service - What is a wetland?",
+    "sourceUrl": "https://oceanservice.noaa.gov/facts/wetland.html",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0023",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "medium",
+    "question": "Why can a desert wash wetland improve water quality after storms?",
+    "choices": [
+      "they create all ocean tides",
+      "they stop rain from forming",
+      "they remove every mineral from Earth",
+      "they trap sediments and absorb excess nutrients"
+    ],
+    "correctAnswer": "they trap sediments and absorb excess nutrients",
+    "explanation": "Wetlands can filter water by slowing it and trapping sediments, nutrients, and some pollutants.",
+    "sourceName": "NOAA National Ocean Service - What is a wetland?",
+    "sourceUrl": "https://oceanservice.noaa.gov/facts/wetland.html",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0024",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "hard",
+    "question": "An estuary where marsh channels and coastal water meet is important because it",
+    "choices": [
+      "contains no organisms",
+      "prevents nutrient cycling",
+      "creates a productive transition habitat",
+      "has no changing salinity"
+    ],
+    "correctAnswer": "creates a productive transition habitat",
+    "explanation": "Estuaries are transition zones where different waters mix, supporting productive habitats.",
+    "sourceName": "NOAA Office for Coastal Management - Estuary Education",
+    "sourceUrl": "https://coast.noaa.gov/estuaries/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0025",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "medium",
+    "question": "At a rocky shore, why might mangrove roots look tangled above the water?",
+    "choices": [
+      "they block all fish from entering",
+      "they help trees cope with tides and low-oxygen soils",
+      "they are metal pipes",
+      "they grow only in snow"
+    ],
+    "correctAnswer": "they help trees cope with tides and low-oxygen soils",
+    "explanation": "Mangrove root systems help the trees live in tidal, low-oxygen coastal soils.",
+    "sourceName": "NOAA National Ocean Service - Mangrove Forests",
+    "sourceUrl": "https://oceanservice.noaa.gov/facts/mangroves.html",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0026",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "medium",
+    "question": "How could a mangrove fringe near desert wash help the shoreline?",
+    "choices": [
+      "they reduce erosion from waves and storm surge",
+      "they make hurricanes impossible",
+      "they turn salt water into lava",
+      "they remove tides permanently"
+    ],
+    "correctAnswer": "they reduce erosion from waves and storm surge",
+    "explanation": "NOAA notes that mangroves stabilize coasts and reduce erosion from storm surge, currents, waves, and tides.",
+    "sourceName": "NOAA National Ocean Service - Mangrove Forests",
+    "sourceUrl": "https://oceanservice.noaa.gov/facts/mangroves.html",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0027",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "hard",
+    "question": "Why would mosses benefit from shelter among mangrove roots?",
+    "choices": [
+      "they contain no hiding places",
+      "they only grow in deep desert sand",
+      "they prevent all plankton growth",
+      "they provide food and shelter from predators"
+    ],
+    "correctAnswer": "they provide food and shelter from predators",
+    "explanation": "Dense mangrove roots create protected habitat where many organisms can feed and shelter.",
+    "sourceName": "NOAA National Ocean Service - Mangrove Forests",
+    "sourceUrl": "https://oceanservice.noaa.gov/facts/mangroves.html",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0028",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "medium",
+    "question": "Which coral reef term describes a reef feature sloping seaward into deeper water?",
+    "choices": [
+      "forereef",
+      "kelp holdfast",
+      "freshwater bog",
+      "salt marsh"
+    ],
+    "correctAnswer": "forereef",
+    "explanation": "NOAA identifies fringing reefs, barrier reefs, atolls, and reef zones as parts of coral reef systems.",
+    "sourceName": "NOAA National Ocean Service - Coral Reef Types",
+    "sourceUrl": "https://oceanservice.noaa.gov/facts/threecorals.html",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0029",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "medium",
+    "question": "Why are coral reefs important when they provide high species diversity?",
+    "choices": [
+      "they contain no animals",
+      "shelter for small reef animals",
+      "they stop photosynthesis everywhere",
+      "they are made only of sand"
+    ],
+    "correctAnswer": "shelter for small reef animals",
+    "explanation": "Coral reefs support many species and provide shelter, food-web links, and coastal benefits.",
+    "sourceName": "NOAA National Ocean Service - Why are coral reefs important?",
+    "sourceUrl": "https://oceanservice.noaa.gov/education/tutorial_corals/coral07_importance.html",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0030",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "hard",
+    "question": "How can sediment runoff harm coral reef ecosystems?",
+    "choices": [
+      "it prevents all waves worldwide",
+      "it removes the need for sunlight",
+      "it always increases coral cover instantly",
+      "it can reduce reef health or habitat quality"
+    ],
+    "correctAnswer": "it can reduce reef health or habitat quality",
+    "explanation": "NOAA describes several natural and human pressures that can damage reef organisms and habitat.",
+    "sourceName": "NOAA National Ocean Service - Coral Reef Threats",
+    "sourceUrl": "https://oceanservice.noaa.gov/facts/coral-overfishing.html",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0031",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "medium",
+    "question": "Which kelp-forest condition or feature fits a storm-torn winter canopy?",
+    "choices": [
+      "fast growth in good conditions",
+      "lava inside a volcano",
+      "tree roots in dry soil",
+      "freezing desert sand only"
+    ],
+    "correctAnswer": "fast growth in good conditions",
+    "explanation": "Kelp forests are underwater algae communities that need light and often occur in cool, nutrient-rich coastal waters.",
+    "sourceName": "NOAA National Ocean Service - Kelp Forests",
+    "sourceUrl": "https://oceanservice.noaa.gov/facts/kelp.html",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0032",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "medium",
+    "question": "Why might mosses use a kelp forest near desert wash?",
+    "choices": [
+      "kelp removes every predator",
+      "kelp is a type of mammal",
+      "kelp provides food and shelter",
+      "kelp grows without light anywhere"
+    ],
+    "correctAnswer": "kelp provides food and shelter",
+    "explanation": "NOAA describes kelp forests as habitat that offers food and shelter for many marine species.",
+    "sourceName": "NOAA National Ocean Service - Kelp Forests",
+    "sourceUrl": "https://oceanservice.noaa.gov/facts/kelp.html",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0033",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "hard",
+    "question": "Which challenge must organisms tolerate in a urchin crevice?",
+    "choices": [
+      "no contact with seawater",
+      "constant deep-ocean darkness",
+      "predators during low tide",
+      "zero competition for space"
+    ],
+    "correctAnswer": "predators during low tide",
+    "explanation": "Tide pools change between low and high tide, exposing organisms to stress and then fresh seawater.",
+    "sourceName": "NOAA National Ocean Service - Tide Pools",
+    "sourceUrl": "https://oceanservice.noaa.gov/facts/tide-pool.html",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0034",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "medium",
+    "question": "In a rocky shore, what are phytoplankton in a water sample?",
+    "choices": [
+      "deep cave minerals",
+      "migrating land mammals",
+      "large desert shrubs",
+      "microscopic algae or plantlike plankton"
+    ],
+    "correctAnswer": "microscopic algae or plantlike plankton",
+    "explanation": "Phytoplankton are tiny photosynthetic organisms that float in sunlit water.",
+    "sourceName": "NOAA National Ocean Service - Phytoplankton",
+    "sourceUrl": "https://oceanservice.noaa.gov/facts/phyto.html",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0035",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "medium",
+    "question": "Why would phytoplankton matter to a food web in a desert wash?",
+    "choices": [
+      "they form the base of the food web",
+      "they live only on mountaintops",
+      "they stop nutrients from cycling",
+      "they eat every predator"
+    ],
+    "correctAnswer": "they form the base of the food web",
+    "explanation": "NOAA describes phytoplankton as the base of several aquatic food webs.",
+    "sourceName": "NOAA National Ocean Service - Phytoplankton",
+    "sourceUrl": "https://oceanservice.noaa.gov/facts/phyto.html",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0036",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "hard",
+    "question": "Which source produces about half of Earth's oxygen during photosynthesis, including in desert wash?",
+    "choices": [
+      "granite rocks",
+      "moonlight reflecting on water",
+      "photosynthetic plankton and other ocean life",
+      "desert sand alone"
+    ],
+    "correctAnswer": "photosynthetic plankton and other ocean life",
+    "explanation": "NOAA explains that roughly half of Earth's oxygen production comes from the ocean, mainly photosynthetic plankton.",
+    "sourceName": "NOAA National Ocean Service - Ocean Oxygen",
+    "sourceUrl": "https://oceanservice.noaa.gov/facts/ocean-oxygen.html",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0037",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "medium",
+    "question": "If algae bloom in a coastal lagoon, are all blooms automatically harmful?",
+    "choices": [
+      "No, many are not harmful and some feed food webs",
+      "No, because algae are rocks",
+      "Yes, every bloom is toxic",
+      "Yes, all blooms remove sunlight from land"
+    ],
+    "correctAnswer": "No, many are not harmful and some feed food webs",
+    "explanation": "NOAA notes that most algae are beneficial, while some blooms become harmful under certain conditions.",
+    "sourceName": "NOAA National Ocean Service - Algal Blooms",
+    "sourceUrl": "https://oceanservice.noaa.gov/facts/habharm.html",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0038",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "medium",
+    "question": "Which effect could make an algal bloom in a coastal lagoon a problem?",
+    "choices": [
+      "stronger tree roots on land",
+      "faster bird migration",
+      "more mountain snowpack",
+      "signals of environmental change"
+    ],
+    "correctAnswer": "signals of environmental change",
+    "explanation": "Harmful blooms may produce toxins, block light, clog gills, or deplete oxygen as algae decay.",
+    "sourceName": "NOAA National Ocean Service - Algal Blooms",
+    "sourceUrl": "https://oceanservice.noaa.gov/facts/habharm.html",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0039",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "hard",
+    "question": "What is eutrophication in a coastal lagoon?",
+    "choices": [
+      "a migration route through the sky",
+      "a mineral forming in dry sand",
+      "nutrient enrichment that increases plant and algae growth",
+      "a reef growing from a volcano only"
+    ],
+    "correctAnswer": "nutrient enrichment that increases plant and algae growth",
+    "explanation": "Eutrophication begins when excess nutrients stimulate extra plant and algae growth in waters.",
+    "sourceName": "NOAA National Ocean Service - Eutrophication",
+    "sourceUrl": "https://oceanservice.noaa.gov/facts/eutrophication.html",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0040",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "medium",
+    "question": "What happens chemically when extra carbon dioxide dissolves into seawater near desert wash?",
+    "choices": [
+      "it can form carbonic acid and lower pH",
+      "it turns seawater into freshwater instantly",
+      "it removes all dissolved gases",
+      "it makes coral skeletons from plastic"
+    ],
+    "correctAnswer": "it can form carbonic acid and lower pH",
+    "explanation": "NOAA explains that dissolved carbon dioxide reacts with seawater to form carbonic acid.",
+    "sourceName": "NOAA Ocean Acidification Program",
+    "sourceUrl": "https://oceanacidification.noaa.gov/what-is-ocean-acidification/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0041",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "medium",
+    "question": "Why can ocean acidification affect reef-building corals?",
+    "choices": [
+      "shells are made of clouds",
+      "all shell builders live on land",
+      "acidification increases sunlight",
+      "carbonate chemistry changes can make shells harder to build"
+    ],
+    "correctAnswer": "carbonate chemistry changes can make shells harder to build",
+    "explanation": "Ocean acidification can reduce availability of carbonate chemistry needed by shells and coral skeletons.",
+    "sourceName": "NOAA Ocean Acidification Program",
+    "sourceUrl": "https://oceanacidification.noaa.gov/what-is-ocean-acidification/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0042",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "hard",
+    "question": "Which habitats in a coastal carbon plan near a rocky shore are often called blue-carbon habitats?",
+    "choices": [
+      "mangroves, salt marshes, and seagrass beds",
+      "ice-free deserts only",
+      "volcano craters with no life",
+      "bare parking lots"
+    ],
+    "correctAnswer": "mangroves, salt marshes, and seagrass beds",
+    "explanation": "Coastal plant-rich habitats can store carbon in living material and sediments.",
+    "sourceName": "NOAA Fisheries - Value of Habitat",
+    "sourceUrl": "https://www.fisheries.noaa.gov/national/habitat-conservation/value-habitat",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0043",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "medium",
+    "question": "What is a biome such as a coral reef?",
+    "choices": [
+      "one individual animal",
+      "a large area classified by climate and living things",
+      "a food label",
+      "a single weather report"
+    ],
+    "correctAnswer": "a large area classified by climate and living things",
+    "explanation": "A biome is a broad region characterized by climate, plants, animals, and other environmental conditions.",
+    "sourceName": "National Geographic Education - Biomes",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/biomes/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0044",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "medium",
+    "question": "Which factors help determine what life exists in a coral reef?",
+    "choices": [
+      "only the name of the nearest city",
+      "only alphabet order",
+      "temperature, water, soil, and light",
+      "only the color of a compass"
+    ],
+    "correctAnswer": "temperature, water, soil, and light",
+    "explanation": "National Geographic Education describes temperature, soil, light, and water as important biome factors.",
+    "sourceName": "National Geographic Education - Biomes",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/biomes/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0045",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "hard",
+    "question": "How is the coral reef biome different from one local ecosystem?",
+    "choices": [
+      "a biome has no living things",
+      "an ecosystem is larger than Earth",
+      "they are always exactly identical",
+      "a biome can contain many ecosystems"
+    ],
+    "correctAnswer": "a biome can contain many ecosystems",
+    "explanation": "A biome is a broad region, while an ecosystem is living and nonliving parts interacting in a place.",
+    "sourceName": "National Geographic Education - Biomes",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/biomes/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0046",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "medium",
+    "question": "At a rocky shore, what is a biological soil crust in dryland soil?",
+    "choices": [
+      "a living community on the soil surface",
+      "a layer of ocean ice",
+      "a pile of plastic",
+      "a sheet of melted glass"
+    ],
+    "correctAnswer": "a living community on the soil surface",
+    "explanation": "USGS describes biological soil crusts as living organisms on soil surfaces, especially in drylands.",
+    "sourceName": "USGS Biological Soil Crusts",
+    "sourceUrl": "https://pubs.usgs.gov/fs/2001/0065/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0047",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "medium",
+    "question": "Which organism or feature, such as water-holding roughness, can be part of desert biocrust?",
+    "choices": [
+      "large ocean waves",
+      "water infiltration",
+      "deep-sea coral only",
+      "city pavement"
+    ],
+    "correctAnswer": "water infiltration",
+    "explanation": "Biocrusts may include cyanobacteria, lichens, mosses, fungi, algae, and soil-stabilizing structures.",
+    "sourceName": "USGS Biological Soil Crusts",
+    "sourceUrl": "https://pubs.usgs.gov/fs/2001/0065/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0048",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "hard",
+    "question": "Why would trampling biocrust near desert wash concern ecologists?",
+    "choices": [
+      "it creates coral reefs on land",
+      "it makes soil impossible to study",
+      "it can reduce soil stability and slow recovery",
+      "it removes all sunlight from deserts"
+    ],
+    "correctAnswer": "it can reduce soil stability and slow recovery",
+    "explanation": "Biocrusts help stabilize soil and can recover slowly after disturbance.",
+    "sourceName": "USGS Biological Soil Crusts",
+    "sourceUrl": "https://pubs.usgs.gov/fs/2001/0065/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0049",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "medium",
+    "question": "If a species arrives by cargo shipment, when would managers call it invasive?",
+    "choices": [
+      "when it has a short name",
+      "when it lives in its native range",
+      "when it is colorful",
+      "when it establishes and causes harm"
+    ],
+    "correctAnswer": "when it establishes and causes harm",
+    "explanation": "USGS defines invasive species as nonnative organisms that establish and cause harm.",
+    "sourceName": "USGS Invasive Species",
+    "sourceUrl": "https://www.usgs.gov/science/science-explorer/biology/invasive-species",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0050",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "medium",
+    "question": "Why can Japanese honeysuckle be a concern outside its balanced native context?",
+    "choices": [
+      "it always increases biodiversity",
+      "it never affects food webs",
+      "it may outcompete native species or alter habitats",
+      "it cannot reproduce"
+    ],
+    "correctAnswer": "it may outcompete native species or alter habitats",
+    "explanation": "Invasive species can affect native wildlife, ecosystems, economies, or human health.",
+    "sourceName": "USGS Invasive Species",
+    "sourceUrl": "https://www.usgs.gov/science/science-explorer/biology/invasive-species",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0051",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "hard",
+    "question": "Which action helps prevent organisms from moving by cargo shipment into new waters?",
+    "choices": [
+      "cleaning boats and gear before moving them",
+      "releasing bait into streams",
+      "moving wet gear between lakes",
+      "ignoring attached organisms"
+    ],
+    "correctAnswer": "cleaning boats and gear before moving them",
+    "explanation": "NPS and other managers recommend cleaning equipment to prevent moving invasive organisms to new waters.",
+    "sourceName": "National Park Service - Non-native Species",
+    "sourceUrl": "https://www.nps.gov/grsm/learn/nature/non-native-species.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0052",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "medium",
+    "question": "In a huckleberry patch, what is succession after a fire?",
+    "choices": [
+      "a sudden stop to all plant growth forever",
+      "a method for naming clouds",
+      "the daily tide schedule",
+      "gradual change in the community over time"
+    ],
+    "correctAnswer": "gradual change in the community over time",
+    "explanation": "Succession is the process of community change and recovery through time after disturbance.",
+    "sourceName": "National Park Service - Fire Ecology",
+    "sourceUrl": "https://www.nps.gov/glac/learn/nature/fire-ecology.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0053",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "medium",
+    "question": "Which post-fire ecosystem response can happen in a huckleberry patch?",
+    "choices": [
+      "all soil disappears forever",
+      "every species becomes identical",
+      "fire-adapted plant recovery",
+      "the Sun stops shining"
+    ],
+    "correctAnswer": "fire-adapted plant recovery",
+    "explanation": "NPS fire ecology resources describe recovery processes such as regrowth, resprouting, and succession.",
+    "sourceName": "National Park Service - Fire Ecology",
+    "sourceUrl": "https://www.nps.gov/glac/learn/nature/fire-ecology.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0054",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "hard",
+    "question": "Why might fire ecologists studying a huckleberry patch avoid saying all fires are simply bad for nature?",
+    "choices": [
+      "all animals require flames",
+      "some ecosystems evolved with periodic fire",
+      "fire never changes habitat",
+      "fire is unrelated to plants"
+    ],
+    "correctAnswer": "some ecosystems evolved with periodic fire",
+    "explanation": "In some ecosystems, periodic fire is part of natural disturbance and can shape plant communities.",
+    "sourceName": "National Park Service - Fire Ecology",
+    "sourceUrl": "https://www.nps.gov/glac/learn/nature/fire-ecology.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0055",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "medium",
+    "question": "Which ocean-layer idea applies to a coastal microbial mat?",
+    "choices": [
+      "microbial loop",
+      "desert canopy layer",
+      "mountain root zone",
+      "city sidewalk layer"
+    ],
+    "correctAnswer": "microbial loop",
+    "explanation": "Smithsonian Ocean describes ocean layers with different light levels and adaptations.",
+    "sourceName": "NOAA National Ocean Service - Ocean Light Zones",
+    "sourceUrl": "https://oceanservice.noaa.gov/facts/light_travel.html",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0056",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "medium",
+    "question": "In coastal microbial mat, what is the microbial loop?",
+    "choices": [
+      "microbes stop all decomposition",
+      "microbes are always larger than whales",
+      "microbes prevent energy transfer",
+      "microbes recycle waste and return resources to the food web"
+    ],
+    "correctAnswer": "microbes recycle waste and return resources to the food web",
+    "explanation": "Smithsonian Ocean explains that microbes recycle waste and dead material into food-web pathways.",
+    "sourceName": "NOAA Ocean Exploration - Marine Microbes",
+    "sourceUrl": "https://oceanexplorer.noaa.gov/ocean-fact/marinemicrobes/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0057",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "hard",
+    "question": "Why could bioluminescence help animals in coastal microbial mat?",
+    "choices": [
+      "it turns deep water into land",
+      "it removes darkness from the whole ocean",
+      "it can help lure prey, communicate, or avoid predators",
+      "it creates photosynthesis without organisms"
+    ],
+    "correctAnswer": "it can help lure prey, communicate, or avoid predators",
+    "explanation": "In dark deep water, producing light can help animals find food, mates, or protection.",
+    "sourceName": "NOAA National Ocean Service - Bioluminescence",
+    "sourceUrl": "https://oceanservice.noaa.gov/facts/biolum.html",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0058",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "medium",
+    "question": "Why would scientists monitor the same desert wash repeatedly?",
+    "choices": [
+      "to stop tides from moving",
+      "to detect change through time",
+      "to make every organism identical",
+      "to avoid collecting evidence"
+    ],
+    "correctAnswer": "to detect change through time",
+    "explanation": "Repeated monitoring lets scientists see whether an ecosystem is changing and investigate causes.",
+    "sourceName": "NOAA National Ocean Service - Kelp Forests",
+    "sourceUrl": "https://oceanservice.noaa.gov/facts/kelp.html",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0059",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "medium",
+    "question": "What is habitat restoration at a rocky shore usually trying to improve?",
+    "choices": [
+      "ecosystem function and habitat quality",
+      "the number of spelling words",
+      "the distance to the Moon",
+      "the color of a road sign"
+    ],
+    "correctAnswer": "ecosystem function and habitat quality",
+    "explanation": "NOAA habitat work focuses on protecting and restoring habitats that support wildlife and ecosystem services.",
+    "sourceName": "NOAA Fisheries - Value of Habitat",
+    "sourceUrl": "https://www.fisheries.noaa.gov/national/habitat-conservation/value-habitat",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "nature-14-0060",
+    "ageGroup": "14",
+    "category": "nature",
+    "difficulty": "hard",
+    "question": "Which evidence would best show that restoration at a rocky shore is helping wildlife?",
+    "choices": [
+      "more native species using the wetland over several seasons",
+      "one unrelated weather forecast",
+      "a list of sports scores",
+      "a single photo of a parking lot"
+    ],
+    "correctAnswer": "more native species using the wetland over several seasons",
+    "explanation": "Strong ecological evidence uses relevant observations over enough time to show habitat response.",
+    "sourceName": "NOAA Fisheries - Value of Habitat",
+    "sourceUrl": "https://www.fisheries.noaa.gov/national/habitat-conservation/value-habitat",
+    "reviewStatus": "reviewed"
+  }
+]

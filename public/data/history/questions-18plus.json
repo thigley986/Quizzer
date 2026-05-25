@@ -1,0 +1,362 @@
+[
+  {
+    "id": "history-18plus-0001",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which claim in the Declaration became a foundation for later rights arguments?",
+    "choices": [
+      "All people have equal natural rights",
+      "Parliament should appoint colonial governors forever",
+      "Only property owners have natural rights",
+      "Trade routes determine citizenship"
+    ],
+    "correctAnswer": "All people have equal natural rights",
+    "explanation": "The Declaration's rights language became influential beyond the immediate independence dispute.",
+    "sourceName": "National Archives - Declaration of Independence",
+    "sourceUrl": "https://www.archives.gov/founding-docs/declaration-transcript",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0002",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Why is the Constitution considered a framework document rather than an ordinary statute?",
+    "choices": [
+      "It establishes institutions, powers, and limits for government",
+      "It is a temporary annual budget",
+      "It is a museum label",
+      "It records a single court case"
+    ],
+    "correctAnswer": "It establishes institutions, powers, and limits for government",
+    "explanation": "The Constitution defines government structure and supreme legal authority.",
+    "sourceName": "National Archives - Constitution Transcript",
+    "sourceUrl": "https://www.archives.gov/founding-docs/constitution-transcript",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0003",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "What is the Bill of Rights' relationship to the original Constitution?",
+    "choices": [
+      "It was added through amendments after ratification",
+      "It was the preamble's first sentence",
+      "It was a foreign treaty",
+      "It was written in ancient Greek"
+    ],
+    "correctAnswer": "It was added through amendments after ratification",
+    "explanation": "The first ten amendments were ratified after the original Constitution.",
+    "sourceName": "National Archives - Bill of Rights Transcript",
+    "sourceUrl": "https://www.archives.gov/founding-docs/bill-of-rights-transcript",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0004",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Why is the Rosetta Stone methodologically important?",
+    "choices": [
+      "It shows how multilingual evidence can unlock lost scripts",
+      "It proves artifacts need no context",
+      "It is a modern translation only",
+      "It replaced all other Egyptian evidence"
+    ],
+    "correctAnswer": "It shows how multilingual evidence can unlock lost scripts",
+    "explanation": "The stone's scripts gave scholars comparative evidence for decipherment.",
+    "sourceName": "British Museum - Rosetta Stone",
+    "sourceUrl": "https://www.britishmuseum.org/blog/everything-you-ever-wanted-know-about-rosetta-stone",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0005",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "What does Egypt's Ptolemaic period illustrate?",
+    "choices": [
+      "Political conquest can change administrative language and ruling elites",
+      "Democracy always expands equally",
+      "Trade routes prevent empire",
+      "All ancient states lacked writing"
+    ],
+    "correctAnswer": "Political conquest can change administrative language and ruling elites",
+    "explanation": "After Alexander, Greek-speaking rulers governed Egypt and Greek became important in official documents.",
+    "sourceName": "British Museum - Timeline of Ancient Egypt",
+    "sourceUrl": "https://www.britishmuseum.org/learn/schools/ages-7-11/ancient-egypt/timeline-ancient-egypt",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0006",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "How is the Silk Road best understood by historians?",
+    "choices": [
+      "As overlapping networks of exchange, not one road",
+      "As one paved highway from Rome to China",
+      "As a U.S. federal law",
+      "As a single military campaign"
+    ],
+    "correctAnswer": "As overlapping networks of exchange, not one road",
+    "explanation": "The Silk Road refers to interconnected routes moving goods, people, and ideas.",
+    "sourceName": "National Geographic Education - Ideas on the Move: Silk Road",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/ideas-on-the-move/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0007",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "What makes the Roman Republic useful for comparative constitutional history?",
+    "choices": [
+      "It combined offices, assemblies, and representation before modern republics",
+      "It had universal adult suffrage",
+      "It banned all aristocratic influence",
+      "It used modern judicial review"
+    ],
+    "correctAnswer": "It combined offices, assemblies, and representation before modern republics",
+    "explanation": "Rome offers an early case of republican institutions and representation.",
+    "sourceName": "National Geographic Education - Roman Republic",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/roman-republic/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0008",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which caution applies when comparing Athens with modern democracies?",
+    "choices": [
+      "Ancient citizenship exclusions were severe by modern standards",
+      "Athens had no political participation",
+      "Athens was a twentieth-century state",
+      "Athens used only appointed kings"
+    ],
+    "correctAnswer": "Ancient citizenship exclusions were severe by modern standards",
+    "explanation": "Athenian democracy was direct but excluded many residents from citizenship.",
+    "sourceName": "National Geographic Education - Democracy in Ancient Greece",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/democracy-ancient-greece/Wikipedia/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0009",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What did the Emancipation Proclamation demonstrate about executive action?",
+    "choices": [
+      "Executive orders can be powerful but limited by legal authority and context",
+      "Presidents can amend the Constitution alone",
+      "War powers have no limits",
+      "State laws never matter"
+    ],
+    "correctAnswer": "Executive orders can be powerful but limited by legal authority and context",
+    "explanation": "The proclamation was significant but narrower than a constitutional amendment.",
+    "sourceName": "National Archives - Emancipation Proclamation",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/emancipation-proclamation",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0010",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Why did the 13th Amendment matter for federal enforcement power?",
+    "choices": [
+      "It gave Congress authority to enforce abolition by legislation",
+      "It transferred treaty power to states",
+      "It made the president a legislator",
+      "It repealed equal protection"
+    ],
+    "correctAnswer": "It gave Congress authority to enforce abolition by legislation",
+    "explanation": "Section 2 authorizes Congress to enforce abolition.",
+    "sourceName": "National Archives - 13th Amendment",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/13th-amendment",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0011",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Why is incorporation linked to the 14th Amendment?",
+    "choices": [
+      "The amendment became the route for applying many rights against states",
+      "It created new state capitals",
+      "It repealed federal courts",
+      "It banned constitutional amendments"
+    ],
+    "correctAnswer": "The amendment became the route for applying many rights against states",
+    "explanation": "Due process and equal protection arguments later shaped how rights applied to states.",
+    "sourceName": "National Archives - 14th Amendment",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/14th-amendment",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0012",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What does the gap between the 15th Amendment and Voting Rights Act reveal?",
+    "choices": [
+      "Constitutional text may need political mobilization and enforcement institutions",
+      "Rights enforce themselves automatically",
+      "Voting discrimination ended in 1870",
+      "Federalism prevents all national voting laws"
+    ],
+    "correctAnswer": "Constitutional text may need political mobilization and enforcement institutions",
+    "explanation": "The amendment's promise was undermined for decades before stronger federal enforcement.",
+    "sourceName": "National Archives - 15th Amendment",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/15th-amendment",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0013",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Why is the 19th Amendment history not a complete story of voting equality?",
+    "choices": [
+      "Race, citizenship, and local barriers still excluded many women",
+      "It applied only to school elections",
+      "It repealed the 15th Amendment",
+      "It never became part of the Constitution"
+    ],
+    "correctAnswer": "Race, citizenship, and local barriers still excluded many women",
+    "explanation": "The amendment barred sex-based denial but did not remove all discriminatory barriers.",
+    "sourceName": "National Archives - 19th Amendment",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/19th-amendment",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0014",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What legal principle was central in Brown v. Board of Education?",
+    "choices": [
+      "Equal protection under the 14th Amendment",
+      "Tenth Amendment reserved powers only",
+      "Treaty-making power",
+      "Patent protection"
+    ],
+    "correctAnswer": "Equal protection under the 14th Amendment",
+    "explanation": "Brown applied equal protection reasoning to public school segregation.",
+    "sourceName": "National Park Service - Brown v. Board of Education",
+    "sourceUrl": "https://www.nps.gov/brvb/planyourvisit/the-story-of-brown.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0015",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Why did the Voting Rights Act focus on administrative practices such as registration tests?",
+    "choices": [
+      "Rights were being denied through procedures as well as formal laws",
+      "No one had a constitutional right to vote",
+      "All elections were federal only",
+      "Registration was invented in 1965"
+    ],
+    "correctAnswer": "Rights were being denied through procedures as well as formal laws",
+    "explanation": "The act addressed practical mechanisms used to suppress voting.",
+    "sourceName": "National Archives - Voting Rights Act",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/voting-rights-act",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0016",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "How did the Marshall Plan combine humanitarian and strategic aims?",
+    "choices": [
+      "It rebuilt devastated economies while supporting U.S. Cold War goals",
+      "It banned European recovery",
+      "It funded ancient trade routes",
+      "It created the Roman Republic"
+    ],
+    "correctAnswer": "It rebuilt devastated economies while supporting U.S. Cold War goals",
+    "explanation": "Economic recovery aid also served containment and alliance-building objectives.",
+    "sourceName": "National Archives - Marshall Plan",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/marshall-plan",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0017",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "What constitutional balance did Lend-Lease reflect?",
+    "choices": [
+      "Congress authorized broad presidential action while requiring reports",
+      "The president declared war without Congress",
+      "States controlled foreign aid",
+      "Courts administered defense shipments"
+    ],
+    "correctAnswer": "Congress authorized broad presidential action while requiring reports",
+    "explanation": "The statute gave the executive authority but kept congressional oversight mechanisms.",
+    "sourceName": "National Archives - Lend-Lease Act",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/lend-lease-act",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0018",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "What does the Dawes Act show about law as a tool of assimilation?",
+    "choices": [
+      "Federal law can restructure property to pressure cultural change",
+      "Allotment protected tribal sovereignty fully",
+      "Land law never affects culture",
+      "Assimilation was unrelated to property"
+    ],
+    "correctAnswer": "Federal law can restructure property to pressure cultural change",
+    "explanation": "Allotment policy used property rules to weaken tribal systems and promote individual farming.",
+    "sourceName": "National Archives - Dawes Act",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/dawes-act",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0019",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Why do historians treat the Chinese Exclusion Act as more than an immigration statute?",
+    "choices": [
+      "It connected migration control, racial classification, labor, and citizenship",
+      "It was only a trade agreement",
+      "It expanded equal protection",
+      "It applied to all nationalities equally"
+    ],
+    "correctAnswer": "It connected migration control, racial classification, labor, and citizenship",
+    "explanation": "The act shaped legal status and belonging, not just entry rules.",
+    "sourceName": "National Archives - Chinese Exclusion Act",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/chinese-exclusion-act",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0020",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which practice best supports a defensible historical interpretation?",
+    "choices": [
+      "Sourcing, contextualizing, and corroborating evidence",
+      "Choosing the newest source automatically",
+      "Using one source without context",
+      "Ignoring contradictory records"
+    ],
+    "correctAnswer": "Sourcing, contextualizing, and corroborating evidence",
+    "explanation": "Strong interpretations rest on multiple evaluated sources and clear context.",
+    "sourceName": "Library of Congress - Getting Started with Primary Sources",
+    "sourceUrl": "https://www.loc.gov/programs/teachers/getting-started-with-primary-sources/",
+    "reviewStatus": "reviewed"
+  }
+]

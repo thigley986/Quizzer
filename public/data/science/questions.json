@@ -1,0 +1,2162 @@
+[
+  {
+    "id": "science-9-0001",
+    "ageGroup": "9",
+    "category": "science",
+    "difficulty": "easy",
+    "question": "What process lets many plants use sunlight to make sugar?",
+    "choices": [
+      "Photosynthesis",
+      "Condensation",
+      "Erosion",
+      "Magnetism"
+    ],
+    "correctAnswer": "Photosynthesis",
+    "explanation": "Photosynthesis uses light energy, water, and carbon dioxide to make sugars that help plants grow.",
+    "sourceName": "Smithsonian Science Education Center",
+    "sourceUrl": "https://ssec.si.edu/stemvisions-blog/what-photosynthesis",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-9-0002",
+    "ageGroup": "9",
+    "category": "science",
+    "difficulty": "easy",
+    "question": "Which part of a plant is commonly where photosynthesis happens?",
+    "choices": [
+      "Leaf",
+      "Root tip",
+      "Seed coat",
+      "Flower petal only"
+    ],
+    "correctAnswer": "Leaf",
+    "explanation": "Leaves are major photosynthesis sites because they collect light and exchange gases.",
+    "sourceName": "Smithsonian Environmental Research Center",
+    "sourceUrl": "https://serc.si.edu/node/39150",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-9-0003",
+    "ageGroup": "9",
+    "category": "science",
+    "difficulty": "easy",
+    "question": "What happens when water vapor cools and changes into liquid droplets?",
+    "choices": [
+      "Condensation",
+      "Melting",
+      "Freezing",
+      "Runoff"
+    ],
+    "correctAnswer": "Condensation",
+    "explanation": "Condensation is the water-cycle step where water vapor becomes liquid water.",
+    "sourceName": "U.S. Geological Survey Water Science School",
+    "sourceUrl": "https://www.usgs.gov/special-topics/water-science-school/water-cycle",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-9-0004",
+    "ageGroup": "9",
+    "category": "science",
+    "difficulty": "easy",
+    "question": "Which word means water falling from clouds as rain, snow, sleet, or hail?",
+    "choices": [
+      "Precipitation",
+      "Infiltration",
+      "Transpiration",
+      "Sublimation"
+    ],
+    "correctAnswer": "Precipitation",
+    "explanation": "Precipitation is water released from clouds to Earth in liquid or solid form.",
+    "sourceName": "U.S. Geological Survey Water Science School",
+    "sourceUrl": "https://www.usgs.gov/special-topics/water-science-school/water-cycle",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-9-0005",
+    "ageGroup": "9",
+    "category": "science",
+    "difficulty": "easy",
+    "question": "What is weather?",
+    "choices": [
+      "Short-term conditions in the atmosphere",
+      "A rock layer under soil",
+      "The Moon orbiting Earth",
+      "A mineral crystal forming"
+    ],
+    "correctAnswer": "Short-term conditions in the atmosphere",
+    "explanation": "Weather describes what the atmosphere is doing at a particular time and place.",
+    "sourceName": "NOAA NESDIS SciJinks",
+    "sourceUrl": "https://www.nesdis.noaa.gov/about/k-12-education/scijinks/whats-the-difference-between-weather-and-climate",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-9-0006",
+    "ageGroup": "9",
+    "category": "science",
+    "difficulty": "easy",
+    "question": "A tornado is best described as which kind of air column?",
+    "choices": [
+      "A narrow, violently rotating column from a thunderstorm to the ground",
+      "A gentle sea breeze over warm water",
+      "A layer of still air in the stratosphere",
+      "A cloud made only of ice crystals"
+    ],
+    "correctAnswer": "A narrow, violently rotating column from a thunderstorm to the ground",
+    "explanation": "NOAA describes tornadoes as rotating columns of air connected with thunderstorms and the ground.",
+    "sourceName": "NOAA National Severe Storms Laboratory",
+    "sourceUrl": "https://www.nssl.noaa.gov/education/svrwx101/tornadoes/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-9-0007",
+    "ageGroup": "9",
+    "category": "science",
+    "difficulty": "easy",
+    "question": "Why does Earth have air pressure?",
+    "choices": [
+      "Air has weight and gravity pulls it downward",
+      "Air has no mass at all",
+      "Clouds push air upward only",
+      "Sunlight turns air into rock"
+    ],
+    "correctAnswer": "Air has weight and gravity pulls it downward",
+    "explanation": "Air pressure comes from the weight of air in the atmosphere pressing on Earth.",
+    "sourceName": "NOAA National Data Buoy Center",
+    "sourceUrl": "https://www.ndbc.noaa.gov/education/pressure.shtml",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-9-0008",
+    "ageGroup": "9",
+    "category": "science",
+    "difficulty": "easy",
+    "question": "What do we call the regular rise and fall of sea level along coasts?",
+    "choices": [
+      "Tides",
+      "Earthquakes",
+      "Volcanic ash",
+      "Chromosomes"
+    ],
+    "correctAnswer": "Tides",
+    "explanation": "Tides are the regular rising and falling of ocean water along shorelines.",
+    "sourceName": "NOAA National Ocean Service Education",
+    "sourceUrl": "https://oceanservice.noaa.gov/education/tutorial_tides/tides01_intro.html",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-9-0009",
+    "ageGroup": "9",
+    "category": "science",
+    "difficulty": "easy",
+    "question": "Why does the Moon shine in the night sky?",
+    "choices": [
+      "It reflects sunlight",
+      "It burns like a small star",
+      "It makes lightning",
+      "It glows from volcanoes"
+    ],
+    "correctAnswer": "It reflects sunlight",
+    "explanation": "Moonlight is sunlight reflected from the Moon surface.",
+    "sourceName": "NASA Science",
+    "sourceUrl": "https://science.nasa.gov/moon/lunar-phases-and-eclipses/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-9-0010",
+    "ageGroup": "9",
+    "category": "science",
+    "difficulty": "easy",
+    "question": "What is a meteor called while it is still a small rocky object in space?",
+    "choices": [
+      "Meteoroid",
+      "Meteorite",
+      "Tornado",
+      "Fossil"
+    ],
+    "correctAnswer": "Meteoroid",
+    "explanation": "NASA uses meteoroid for the small rocky object while it is still in space.",
+    "sourceName": "NASA Science",
+    "sourceUrl": "https://science.nasa.gov/solar-system/meteors-meteorites/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-9-0011",
+    "ageGroup": "9",
+    "category": "science",
+    "difficulty": "easy",
+    "question": "What kind of natural object is a fossil?",
+    "choices": [
+      "Evidence of ancient life preserved in rock or sediment",
+      "A cloud that brings rain",
+      "A wave caused by wind",
+      "A unit for temperature"
+    ],
+    "correctAnswer": "Evidence of ancient life preserved in rock or sediment",
+    "explanation": "Fossils are ancient remains or traces that help scientists study past life and environments.",
+    "sourceName": "Smithsonian National Museum of Natural History",
+    "sourceUrl": "https://naturalhistory.si.edu/explore/dinosaurs-fossils",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-9-0012",
+    "ageGroup": "9",
+    "category": "science",
+    "difficulty": "easy",
+    "question": "Which statement best describes a mineral?",
+    "choices": [
+      "A naturally formed solid with a crystal structure",
+      "A living animal cell",
+      "A short-term weather event",
+      "A piece of plastic made in a factory"
+    ],
+    "correctAnswer": "A naturally formed solid with a crystal structure",
+    "explanation": "A mineral is a naturally formed solid with an orderly crystal structure and chemical composition.",
+    "sourceName": "Smithsonian National Museum of Natural History",
+    "sourceUrl": "https://naturalhistory.si.edu/education/teaching-resources/earth-science/gems-and-minerals-beauties-and-building-blocks",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-10-0001",
+    "ageGroup": "10",
+    "category": "science",
+    "difficulty": "easy",
+    "question": "What is infiltration in the water cycle?",
+    "choices": [
+      "Water soaking from the ground surface into soil",
+      "Water freezing into glacier ice",
+      "Clouds releasing lightning",
+      "Ocean water rising at high tide"
+    ],
+    "correctAnswer": "Water soaking from the ground surface into soil",
+    "explanation": "Infiltration is the movement of water from the land surface into soil or porous ground.",
+    "sourceName": "U.S. Geological Survey Water Science School",
+    "sourceUrl": "https://www.usgs.gov/special-topics/water-science-school/science/infiltration-and-water-cycle",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-10-0002",
+    "ageGroup": "10",
+    "category": "science",
+    "difficulty": "easy",
+    "question": "Which water-cycle process moves water from plants into the air?",
+    "choices": [
+      "Transpiration",
+      "Deposition",
+      "Tidal current",
+      "Mineralization"
+    ],
+    "correctAnswer": "Transpiration",
+    "explanation": "Transpiration releases water vapor from plants into the atmosphere.",
+    "sourceName": "U.S. Geological Survey Water Science School",
+    "sourceUrl": "https://www.usgs.gov/special-topics/water-science-school/water-cycle",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-10-0003",
+    "ageGroup": "10",
+    "category": "science",
+    "difficulty": "easy",
+    "question": "What is the main difference between weather and climate?",
+    "choices": [
+      "Weather is short term; climate is long-term average conditions",
+      "Weather is only about oceans; climate is only about rocks",
+      "Weather uses meters; climate uses kilograms",
+      "Weather happens in space; climate happens inside cells"
+    ],
+    "correctAnswer": "Weather is short term; climate is long-term average conditions",
+    "explanation": "NOAA explains that weather changes over short periods, while climate describes long-term patterns.",
+    "sourceName": "NOAA NESDIS SciJinks",
+    "sourceUrl": "https://www.nesdis.noaa.gov/about/k-12-education/scijinks/whats-the-difference-between-weather-and-climate",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-10-0004",
+    "ageGroup": "10",
+    "category": "science",
+    "difficulty": "easy",
+    "question": "What gives hurricanes much of their energy as they develop?",
+    "choices": [
+      "Heat from warm ocean water",
+      "Magnetism from mountains",
+      "Cold dry desert sand",
+      "Moonlight reflected from clouds"
+    ],
+    "correctAnswer": "Heat from warm ocean water",
+    "explanation": "Hurricanes grow from tropical storm systems that feed on heat supplied by ocean water.",
+    "sourceName": "NOAA National Data Buoy Center",
+    "sourceUrl": "https://www.ndbc.noaa.gov/education/hurr.shtml",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-10-0005",
+    "ageGroup": "10",
+    "category": "science",
+    "difficulty": "easy",
+    "question": "What does a barometer measure?",
+    "choices": [
+      "Air pressure",
+      "Moon phase",
+      "Ocean salinity",
+      "DNA sequence"
+    ],
+    "correctAnswer": "Air pressure",
+    "explanation": "A barometer is used to measure atmospheric pressure.",
+    "sourceName": "NOAA National Data Buoy Center",
+    "sourceUrl": "https://www.ndbc.noaa.gov/education/pressure.shtml",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-10-0006",
+    "ageGroup": "10",
+    "category": "science",
+    "difficulty": "easy",
+    "question": "As elevation increases, what usually happens to air pressure?",
+    "choices": [
+      "It decreases",
+      "It becomes exactly zero",
+      "It turns into humidity",
+      "It always doubles"
+    ],
+    "correctAnswer": "It decreases",
+    "explanation": "There are fewer air molecules above higher elevations, so air pressure generally decreases with height.",
+    "sourceName": "NOAA National Data Buoy Center",
+    "sourceUrl": "https://www.ndbc.noaa.gov/education/pressure.shtml",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-10-0007",
+    "ageGroup": "10",
+    "category": "science",
+    "difficulty": "easy",
+    "question": "What is the difference between high tide and low tide called?",
+    "choices": [
+      "Tidal range",
+      "Seismic gap",
+      "Genome",
+      "Greenhouse effect"
+    ],
+    "correctAnswer": "Tidal range",
+    "explanation": "Tidal range is the height difference between high tide and low tide.",
+    "sourceName": "NOAA National Ocean Service Education",
+    "sourceUrl": "https://oceanservice.noaa.gov/education/tutorial_tides/tides01_intro.html",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-10-0008",
+    "ageGroup": "10",
+    "category": "science",
+    "difficulty": "easy",
+    "question": "Which answer best describes volcanic ash?",
+    "choices": [
+      "Tiny fragments of rock, minerals, and volcanic glass",
+      "Soft ash from burned paper",
+      "Liquid rain from a thunderstorm",
+      "Salt left after ocean water evaporates"
+    ],
+    "correctAnswer": "Tiny fragments of rock, minerals, and volcanic glass",
+    "explanation": "Volcanic ash is made of small hard fragments produced during explosive eruptions.",
+    "sourceName": "U.S. Geological Survey Volcano Hazards Program",
+    "sourceUrl": "https://volcanoes.usgs.gov/volcanic_ash/ash.html",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-10-0009",
+    "ageGroup": "10",
+    "category": "science",
+    "difficulty": "easy",
+    "question": "What causes the Moon phases we see from Earth?",
+    "choices": [
+      "We see different amounts of the Moon sunlit half",
+      "Earth shadow covers the Moon every night",
+      "The Moon changes its real shape",
+      "Clouds in space hide parts of the Moon"
+    ],
+    "correctAnswer": "We see different amounts of the Moon sunlit half",
+    "explanation": "Moon phases happen because the Moon orbits Earth and we see changing portions of its sunlit side.",
+    "sourceName": "NASA Science",
+    "sourceUrl": "https://science.nasa.gov/moon/lunar-phases-and-eclipses/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-10-0010",
+    "ageGroup": "10",
+    "category": "science",
+    "difficulty": "easy",
+    "question": "When a meteoroid reaches the ground, what is it called?",
+    "choices": [
+      "Meteorite",
+      "Comet",
+      "Asteroid belt",
+      "Chromosome"
+    ],
+    "correctAnswer": "Meteorite",
+    "explanation": "NASA calls a meteoroid that survives the atmosphere and hits the ground a meteorite.",
+    "sourceName": "NASA Science",
+    "sourceUrl": "https://science.nasa.gov/solar-system/meteors-meteorites/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-10-0011",
+    "ageGroup": "10",
+    "category": "science",
+    "difficulty": "easy",
+    "question": "What does DNA contain?",
+    "choices": [
+      "Instructions used by living things to develop and function",
+      "Only water and salt",
+      "Weather records for a city",
+      "The force that causes tides"
+    ],
+    "correctAnswer": "Instructions used by living things to develop and function",
+    "explanation": "DNA carries biological instructions that are passed from adults to offspring.",
+    "sourceName": "National Human Genome Research Institute",
+    "sourceUrl": "https://www.genome.gov/about-genomics/fact-sheets/deoxyribonucleic-acid-fact-sheet",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-10-0012",
+    "ageGroup": "10",
+    "category": "science",
+    "difficulty": "easy",
+    "question": "What makes a rock different from a single mineral?",
+    "choices": [
+      "A rock can be made of one or more minerals mixed together",
+      "A rock must always be alive",
+      "A rock is only found in clouds",
+      "A rock is a short piece of DNA"
+    ],
+    "correctAnswer": "A rock can be made of one or more minerals mixed together",
+    "explanation": "Rocks are natural materials often made from combinations of minerals.",
+    "sourceName": "Smithsonian National Museum of Natural History",
+    "sourceUrl": "https://naturalhistory.si.edu/education/teaching-resources/earth-science/gems-and-minerals-beauties-and-building-blocks",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-11-0001",
+    "ageGroup": "11",
+    "category": "science",
+    "difficulty": "easy",
+    "question": "What is surface runoff in the water cycle?",
+    "choices": [
+      "Water flowing over land toward streams, lakes, or oceans",
+      "Water vapor changing straight into ice crystals",
+      "Plants making sugar with sunlight",
+      "DNA copying before cell division"
+    ],
+    "correctAnswer": "Water flowing over land toward streams, lakes, or oceans",
+    "explanation": "Runoff is water that moves across the land surface when it does not soak into the ground.",
+    "sourceName": "U.S. Geological Survey Water Science School",
+    "sourceUrl": "https://www.usgs.gov/special-topics/water-science-school/water-cycle",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-11-0002",
+    "ageGroup": "11",
+    "category": "science",
+    "difficulty": "easy",
+    "question": "What is groundwater storage?",
+    "choices": [
+      "Water held underground in soil and rock spaces",
+      "Water held only in clouds",
+      "Water frozen in comet tails",
+      "Water inside chromosomes"
+    ],
+    "correctAnswer": "Water held underground in soil and rock spaces",
+    "explanation": "Groundwater storage is the water found beneath Earth surface in pore spaces and cracks.",
+    "sourceName": "U.S. Geological Survey Water Science School",
+    "sourceUrl": "https://www.usgs.gov/special-topics/water-science-school/water-cycle",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-11-0003",
+    "ageGroup": "11",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "What is the hypocenter of an earthquake?",
+    "choices": [
+      "The place below Earth surface where the earthquake starts",
+      "The point on the surface directly above the earthquake",
+      "A scale for wind speed",
+      "A ring around a mineral crystal"
+    ],
+    "correctAnswer": "The place below Earth surface where the earthquake starts",
+    "explanation": "USGS identifies the hypocenter as the underground starting location of an earthquake.",
+    "sourceName": "U.S. Geological Survey Earthquake Hazards Program",
+    "sourceUrl": "https://www.usgs.gov/programs/earthquake-hazards/science-earthquakes",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-11-0004",
+    "ageGroup": "11",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "What is the epicenter of an earthquake?",
+    "choices": [
+      "The point on Earth surface directly above where the quake starts",
+      "The deepest layer of the ocean",
+      "The warm center of a hurricane eye",
+      "The first quarter phase of the Moon"
+    ],
+    "correctAnswer": "The point on Earth surface directly above where the quake starts",
+    "explanation": "The epicenter is the surface point directly above the earthquake hypocenter.",
+    "sourceName": "U.S. Geological Survey Earthquake Hazards Program",
+    "sourceUrl": "https://www.usgs.gov/programs/earthquake-hazards/science-earthquakes",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-11-0005",
+    "ageGroup": "11",
+    "category": "science",
+    "difficulty": "easy",
+    "question": "What is a fault in earthquake science?",
+    "choices": [
+      "A surface where blocks of Earth slip past each other",
+      "A cloud that makes hail",
+      "A fossilized plant leaf",
+      "A strand of DNA bases"
+    ],
+    "correctAnswer": "A surface where blocks of Earth slip past each other",
+    "explanation": "Earthquakes occur when blocks of rock suddenly slip along a fault or fault plane.",
+    "sourceName": "U.S. Geological Survey Earthquake Hazards Program",
+    "sourceUrl": "https://www.usgs.gov/programs/earthquake-hazards/science-earthquakes",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-11-0006",
+    "ageGroup": "11",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "Which earthquake wave commonly arrives first at a seismic station?",
+    "choices": [
+      "P wave",
+      "S wave",
+      "Surface wave only",
+      "Tidal wave"
+    ],
+    "correctAnswer": "P wave",
+    "explanation": "USGS explains that P waves are primary waves because they arrive first at seismic stations.",
+    "sourceName": "U.S. Geological Survey Earthquake Hazards Program",
+    "sourceUrl": "https://www.usgs.gov/programs/earthquake-hazards/seismographs-keeping-track-earthquakes",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-11-0007",
+    "ageGroup": "11",
+    "category": "science",
+    "difficulty": "easy",
+    "question": "Which gases make up most of Earth atmosphere by volume?",
+    "choices": [
+      "Nitrogen and oxygen",
+      "Hydrogen and helium",
+      "Carbon dioxide and methane",
+      "Argon and neon only"
+    ],
+    "correctAnswer": "Nitrogen and oxygen",
+    "explanation": "NOAA gives nitrogen as about 78 percent and oxygen about 21 percent of dry air by volume.",
+    "sourceName": "NOAA National Data Buoy Center",
+    "sourceUrl": "https://www.ndbc.noaa.gov/education/pressure.shtml",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-11-0008",
+    "ageGroup": "11",
+    "category": "science",
+    "difficulty": "easy",
+    "question": "When a hurricane has a calm-looking center, what is that center called?",
+    "choices": [
+      "Eye",
+      "Core sample",
+      "Genome",
+      "Meteoroid"
+    ],
+    "correctAnswer": "Eye",
+    "explanation": "NOAA describes hurricane winds circulating around a specific center called the eye.",
+    "sourceName": "NOAA National Data Buoy Center",
+    "sourceUrl": "https://www.ndbc.noaa.gov/education/hurr.shtml",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-11-0009",
+    "ageGroup": "11",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "What do greenhouse gases do in Earth atmosphere?",
+    "choices": [
+      "Trap some heat near Earth surface",
+      "Destroy all clouds",
+      "Stop all sunlight from reaching land",
+      "Turn oxygen into rock"
+    ],
+    "correctAnswer": "Trap some heat near Earth surface",
+    "explanation": "Greenhouse gases keep Earth warmer by trapping some outgoing heat in the atmosphere.",
+    "sourceName": "NASA Science",
+    "sourceUrl": "https://science.nasa.gov/kids/earth/what-is-the-greenhouse-effect/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-11-0010",
+    "ageGroup": "11",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "Which term describes a small icy object that heats up near the Sun and can form a glowing head and tail?",
+    "choices": [
+      "Comet",
+      "Meteorite",
+      "Earthquake",
+      "Chromosome"
+    ],
+    "correctAnswer": "Comet",
+    "explanation": "Comets are frozen mixtures of gases, rock, and dust that can release gas and dust when heated near the Sun.",
+    "sourceName": "NASA Science",
+    "sourceUrl": "https://science.nasa.gov/solar-system/comets/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-11-0011",
+    "ageGroup": "11",
+    "category": "science",
+    "difficulty": "easy",
+    "question": "Where is DNA found in eukaryotic cells such as plant and animal cells?",
+    "choices": [
+      "Nucleus",
+      "Cell wall only",
+      "Ocean tide",
+      "Volcanic ash"
+    ],
+    "correctAnswer": "Nucleus",
+    "explanation": "In eukaryotic organisms, DNA is found inside the cell nucleus.",
+    "sourceName": "National Human Genome Research Institute",
+    "sourceUrl": "https://www.genome.gov/about-genomics/fact-sheets/deoxyribonucleic-acid-fact-sheet",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-11-0012",
+    "ageGroup": "11",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "What is a chromosome made of?",
+    "choices": [
+      "DNA and protein",
+      "Only liquid water",
+      "Only air pressure",
+      "Only volcanic glass"
+    ],
+    "correctAnswer": "DNA and protein",
+    "explanation": "Chromosomes are threadlike structures made of DNA packaged with proteins.",
+    "sourceName": "National Human Genome Research Institute",
+    "sourceUrl": "https://www.genome.gov/about-genomics/fact-sheets/Chromosomes-Fact-Sheet",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-12-0001",
+    "ageGroup": "12",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "Which water-cycle process changes liquid water into water vapor?",
+    "choices": [
+      "Evaporation",
+      "Condensation",
+      "Infiltration",
+      "Precipitation"
+    ],
+    "correctAnswer": "Evaporation",
+    "explanation": "Evaporation moves water from liquid pools such as oceans and lakes into the atmosphere as vapor.",
+    "sourceName": "U.S. Geological Survey Water Science School",
+    "sourceUrl": "https://www.usgs.gov/special-topics/water-science-school/water-cycle",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-12-0002",
+    "ageGroup": "12",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "Why can warm air tend to rise compared with cooler air?",
+    "choices": [
+      "Warm air is less dense",
+      "Warm air has no molecules",
+      "Warm air is made mostly of iron",
+      "Warm air becomes a solid"
+    ],
+    "correctAnswer": "Warm air is less dense",
+    "explanation": "NOAA explains that warm air is less dense and therefore buoyant compared with cooler air.",
+    "sourceName": "NOAA National Data Buoy Center",
+    "sourceUrl": "https://www.ndbc.noaa.gov/education/pressure_ans.shtml",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-12-0003",
+    "ageGroup": "12",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "What wind speed threshold does NOAA use for a storm to be called a hurricane?",
+    "choices": [
+      "Greater than 74 mph",
+      "Exactly 20 mph",
+      "Less than 36 mph",
+      "Between 36 and 50 mph only"
+    ],
+    "correctAnswer": "Greater than 74 mph",
+    "explanation": "NOAA lists hurricanes as tropical cyclones with winds greater than 74 miles per hour.",
+    "sourceName": "NOAA National Data Buoy Center",
+    "sourceUrl": "https://www.ndbc.noaa.gov/education/hurr.shtml",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-12-0004",
+    "ageGroup": "12",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "What is a flood current in tidal science?",
+    "choices": [
+      "A tidal current moving toward land",
+      "A river flowing only underground",
+      "A wave that shakes bedrock",
+      "A current made by volcanic ash"
+    ],
+    "correctAnswer": "A tidal current moving toward land",
+    "explanation": "NOAA defines the incoming tide moving toward shore as a flood current.",
+    "sourceName": "NOAA National Ocean Service Education",
+    "sourceUrl": "https://oceanservice.noaa.gov/education/tutorial_tides/tides01_intro.html",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-12-0005",
+    "ageGroup": "12",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "What is an ebb current?",
+    "choices": [
+      "A tidal current moving away from land toward the sea",
+      "A warm current that always moves north",
+      "A river flowing into an aquifer",
+      "A wind inside a tornado funnel"
+    ],
+    "correctAnswer": "A tidal current moving away from land toward the sea",
+    "explanation": "The outgoing tide moving water away from shore is called an ebb current.",
+    "sourceName": "NOAA National Ocean Service Education",
+    "sourceUrl": "https://oceanservice.noaa.gov/education/tutorial_currents/02tidal1.html/media/media/supp_cur02a.html",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-12-0006",
+    "ageGroup": "12",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "What usually causes ocean acidification?",
+    "choices": [
+      "Carbon dioxide dissolving in seawater and increasing acidity",
+      "Moon phases changing every month",
+      "Volcanic ash cooling in air",
+      "P waves arriving at stations"
+    ],
+    "correctAnswer": "Carbon dioxide dissolving in seawater and increasing acidity",
+    "explanation": "NOAA explains that absorbed carbon dioxide mixes with water and increases ocean acidity.",
+    "sourceName": "NOAA National Ocean Service Education",
+    "sourceUrl": "https://oceanservice.noaa.gov/education/tutorial_corals/media/supp_coral08c.html",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-12-0007",
+    "ageGroup": "12",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "Why can ocean acidification harm corals and shellfish?",
+    "choices": [
+      "It makes carbonate building materials less available",
+      "It removes all oxygen from every reef",
+      "It stops tides from rising",
+      "It turns seawater into fresh water"
+    ],
+    "correctAnswer": "It makes carbonate building materials less available",
+    "explanation": "More acidic seawater makes carbonate harder for shell-building organisms to use.",
+    "sourceName": "NOAA National Ocean Service Education",
+    "sourceUrl": "https://oceanservice.noaa.gov/education/tutorial_corals/media/supp_coral08c.html",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-12-0008",
+    "ageGroup": "12",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "Which SI base unit measures length?",
+    "choices": [
+      "Meter",
+      "Kelvin",
+      "Ampere",
+      "Mole"
+    ],
+    "correctAnswer": "Meter",
+    "explanation": "NIST lists the meter as the SI base unit for length.",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/pml/weights-and-measures/metric-si/si-units",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-12-0009",
+    "ageGroup": "12",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "Which SI base unit measures thermodynamic temperature?",
+    "choices": [
+      "Kelvin",
+      "Kilogram",
+      "Second",
+      "Candela"
+    ],
+    "correctAnswer": "Kelvin",
+    "explanation": "NIST lists the kelvin as the SI base unit for thermodynamic temperature.",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/pml/weights-and-measures/metric-si/si-units",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-12-0010",
+    "ageGroup": "12",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "Which electromagnetic waves can we see with our eyes?",
+    "choices": [
+      "Visible light",
+      "Radio waves",
+      "X-rays",
+      "Gamma rays"
+    ],
+    "correctAnswer": "Visible light",
+    "explanation": "Visible light is the part of the electromagnetic spectrum detectable by human eyes.",
+    "sourceName": "NASA Science",
+    "sourceUrl": "https://science.nasa.gov/ems/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-12-0011",
+    "ageGroup": "12",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "What is the shape of DNA often called?",
+    "choices": [
+      "Double helix",
+      "Square lattice",
+      "Flat map",
+      "Tidal range"
+    ],
+    "correctAnswer": "Double helix",
+    "explanation": "DNA has two linked strands that wind around each other in a double-helix shape.",
+    "sourceName": "National Human Genome Research Institute",
+    "sourceUrl": "https://www.genome.gov/genetics-glossary/Deoxyribonucleic-Acid",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-12-0012",
+    "ageGroup": "12",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "What are genes?",
+    "choices": [
+      "DNA segments with instructions for making proteins or functional molecules",
+      "Small rocks left over from eruptions",
+      "High clouds made of ice crystals",
+      "Currents caused only by tides"
+    ],
+    "correctAnswer": "DNA segments with instructions for making proteins or functional molecules",
+    "explanation": "A gene is a DNA sequence carrying instructions used by the cell, often to make a protein.",
+    "sourceName": "National Human Genome Research Institute",
+    "sourceUrl": "https://www.genome.gov/about-genomics/fact-sheets/deoxyribonucleic-acid-fact-sheet",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-13-0001",
+    "ageGroup": "13",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "Which earthquake term names the energy that travels outward from a slipping fault?",
+    "choices": [
+      "Seismic waves",
+      "Tidal currents",
+      "Greenhouse gases",
+      "Carbonate ions"
+    ],
+    "correctAnswer": "Seismic waves",
+    "explanation": "Earthquake energy radiates away from the fault as seismic waves.",
+    "sourceName": "U.S. Geological Survey Earthquake Hazards Program",
+    "sourceUrl": "https://www.usgs.gov/programs/earthquake-hazards/science-earthquakes",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-13-0002",
+    "ageGroup": "13",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "How can data from three seismic stations help locate an earthquake?",
+    "choices": [
+      "The distance circles can intersect at the epicenter",
+      "They directly measure ocean acidity",
+      "They reveal the Moon current phase",
+      "They count all minerals in bedrock"
+    ],
+    "correctAnswer": "The distance circles can intersect at the epicenter",
+    "explanation": "USGS describes using distances from multiple stations to triangulate an epicenter.",
+    "sourceName": "U.S. Geological Survey Earthquake Hazards Program",
+    "sourceUrl": "https://www.usgs.gov/programs/earthquake-hazards/science-earthquakes",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-13-0003",
+    "ageGroup": "13",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "In plate tectonics, what are plates?",
+    "choices": [
+      "Large shifting slabs of Earth outer shell",
+      "Cloud layers in the troposphere",
+      "Small DNA bases",
+      "Pieces of volcanic ash smaller than clay"
+    ],
+    "correctAnswer": "Large shifting slabs of Earth outer shell",
+    "explanation": "USGS describes Earth surface as broken into moving plates or slabs.",
+    "sourceName": "U.S. Geological Survey",
+    "sourceUrl": "https://pubs.usgs.gov/gip/volc/tectonics.html",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-13-0004",
+    "ageGroup": "13",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "What is magma?",
+    "choices": [
+      "Molten rock below Earth surface",
+      "Air pressure at sea level",
+      "A chromosome inside the nucleus",
+      "A frozen comet tail"
+    ],
+    "correctAnswer": "Molten rock below Earth surface",
+    "explanation": "Volcanic ash can form when gases in rising molten rock, or magma, expand and fragment it.",
+    "sourceName": "U.S. Geological Survey Volcano Hazards Program",
+    "sourceUrl": "https://volcanoes.usgs.gov/volcanic_ash/ash.html",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-13-0005",
+    "ageGroup": "13",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "Why does explosive volcanic ash spread over broad areas?",
+    "choices": [
+      "Wind can carry the tiny hard particles far from the volcano",
+      "Ash dissolves instantly in rain",
+      "Ash is made of soft burned wood",
+      "Earth tides pull ash underground"
+    ],
+    "correctAnswer": "Wind can carry the tiny hard particles far from the volcano",
+    "explanation": "USGS notes that wind can blow airborne ash particles long distances.",
+    "sourceName": "U.S. Geological Survey Volcano Hazards Program",
+    "sourceUrl": "https://volcanoes.usgs.gov/volcanic_ash/ash.html",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-13-0006",
+    "ageGroup": "13",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "What time span is commonly used for NOAA climate normals?",
+    "choices": [
+      "30 years",
+      "3 days",
+      "12 hours",
+      "One Moon phase"
+    ],
+    "correctAnswer": "30 years",
+    "explanation": "NOAA climate normals are three-decade averages of weather observations.",
+    "sourceName": "NOAA National Centers for Environmental Information",
+    "sourceUrl": "https://www.ncei.noaa.gov/index.php/news/weather-vs-climate",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-13-0007",
+    "ageGroup": "13",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "What does climate describe for a place?",
+    "choices": [
+      "Long-term patterns of temperature, precipitation, wind, and related conditions",
+      "Only tomorrow afternoon weather",
+      "Only the number of rocks in soil",
+      "Only the shape of chromosomes"
+    ],
+    "correctAnswer": "Long-term patterns of temperature, precipitation, wind, and related conditions",
+    "explanation": "Climate summarizes long-term average atmospheric conditions for a region.",
+    "sourceName": "NOAA National Centers for Environmental Information",
+    "sourceUrl": "https://www.ncei.noaa.gov/index.php/news/weather-vs-climate",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-13-0008",
+    "ageGroup": "13",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "Why are tides linked to the Moon and Sun?",
+    "choices": [
+      "Their gravitational forces act on ocean water",
+      "They heat coral reefs directly",
+      "They create DNA bases in seawater",
+      "They stop air pressure from changing"
+    ],
+    "correctAnswer": "Their gravitational forces act on ocean water",
+    "explanation": "NOAA explains tides as long-period waves responding to forces from the Moon and Sun.",
+    "sourceName": "NOAA National Ocean Service Education",
+    "sourceUrl": "https://oceanservice.noaa.gov/education/tutorial_tides/tides01_intro.html",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-13-0009",
+    "ageGroup": "13",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "Which type of electromagnetic radiation has shorter wavelengths and more energy than visible light?",
+    "choices": [
+      "Ultraviolet radiation",
+      "Infrared radiation",
+      "Radio waves",
+      "Microwaves"
+    ],
+    "correctAnswer": "Ultraviolet radiation",
+    "explanation": "NASA explains that ultraviolet radiation has shorter wavelengths and higher energy than visible light.",
+    "sourceName": "NASA Science",
+    "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/ultraviolet-radiation/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-13-0010",
+    "ageGroup": "13",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "Which electromagnetic waves are often associated with heat and are just beyond red visible light?",
+    "choices": [
+      "Infrared waves",
+      "Gamma rays",
+      "X-rays",
+      "Ultraviolet waves"
+    ],
+    "correctAnswer": "Infrared waves",
+    "explanation": "Infrared light is part of the electromagnetic spectrum beyond visible red light and is associated with thermal radiation.",
+    "sourceName": "NASA Science",
+    "sourceUrl": "https://science.nasa.gov/ems/07_infraredwaves/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-13-0011",
+    "ageGroup": "13",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "Which DNA bases pair together across the two strands?",
+    "choices": [
+      "A with T, and C with G",
+      "A with C, and T with G",
+      "A with G, and C with T",
+      "All four bases pair randomly"
+    ],
+    "correctAnswer": "A with T, and C with G",
+    "explanation": "NHGRI explains that adenine pairs with thymine, and cytosine pairs with guanine.",
+    "sourceName": "National Human Genome Research Institute",
+    "sourceUrl": "https://www.genome.gov/genetics-glossary/Deoxyribonucleic-Acid",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-13-0012",
+    "ageGroup": "13",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "What is a genome?",
+    "choices": [
+      "The complete set of DNA instructions in a cell",
+      "A single tide height at one beach",
+      "A volcanic particle made of glass",
+      "A cloud produced by a tornado"
+    ],
+    "correctAnswer": "The complete set of DNA instructions in a cell",
+    "explanation": "A genome is the entire set of DNA instructions found in a cell.",
+    "sourceName": "National Human Genome Research Institute",
+    "sourceUrl": "https://www.genome.gov/about-genomics/educational-resources/fact-sheets/human-genomic-variation",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-14-0001",
+    "ageGroup": "14",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "Why are shallow, intermediate, and deep earthquakes grouped by depth?",
+    "choices": [
+      "Earthquakes can start at different depths below Earth surface",
+      "Only shallow earthquakes produce any waves",
+      "The Moon changes earthquake depth daily",
+      "Depth is the same as wind speed"
+    ],
+    "correctAnswer": "Earthquakes can start at different depths below Earth surface",
+    "explanation": "USGS classifies earthquakes by focal depth, from shallow to deep zones.",
+    "sourceName": "U.S. Geological Survey Earthquake Hazards Program",
+    "sourceUrl": "https://www.usgs.gov/programs/earthquake-hazards/determining-depth-earthquake",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-14-0002",
+    "ageGroup": "14",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "What depth range does USGS use for shallow earthquakes?",
+    "choices": [
+      "0 to 70 kilometers",
+      "70 to 300 kilometers",
+      "300 to 700 kilometers",
+      "700 to 1,000 kilometers only"
+    ],
+    "correctAnswer": "0 to 70 kilometers",
+    "explanation": "USGS defines shallow earthquakes as those from 0 to 70 kilometers deep.",
+    "sourceName": "U.S. Geological Survey Earthquake Hazards Program",
+    "sourceUrl": "https://www.usgs.gov/programs/earthquake-hazards/determining-depth-earthquake",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-14-0003",
+    "ageGroup": "14",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "Why do deep-focus earthquakes occur within sinking slabs of lithosphere?",
+    "choices": [
+      "Subducting plates can carry brittle regions deep into the mantle",
+      "Ocean tides push faults downward each day",
+      "Volcanic ash weighs down the atmosphere",
+      "Chromosomes pull rocks beneath continents"
+    ],
+    "correctAnswer": "Subducting plates can carry brittle regions deep into the mantle",
+    "explanation": "USGS links deep-focus earthquakes to lithosphere slabs sinking into the mantle.",
+    "sourceName": "U.S. Geological Survey Earthquake Hazards Program",
+    "sourceUrl": "https://www.usgs.gov/programs/earthquake-hazards/determining-depth-earthquake",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-14-0004",
+    "ageGroup": "14",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "What is a spring tidal current?",
+    "choices": [
+      "A stronger current near full or new Moon phases",
+      "A current that occurs only in March",
+      "A current with no horizontal motion",
+      "A stream caused by groundwater only"
+    ],
+    "correctAnswer": "A stronger current near full or new Moon phases",
+    "explanation": "NOAA explains that tidal current speeds are stronger near full and new Moon phases.",
+    "sourceName": "NOAA National Ocean Service Education",
+    "sourceUrl": "https://oceanservice.noaa.gov/education/tutorial_currents/02tidal1.html/media/media/supp_cur02a.html",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-14-0005",
+    "ageGroup": "14",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "What is slack water in tidal-current terminology?",
+    "choices": [
+      "A short period when tidal current speed is near zero",
+      "The highest part of a tide wave",
+      "Acidic water around coral reefs",
+      "Water stored underground in rock pores"
+    ],
+    "correctAnswer": "A short period when tidal current speed is near zero",
+    "explanation": "NOAA describes slack water as a brief period of little or no tidal-current velocity.",
+    "sourceName": "NOAA National Ocean Service Education",
+    "sourceUrl": "https://oceanservice.noaa.gov/education/tutorial_currents/02tidal1.html/media/media/supp_cur02a.html",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-14-0006",
+    "ageGroup": "14",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "Why can warming oceans cause coral bleaching?",
+    "choices": [
+      "Heat stress can cause corals to expel their symbiotic algae",
+      "Warm water adds new carbonate ions to every reef",
+      "Warm water stops all tides",
+      "Heat turns coral skeletons into DNA"
+    ],
+    "correctAnswer": "Heat stress can cause corals to expel their symbiotic algae",
+    "explanation": "NOAA explains that stressed corals can expel algae living in their tissues and turn white.",
+    "sourceName": "NOAA National Ocean Service Education",
+    "sourceUrl": "https://oceanservice.noaa.gov/education/tutorial_corals/coral08_climatechange.html",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-14-0007",
+    "ageGroup": "14",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "What does the SI unit mole measure?",
+    "choices": [
+      "Amount of substance",
+      "Electric current",
+      "Length",
+      "Luminous intensity"
+    ],
+    "correctAnswer": "Amount of substance",
+    "explanation": "NIST lists the mole as the SI base unit for amount of substance.",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/pml/weights-and-measures/metric-si/si-units",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-14-0008",
+    "ageGroup": "14",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "What does the SI unit ampere measure?",
+    "choices": [
+      "Electric current",
+      "Mass",
+      "Temperature",
+      "Time"
+    ],
+    "correctAnswer": "Electric current",
+    "explanation": "NIST lists the ampere as the SI base unit for electric current.",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/pml/weights-and-measures/metric-si/si-units",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-14-0009",
+    "ageGroup": "14",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "What is the elementary charge in the modern SI system?",
+    "choices": [
+      "A defining constant related to the charge of a proton",
+      "A name for every weather station",
+      "The mass of one comet",
+      "The distance light travels in a month"
+    ],
+    "correctAnswer": "A defining constant related to the charge of a proton",
+    "explanation": "NIST lists the elementary charge as one of the defining constants used in the SI.",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/si-redefinition/meet-constants",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-14-0010",
+    "ageGroup": "14",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "Why are chromosomes important during cell division?",
+    "choices": [
+      "They help DNA be copied and distributed to new cells",
+      "They measure wind speed",
+      "They store tide predictions",
+      "They make volcanic ash abrasive"
+    ],
+    "correctAnswer": "They help DNA be copied and distributed to new cells",
+    "explanation": "Chromosomes help package DNA so it can be accurately copied and distributed during cell division.",
+    "sourceName": "National Human Genome Research Institute",
+    "sourceUrl": "https://www.genome.gov/about-genomics/fact-sheets/Chromosomes-Fact-Sheet",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-14-0011",
+    "ageGroup": "14",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "How many chromosomes are in a typical human body cell?",
+    "choices": [
+      "46",
+      "23",
+      "78",
+      "3 billion"
+    ],
+    "correctAnswer": "46",
+    "explanation": "NHGRI states that humans have 46 chromosomes, organized as 23 pairs, in most cells.",
+    "sourceName": "National Human Genome Research Institute",
+    "sourceUrl": "https://www.genome.gov/About-Genomics/Introduction-to-Genomics",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-14-0012",
+    "ageGroup": "14",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "Why is quartz common in Earth crust?",
+    "choices": [
+      "Its ingredients include oxygen and silicon, which are abundant in the crust",
+      "It forms only inside living cells",
+      "It is made mostly of nitrogen gas",
+      "It falls from meteor showers every night"
+    ],
+    "correctAnswer": "Its ingredients include oxygen and silicon, which are abundant in the crust",
+    "explanation": "Smithsonian explains that quartz is common because oxygen and silicon are major components of Earth crust.",
+    "sourceName": "Smithsonian National Museum of Natural History",
+    "sourceUrl": "https://naturalhistory.si.edu/education/teaching-resources/earth-science/gems-and-minerals-beauties-and-building-blocks",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-15-0001",
+    "ageGroup": "15",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "What is accretion in early solar-system formation?",
+    "choices": [
+      "Small particles colliding and sticking into larger bodies",
+      "A tide moving away from the coast",
+      "DNA bases pairing during replication",
+      "Ash dissolving in seawater"
+    ],
+    "correctAnswer": "Small particles colliding and sticking into larger bodies",
+    "explanation": "NASA describes accretion as dust particles colliding and building larger rocks and eventually planets.",
+    "sourceName": "NASA Science",
+    "sourceUrl": "https://science.nasa.gov/asteroids-comets-meteors/facts/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-15-0002",
+    "ageGroup": "15",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "Why can asteroids and comets help scientists study the early solar system?",
+    "choices": [
+      "Many preserve material from about 4.6 billion years ago",
+      "They form only after modern hurricanes",
+      "They are made from recent plant leaves",
+      "They contain no rock, ice, or metal"
+    ],
+    "correctAnswer": "Many preserve material from about 4.6 billion years ago",
+    "explanation": "NASA notes many small bodies have changed little since the solar system formed.",
+    "sourceName": "NASA Science",
+    "sourceUrl": "https://science.nasa.gov/asteroids-comets-meteors/facts/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-15-0003",
+    "ageGroup": "15",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "Where do many comets in our solar system spend much of their time?",
+    "choices": [
+      "In distant regions such as the Kuiper Belt and Oort Cloud",
+      "Inside Earth atmosphere",
+      "At the bottom of estuaries",
+      "Inside human chromosomes"
+    ],
+    "correctAnswer": "In distant regions such as the Kuiper Belt and Oort Cloud",
+    "explanation": "NASA describes large populations of comets in the Kuiper Belt and more distant Oort Cloud.",
+    "sourceName": "NASA Science",
+    "sourceUrl": "https://science.nasa.gov/solar-system/comets/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-15-0004",
+    "ageGroup": "15",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "What usually makes a comet tail point away from the Sun?",
+    "choices": [
+      "Gas and dust released as the comet heats near the Sun",
+      "Earth gravity pulling on ocean tides",
+      "A hurricane eye pushing outward",
+      "DNA bases repelling each other"
+    ],
+    "correctAnswer": "Gas and dust released as the comet heats near the Sun",
+    "explanation": "As a comet warms near the Sun, released gas and dust form a tail extending away from the Sun.",
+    "sourceName": "NASA Science",
+    "sourceUrl": "https://science.nasa.gov/solar-system/comets/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-15-0005",
+    "ageGroup": "15",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "What does the greenhouse effect do for Earth overall?",
+    "choices": [
+      "Keeps the surface warmer than it would be without heat-trapping gases",
+      "Removes all heat from the surface",
+      "Stops sunlight from entering the atmosphere",
+      "Turns air pressure into precipitation"
+    ],
+    "correctAnswer": "Keeps the surface warmer than it would be without heat-trapping gases",
+    "explanation": "NASA explains the greenhouse effect keeps Earth warm enough to support life.",
+    "sourceName": "NASA Science",
+    "sourceUrl": "https://science.nasa.gov/kids/earth/what-is-the-greenhouse-effect/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-15-0006",
+    "ageGroup": "15",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "Which statement best distinguishes a meteor from a meteorite?",
+    "choices": [
+      "A meteor is the bright event in the atmosphere; a meteorite reaches the ground",
+      "A meteor is always larger than a planet; a meteorite is a cloud",
+      "A meteor is liquid water; a meteorite is water vapor",
+      "A meteor is DNA; a meteorite is protein"
+    ],
+    "correctAnswer": "A meteor is the bright event in the atmosphere; a meteorite reaches the ground",
+    "explanation": "NASA names the atmospheric streak a meteor and the surviving ground object a meteorite.",
+    "sourceName": "NASA Science",
+    "sourceUrl": "https://science.nasa.gov/solar-system/meteors-meteorites/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-15-0007",
+    "ageGroup": "15",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "What is a gene product often used to build or control in the body?",
+    "choices": [
+      "A protein",
+      "A tide table",
+      "A P wave",
+      "A mineral face"
+    ],
+    "correctAnswer": "A protein",
+    "explanation": "NHGRI explains that genes provide instructions that can be used to make proteins.",
+    "sourceName": "National Human Genome Research Institute",
+    "sourceUrl": "https://www.genome.gov/about-genomics/fact-sheets/deoxyribonucleic-acid-fact-sheet",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-15-0008",
+    "ageGroup": "15",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "About what fraction of human DNA sequence consists of protein-coding genes?",
+    "choices": [
+      "About 1 percent",
+      "About 50 percent",
+      "About 78 percent",
+      "Exactly 100 percent"
+    ],
+    "correctAnswer": "About 1 percent",
+    "explanation": "NHGRI states that genes make up about 1 percent of the human DNA sequence.",
+    "sourceName": "National Human Genome Research Institute",
+    "sourceUrl": "https://www.genome.gov/about-genomics/fact-sheets/deoxyribonucleic-acid-fact-sheet",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-15-0009",
+    "ageGroup": "15",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "What is genomic variation?",
+    "choices": [
+      "Differences in DNA sequence among individuals or populations",
+      "Daily change from high tide to low tide",
+      "The difference between hurricane and tornado winds",
+      "The movement of magma in a volcano"
+    ],
+    "correctAnswer": "Differences in DNA sequence among individuals or populations",
+    "explanation": "Human genomic variation refers to differences in DNA sequence across people.",
+    "sourceName": "National Human Genome Research Institute",
+    "sourceUrl": "https://www.genome.gov/about-genomics/educational-resources/fact-sheets/human-genomic-variation",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-15-0010",
+    "ageGroup": "15",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "Which SI base unit measures mass?",
+    "choices": [
+      "Kilogram",
+      "Mole",
+      "Second",
+      "Candela"
+    ],
+    "correctAnswer": "Kilogram",
+    "explanation": "NIST lists the kilogram as the SI base unit for mass.",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/pml/weights-and-measures/metric-si/si-units",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-15-0011",
+    "ageGroup": "15",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "Which SI base unit measures time?",
+    "choices": [
+      "Second",
+      "Meter",
+      "Kelvin",
+      "Ampere"
+    ],
+    "correctAnswer": "Second",
+    "explanation": "NIST lists the second as the SI base unit for time.",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/pml/weights-and-measures/metric-si/si-units",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-15-0012",
+    "ageGroup": "15",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "What does climate data let scientists quantify?",
+    "choices": [
+      "Long-term average conditions and patterns",
+      "The exact DNA sequence of each cloud",
+      "The number of minerals in every comet",
+      "The daily location of every earthquake hypocenter"
+    ],
+    "correctAnswer": "Long-term average conditions and patterns",
+    "explanation": "NOAA explains that weather observations over time are used to quantify long-term climate conditions.",
+    "sourceName": "NOAA National Centers for Environmental Information",
+    "sourceUrl": "https://www.ncei.noaa.gov/index.php/news/weather-vs-climate",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-16-0001",
+    "ageGroup": "16",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "What makes volcanic ash different from ash from burned wood?",
+    "choices": [
+      "It consists of hard rock, mineral, and glass fragments",
+      "It is made of soft carbon flakes only",
+      "It disappears before leaving the volcano",
+      "It is liquid seawater with carbon dioxide"
+    ],
+    "correctAnswer": "It consists of hard rock, mineral, and glass fragments",
+    "explanation": "USGS emphasizes that volcanic ash is not combustion ash; it is fragmented rock, minerals, and glass.",
+    "sourceName": "U.S. Geological Survey Volcano Hazards Program",
+    "sourceUrl": "https://volcanoes.usgs.gov/volcanic_ash/ash.html",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-16-0002",
+    "ageGroup": "16",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "Why can wet volcanic ash damage electrical systems?",
+    "choices": [
+      "It can conduct electricity when wet",
+      "It becomes pure oxygen",
+      "It changes into harmless sugar",
+      "It blocks all gravity"
+    ],
+    "correctAnswer": "It can conduct electricity when wet",
+    "explanation": "USGS lists wet volcanic ash as electrically conductive, adding to its hazard.",
+    "sourceName": "U.S. Geological Survey Volcano Hazards Program",
+    "sourceUrl": "https://volcanoes.usgs.gov/volcanic_ash/ash.html",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-16-0003",
+    "ageGroup": "16",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "Why are P and S waves useful for studying earthquakes?",
+    "choices": [
+      "Their arrival times and paths help locate and characterize earthquakes",
+      "They directly measure photosynthesis rates",
+      "They prevent all ground shaking",
+      "They show the exact pH of seawater"
+    ],
+    "correctAnswer": "Their arrival times and paths help locate and characterize earthquakes",
+    "explanation": "Seismograph records of P and S waves are used to determine earthquake locations and properties.",
+    "sourceName": "U.S. Geological Survey Earthquake Hazards Program",
+    "sourceUrl": "https://www.usgs.gov/programs/earthquake-hazards/seismographs-keeping-track-earthquakes",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-16-0004",
+    "ageGroup": "16",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "Why does a seismogram from a deep earthquake often show smaller surface waves?",
+    "choices": [
+      "The source is far below the surface, reducing surface-wave amplitude",
+      "Deep earthquakes produce no P waves",
+      "Deep earthquakes happen only in oceans",
+      "Surface waves are caused by tides instead"
+    ],
+    "correctAnswer": "The source is far below the surface, reducing surface-wave amplitude",
+    "explanation": "USGS notes small surface-wave amplitude as an indication of a deep-focus earthquake.",
+    "sourceName": "U.S. Geological Survey Earthquake Hazards Program",
+    "sourceUrl": "https://www.usgs.gov/programs/earthquake-hazards/determining-depth-earthquake",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-16-0005",
+    "ageGroup": "16",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "What causes air pressure to vary with temperature in NOAA explanation?",
+    "choices": [
+      "Temperature changes air density",
+      "Temperature changes DNA base pairing",
+      "Temperature reverses Moon phases",
+      "Temperature turns tides into currents"
+    ],
+    "correctAnswer": "Temperature changes air density",
+    "explanation": "NOAA explains that warm air is less dense and tends to rise, affecting pressure.",
+    "sourceName": "NOAA National Data Buoy Center",
+    "sourceUrl": "https://www.ndbc.noaa.gov/education/pressure_ans.shtml",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-16-0006",
+    "ageGroup": "16",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "What is a rectilinear tidal current?",
+    "choices": [
+      "A reversing current that floods and ebbs in opposite directions",
+      "A current that moves in a perfect circle forever",
+      "A groundwater current in an aquifer",
+      "A current that forms only in clouds"
+    ],
+    "correctAnswer": "A reversing current that floods and ebbs in opposite directions",
+    "explanation": "NOAA describes rectilinear tidal currents as currents that ebb and flood in opposite directions.",
+    "sourceName": "NOAA National Ocean Service Education",
+    "sourceUrl": "https://oceanservice.noaa.gov/education/tutorial_currents/02tidal1.html/media/media/supp_cur02a.html",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-16-0007",
+    "ageGroup": "16",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "Why does lower carbonate availability matter to coral skeleton growth?",
+    "choices": [
+      "Corals need carbonate ions to build calcium carbonate structures",
+      "Carbonate ions are the only source of sunlight",
+      "Carbonate ions stop all hurricanes",
+      "Carbonate ions make DNA double helices"
+    ],
+    "correctAnswer": "Corals need carbonate ions to build calcium carbonate structures",
+    "explanation": "As oceans acidify, carbonate ions become less available for coral calcium carbonate skeletons.",
+    "sourceName": "NOAA National Ocean Service Education",
+    "sourceUrl": "https://oceanservice.noaa.gov/education/tutorial_corals/media/supp_coral08c.html",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-16-0008",
+    "ageGroup": "16",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "Which part of the electromagnetic spectrum has wavelengths between visible light and microwaves?",
+    "choices": [
+      "Infrared",
+      "Ultraviolet",
+      "Gamma rays",
+      "X-rays"
+    ],
+    "correctAnswer": "Infrared",
+    "explanation": "Infrared light lies between visible light and microwaves on the electromagnetic spectrum.",
+    "sourceName": "NASA Science",
+    "sourceUrl": "https://science.nasa.gov/ems/07_infraredwaves/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-16-0009",
+    "ageGroup": "16",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "Why is ultraviolet-B radiation biologically important?",
+    "choices": [
+      "Its shorter wavelengths carry enough energy to damage living tissues",
+      "It is the same as harmless visible green light",
+      "It cannot reach any part of Earth surface",
+      "It is made of sound waves"
+    ],
+    "correctAnswer": "Its shorter wavelengths carry enough energy to damage living tissues",
+    "explanation": "NASA explains that shorter-wavelength UV radiation is more energetic and can harm life.",
+    "sourceName": "NASA Science",
+    "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/ultraviolet-radiation/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-16-0010",
+    "ageGroup": "16",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "Which SI defining constant is linked to the speed of light in vacuum?",
+    "choices": [
+      "c",
+      "k",
+      "h",
+      "NA"
+    ],
+    "correctAnswer": "c",
+    "explanation": "NIST includes the speed of light in vacuum, symbol c, among SI defining constants.",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/si-redefinition/meet-constants",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-16-0011",
+    "ageGroup": "16",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "What does the Boltzmann constant relate?",
+    "choices": [
+      "Energy and temperature",
+      "Length and electric current",
+      "Moon phase and tide height only",
+      "DNA sequence and fossil age"
+    ],
+    "correctAnswer": "Energy and temperature",
+    "explanation": "NIST describes the Boltzmann constant as relating an object energy to its temperature.",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/si-redefinition/meet-constants",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-16-0012",
+    "ageGroup": "16",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "Why must DNA be packaged into chromosomes?",
+    "choices": [
+      "DNA molecules are too long to fit neatly in cells without packaging",
+      "DNA cannot store information unless it becomes water",
+      "Chromosomes are needed to make tides",
+      "Genes are made of volcanic ash"
+    ],
+    "correctAnswer": "DNA molecules are too long to fit neatly in cells without packaging",
+    "explanation": "Chromosome packaging helps long DNA molecules fit inside cells and be handled during division.",
+    "sourceName": "National Human Genome Research Institute",
+    "sourceUrl": "https://www.genome.gov/about-genomics/fact-sheets/Chromosomes-Fact-Sheet",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-17-0001",
+    "ageGroup": "17",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "What distinguishes a numerical chromosome abnormality from a structural one?",
+    "choices": [
+      "Numerical changes chromosome number; structural changes chromosome form",
+      "Numerical changes air pressure; structural changes tide height",
+      "Numerical changes ocean pH; structural changes wind speed",
+      "Numerical changes Moon phase; structural changes comet tails"
+    ],
+    "correctAnswer": "Numerical changes chromosome number; structural changes chromosome form",
+    "explanation": "NHGRI explains numerical abnormalities involve missing or extra chromosomes, while structural abnormalities alter chromosome structure.",
+    "sourceName": "National Human Genome Research Institute",
+    "sourceUrl": "https://www.genome.gov/about-genomics/fact-sheets/Chromosomes-Fact-Sheet",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-17-0002",
+    "ageGroup": "17",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "What is a karyotype?",
+    "choices": [
+      "An organized picture or map of a cell chromosomes",
+      "A graph of air pressure during a hurricane",
+      "A map of high and low tides",
+      "A measurement of volcanic ash particle size"
+    ],
+    "correctAnswer": "An organized picture or map of a cell chromosomes",
+    "explanation": "A karyotype is a picture or chromosome map used to view chromosomes.",
+    "sourceName": "National Human Genome Research Institute",
+    "sourceUrl": "https://www.genome.gov/about-genomics/fact-sheets/Chromosomes-Fact-Sheet",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-17-0003",
+    "ageGroup": "17",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "Why do genomes not map one-to-one with organism complexity?",
+    "choices": [
+      "Genome size can vary widely among organisms for reasons beyond simple complexity",
+      "All organisms have exactly the same amount of DNA",
+      "Only humans have genomes",
+      "Larger organisms always have fewer bases"
+    ],
+    "correctAnswer": "Genome size can vary widely among organisms for reasons beyond simple complexity",
+    "explanation": "NHGRI notes that genome sizes vary greatly and do not show a simple correlation with complexity.",
+    "sourceName": "National Human Genome Research Institute",
+    "sourceUrl": "https://www.genome.gov/about-genomics/educational-resources/fact-sheets/human-genomic-variation",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-17-0004",
+    "ageGroup": "17",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "What is one reason noncoding DNA can still matter?",
+    "choices": [
+      "It can help regulate when, where, or how much protein is made",
+      "It is always useless filler",
+      "It turns directly into volcanic ash",
+      "It measures the speed of light"
+    ],
+    "correctAnswer": "It can help regulate when, where, or how much protein is made",
+    "explanation": "NHGRI explains DNA outside protein-coding genes can regulate gene activity.",
+    "sourceName": "National Human Genome Research Institute",
+    "sourceUrl": "https://www.genome.gov/about-genomics/fact-sheets/deoxyribonucleic-acid-fact-sheet",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-17-0005",
+    "ageGroup": "17",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "What is the difference between climate variability and one unusual weather day?",
+    "choices": [
+      "Climate variability concerns patterns over longer periods, not a single daily event",
+      "Climate variability is only the height of one tide",
+      "A weather day always changes DNA",
+      "One unusual day proves a new climate normal instantly"
+    ],
+    "correctAnswer": "Climate variability concerns patterns over longer periods, not a single daily event",
+    "explanation": "NOAA distinguishes daily weather from longer-term climate patterns and averages.",
+    "sourceName": "NOAA National Centers for Environmental Information",
+    "sourceUrl": "https://www.ncei.noaa.gov/index.php/news/weather-vs-climate",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-17-0006",
+    "ageGroup": "17",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "Why does the ocean play a major role in climate change impacts on reefs?",
+    "choices": [
+      "It absorbs heat and carbon dioxide that can warm and acidify reef waters",
+      "It blocks all sunlight from reefs",
+      "It removes every greenhouse gas from air instantly",
+      "It stops tides near coral reefs"
+    ],
+    "correctAnswer": "It absorbs heat and carbon dioxide that can warm and acidify reef waters",
+    "explanation": "NOAA links coral stress to ocean warming and acidification driven by heat and carbon dioxide uptake.",
+    "sourceName": "NOAA National Ocean Service Education",
+    "sourceUrl": "https://oceanservice.noaa.gov/education/tutorial_corals/coral08_climatechange.html",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-17-0007",
+    "ageGroup": "17",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "In earthquake location, what does the P-S arrival-time difference help estimate?",
+    "choices": [
+      "Distance from a seismic station to the earthquake",
+      "Carbon dioxide in seawater",
+      "The number of human chromosomes",
+      "The temperature of a comet tail"
+    ],
+    "correctAnswer": "Distance from a seismic station to the earthquake",
+    "explanation": "The time difference between arriving P and S waves helps estimate how far a station is from a quake.",
+    "sourceName": "U.S. Geological Survey Earthquake Hazards Program",
+    "sourceUrl": "https://www.usgs.gov/programs/earthquake-hazards/seismographs-keeping-track-earthquakes",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-17-0008",
+    "ageGroup": "17",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "What does a subduction zone commonly produce?",
+    "choices": [
+      "Earthquakes and volcanoes along plate boundaries",
+      "Only calm weather",
+      "Only plant photosynthesis",
+      "No geologic activity"
+    ],
+    "correctAnswer": "Earthquakes and volcanoes along plate boundaries",
+    "explanation": "Moving plates and sinking slabs are associated with earthquakes and volcanism at many boundaries.",
+    "sourceName": "U.S. Geological Survey",
+    "sourceUrl": "https://pubs.usgs.gov/gip/volc/tectonics.html",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-17-0009",
+    "ageGroup": "17",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "Why does volcanic ash remain hazardous even after the eruption plume passes?",
+    "choices": [
+      "Deposited ash is abrasive, can be corrosive, and does not dissolve in water",
+      "Deposited ash becomes fresh snow",
+      "Deposited ash turns into oxygen immediately",
+      "Deposited ash removes all air pressure"
+    ],
+    "correctAnswer": "Deposited ash is abrasive, can be corrosive, and does not dissolve in water",
+    "explanation": "USGS identifies volcanic ash as hard, abrasive, mildly corrosive, and insoluble in water.",
+    "sourceName": "U.S. Geological Survey Volcano Hazards Program",
+    "sourceUrl": "https://volcanoes.usgs.gov/volcanic_ash/ash.html",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-17-0010",
+    "ageGroup": "17",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "Which SI base unit measures luminous intensity?",
+    "choices": [
+      "Candela",
+      "Kelvin",
+      "Mole",
+      "Kilogram"
+    ],
+    "correctAnswer": "Candela",
+    "explanation": "NIST lists the candela as the SI base unit for luminous intensity.",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/pml/weights-and-measures/metric-si/si-units",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-17-0011",
+    "ageGroup": "17",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "What does Avogadro constant help define in the SI?",
+    "choices": [
+      "The mole",
+      "The meter",
+      "The ampere",
+      "The candela"
+    ],
+    "correctAnswer": "The mole",
+    "explanation": "NIST explains that the Avogadro constant defines the number of particles in a mole.",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/si-redefinition/meet-constants",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-17-0012",
+    "ageGroup": "17",
+    "category": "science",
+    "difficulty": "medium",
+    "question": "Why are meteor showers usually annual or regular events?",
+    "choices": [
+      "Earth passes through debris trails left by comets on repeat paths",
+      "The Moon releases new rocks every month",
+      "Hurricanes throw rocks into orbit",
+      "Tides lift meteorites off beaches"
+    ],
+    "correctAnswer": "Earth passes through debris trails left by comets on repeat paths",
+    "explanation": "NASA explains meteor showers happen when Earth passes through dusty debris trails left by comets.",
+    "sourceName": "NASA Science",
+    "sourceUrl": "https://science.nasa.gov/solar-system/meteors-meteorites/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-18plus-0001",
+    "ageGroup": "18+",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "What is meant by the explicit-constant formulation of SI units?",
+    "choices": [
+      "Base units are defined through fixed numerical values of constants",
+      "Units are chosen by local weather stations each year",
+      "Base units depend only on the size of Earth",
+      "Units are defined by fossil age"
+    ],
+    "correctAnswer": "Base units are defined through fixed numerical values of constants",
+    "explanation": "NIST describes modern SI definitions as based on fixed values of defining constants.",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/si-redefinition/definitions-si-base-units",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-18plus-0002",
+    "ageGroup": "18+",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "Which defining constant is associated with the fixed numerical value used for the kilogram?",
+    "choices": [
+      "Planck constant",
+      "Boltzmann constant only",
+      "Avogadro constant only",
+      "Luminous efficacy only"
+    ],
+    "correctAnswer": "Planck constant",
+    "explanation": "NIST identifies the Planck constant as a defining constant central to the kilogram definition.",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/si-redefinition/meet-constants",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-18plus-0003",
+    "ageGroup": "18+",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "Why does the speed of light help define the meter in the modern SI?",
+    "choices": [
+      "The meter is tied to distance light travels in a specified time interval",
+      "The meter is the mass of a platinum artifact",
+      "Light speed changes with local weather",
+      "The meter equals one chromosome length"
+    ],
+    "correctAnswer": "The meter is tied to distance light travels in a specified time interval",
+    "explanation": "The SI uses the fixed value of the speed of light, together with the second, to define the meter.",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/si-redefinition/definitions-si-base-units",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-18plus-0004",
+    "ageGroup": "18+",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "What is a key reason scientists compare multiple seismograph records after an earthquake?",
+    "choices": [
+      "Different arrival times constrain the quake location and depth",
+      "One station can identify every chromosome",
+      "Seismographs directly measure ocean acidification",
+      "Records are used only to name hurricanes"
+    ],
+    "correctAnswer": "Different arrival times constrain the quake location and depth",
+    "explanation": "USGS explains that seismic-wave records from stations are used to determine epicenter and focal properties.",
+    "sourceName": "U.S. Geological Survey Earthquake Hazards Program",
+    "sourceUrl": "https://www.usgs.gov/programs/earthquake-hazards/seismographs-keeping-track-earthquakes",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-18plus-0005",
+    "ageGroup": "18+",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "What does a deep-focus earthquake indicate about plate dynamics?",
+    "choices": [
+      "A slab of lithosphere can remain seismically active as it descends",
+      "Earthquakes only happen above sea level",
+      "Tides cause all plate motion",
+      "Volcanic ash creates chromosomes"
+    ],
+    "correctAnswer": "A slab of lithosphere can remain seismically active as it descends",
+    "explanation": "USGS associates deep-focus earthquakes with great slabs of lithosphere sinking into the mantle.",
+    "sourceName": "U.S. Geological Survey Earthquake Hazards Program",
+    "sourceUrl": "https://www.usgs.gov/programs/earthquake-hazards/determining-depth-earthquake",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-18plus-0006",
+    "ageGroup": "18+",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "Why can ocean acidification alter food webs, not just individual shell-builders?",
+    "choices": [
+      "Corals and shell-forming organisms support habitat and feeding relationships",
+      "It only changes moonlight",
+      "It prevents all evaporation",
+      "It makes every organism photosynthesize"
+    ],
+    "correctAnswer": "Corals and shell-forming organisms support habitat and feeding relationships",
+    "explanation": "NOAA explains that changing ocean chemistry can affect coral reef ecosystems because many organisms depend on them.",
+    "sourceName": "NOAA National Ocean Service Education",
+    "sourceUrl": "https://oceanservice.noaa.gov/education/tutorial_corals/media/supp_coral08c.html",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-18plus-0007",
+    "ageGroup": "18+",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "What is the central chemical reason dissolved carbon dioxide lowers seawater pH?",
+    "choices": [
+      "CO2 reacts with water to form carbonic acid and related dissolved species",
+      "CO2 turns seawater into pure hydrogen gas",
+      "CO2 removes all salt instantly",
+      "CO2 changes tides into waves"
+    ],
+    "correctAnswer": "CO2 reacts with water to form carbonic acid and related dissolved species",
+    "explanation": "NOAA explains that dissolved carbon dioxide mixes with water, increasing acidity.",
+    "sourceName": "NOAA National Ocean Service Education",
+    "sourceUrl": "https://oceanservice.noaa.gov/education/tutorial_corals/coral08_climatechange.html",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-18plus-0008",
+    "ageGroup": "18+",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "What does the order of DNA bases encode?",
+    "choices": [
+      "Biological information such as instructions for RNA or proteins",
+      "The current tide at every coastline",
+      "The distance from Earth to every comet",
+      "The hardness of volcanic ash"
+    ],
+    "correctAnswer": "Biological information such as instructions for RNA or proteins",
+    "explanation": "NHGRI states that base sequence encodes biological information such as instructions for proteins or RNA.",
+    "sourceName": "National Human Genome Research Institute",
+    "sourceUrl": "https://www.genome.gov/genetics-glossary/Deoxyribonucleic-Acid",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-18plus-0009",
+    "ageGroup": "18+",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "Why can two people share most DNA yet differ in traits?",
+    "choices": [
+      "Small sequence variations can affect protein function, gene regulation, and traits",
+      "All differences come only from Moon phases",
+      "Shared DNA cannot produce any variation",
+      "Traits are unrelated to genes or environment"
+    ],
+    "correctAnswer": "Small sequence variations can affect protein function, gene regulation, and traits",
+    "explanation": "NHGRI explains that small genome differences can influence proteins, gene activity, and traits.",
+    "sourceName": "National Human Genome Research Institute",
+    "sourceUrl": "https://www.genome.gov/About-Genomics/Introduction-to-Genomics",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-18plus-0010",
+    "ageGroup": "18+",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "What makes minerals useful for reconstructing geologic history?",
+    "choices": [
+      "Their compositions and structures reflect formation conditions",
+      "They always contain fresh DNA",
+      "They form only during hurricanes",
+      "They disappear when rocks are studied"
+    ],
+    "correctAnswer": "Their compositions and structures reflect formation conditions",
+    "explanation": "Smithsonian explains that minerals record clues about elements, temperatures, pressures, and rock formation.",
+    "sourceName": "Smithsonian National Museum of Natural History",
+    "sourceUrl": "https://naturalhistory.si.edu/education/teaching-resources/earth-science/gems-and-minerals-beauties-and-building-blocks",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-18plus-0011",
+    "ageGroup": "18+",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "What does fossil evidence help scientists reconstruct?",
+    "choices": [
+      "How life and environments changed through deep time",
+      "Only tomorrow weather",
+      "The SI definition of the second",
+      "The current phase of a comet tail"
+    ],
+    "correctAnswer": "How life and environments changed through deep time",
+    "explanation": "Smithsonian describes fossils as evidence for understanding evolution and ancient environmental change.",
+    "sourceName": "Smithsonian National Museum of Natural History",
+    "sourceUrl": "https://naturalhistory.si.edu/explore/dinosaurs-fossils",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "science-18plus-0012",
+    "ageGroup": "18+",
+    "category": "science",
+    "difficulty": "hard",
+    "question": "Why is photosynthesis central to many food webs?",
+    "choices": [
+      "It stores light energy in sugars that other organisms can use",
+      "It turns volcanic ash into tides",
+      "It removes all oxygen from air",
+      "It creates all earthquake waves"
+    ],
+    "correctAnswer": "It stores light energy in sugars that other organisms can use",
+    "explanation": "Photosynthesis stores solar energy in sugars, supporting organisms that cannot make their own food.",
+    "sourceName": "Smithsonian Science Education Center",
+    "sourceUrl": "https://ssec.si.edu/stemvisions-blog/what-photosynthesis",
+    "reviewStatus": "reviewed"
+  }
+]

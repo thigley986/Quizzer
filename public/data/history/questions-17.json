@@ -1,0 +1,362 @@
+[
+  {
+    "id": "history-17-0001",
+    "ageGroup": "17",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "How did the Declaration justify revolution in political theory terms?",
+    "choices": [
+      "It argued rights violations can legitimize changing government",
+      "It denied that people have rights",
+      "It made Parliament stronger in the colonies",
+      "It required rule by inherited monarchy"
+    ],
+    "correctAnswer": "It argued rights violations can legitimize changing government",
+    "explanation": "The Declaration presents revolution as justified when government destroys rights.",
+    "sourceName": "National Archives - Declaration of Independence",
+    "sourceUrl": "https://www.archives.gov/founding-docs/declaration-transcript",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-17-0002",
+    "ageGroup": "17",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "What constitutional design problem did the framers address with bicameralism?",
+    "choices": [
+      "Balancing representation in two legislative chambers",
+      "Decoding Egyptian scripts",
+      "Restricting all immigration",
+      "Ending factory production"
+    ],
+    "correctAnswer": "Balancing representation in two legislative chambers",
+    "explanation": "Congress has a House and Senate with different bases of representation and terms.",
+    "sourceName": "National Archives - Constitution Transcript",
+    "sourceUrl": "https://www.archives.gov/founding-docs/constitution-transcript",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-17-0003",
+    "ageGroup": "17",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "How does the Bill of Rights shape federal power?",
+    "choices": [
+      "It limits government action in protected areas",
+      "It gives unlimited executive authority",
+      "It replaces courts with Congress",
+      "It creates the Silk Road"
+    ],
+    "correctAnswer": "It limits government action in protected areas",
+    "explanation": "The amendments restrict government action affecting individual rights.",
+    "sourceName": "National Archives - Bill of Rights Transcript",
+    "sourceUrl": "https://www.archives.gov/founding-docs/bill-of-rights-transcript",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-17-0004",
+    "ageGroup": "17",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Why is the Rosetta Stone a strong example of comparative evidence?",
+    "choices": [
+      "Its parallel scripts allowed cross-checking language meanings",
+      "It contains no writing",
+      "It was created after World War II",
+      "It records U.S. voting rights"
+    ],
+    "correctAnswer": "Its parallel scripts allowed cross-checking language meanings",
+    "explanation": "Scholars compared scripts to work from known Greek toward Egyptian writing.",
+    "sourceName": "British Museum - Rosetta Stone",
+    "sourceUrl": "https://www.britishmuseum.org/blog/everything-you-ever-wanted-know-about-rosetta-stone",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-17-0005",
+    "ageGroup": "17",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "What did deciphering hieroglyphs change about Egyptian chronology?",
+    "choices": [
+      "It allowed scholars to read many older records directly",
+      "It proved Egypt had no written history",
+      "It removed the need for archaeology",
+      "It created the Roman calendar"
+    ],
+    "correctAnswer": "It allowed scholars to read many older records directly",
+    "explanation": "Reading the script unlocked evidence from thousands of years of Egyptian records.",
+    "sourceName": "British Museum - Hieroglyphs Resources",
+    "sourceUrl": "https://www.britishmuseum.org/hieroglyphs-resources",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-17-0006",
+    "ageGroup": "17",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "How did caravanserais support Silk Road exchange?",
+    "choices": [
+      "They provided places where travelers could meet and trade",
+      "They were Athenian voting offices",
+      "They banned religious contact",
+      "They served only modern railways"
+    ],
+    "correctAnswer": "They provided places where travelers could meet and trade",
+    "explanation": "Trade posts and stopping places helped people exchange goods, stories, and beliefs.",
+    "sourceName": "National Geographic Education - Ideas on the Move: Silk Road",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/ideas-on-the-move/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-17-0007",
+    "ageGroup": "17",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "What constitutional lesson did some later republics draw from Rome?",
+    "choices": [
+      "Mixed or representative institutions can restrain concentrated power",
+      "Kings should rule for life",
+      "Citizens should avoid offices",
+      "Laws should be unwritten only"
+    ],
+    "correctAnswer": "Mixed or representative institutions can restrain concentrated power",
+    "explanation": "Rome's republic became a historical model for representation and civic institutions.",
+    "sourceName": "National Geographic Education - Roman Republic",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/roman-republic/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-17-0008",
+    "ageGroup": "17",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Why should Athens not be treated as a simple model of modern democracy?",
+    "choices": [
+      "Its participation rules excluded many residents",
+      "It was a monarchy",
+      "It had no civic assemblies",
+      "It used nationwide parties"
+    ],
+    "correctAnswer": "Its participation rules excluded many residents",
+    "explanation": "Athenian democracy was influential but rested on narrow citizenship.",
+    "sourceName": "National Geographic Education - Democracy in Ancient Greece",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/democracy-ancient-greece/Wikipedia/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-17-0009",
+    "ageGroup": "17",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What constitutional tension did the Emancipation Proclamation highlight?",
+    "choices": [
+      "Presidential war powers versus ordinary peacetime authority",
+      "State power to decode inscriptions",
+      "Judges selecting presidents",
+      "Museums ratifying treaties"
+    ],
+    "correctAnswer": "Presidential war powers versus ordinary peacetime authority",
+    "explanation": "Lincoln used commander-in-chief authority in wartime rebellion.",
+    "sourceName": "National Archives - Emancipation Proclamation",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/emancipation-proclamation",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-17-0010",
+    "ageGroup": "17",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Why is the exception clause in the 13th Amendment historically debated?",
+    "choices": [
+      "It permits involuntary servitude as punishment after conviction",
+      "It grants women suffrage",
+      "It creates birthright citizenship",
+      "It sets Senate terms"
+    ],
+    "correctAnswer": "It permits involuntary servitude as punishment after conviction",
+    "explanation": "The amendment abolishes slavery and involuntary servitude except as punishment for a crime after conviction.",
+    "sourceName": "National Archives - 13th Amendment",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/13th-amendment",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-17-0011",
+    "ageGroup": "17",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What issue did Section 1 of the 14th Amendment address after Dred Scott?",
+    "choices": [
+      "National and state citizenship for people born or naturalized in the U.S.",
+      "Election of senators by popular vote",
+      "Repeal of Prohibition",
+      "Purchase of Alaska"
+    ],
+    "correctAnswer": "National and state citizenship for people born or naturalized in the U.S.",
+    "explanation": "The citizenship clause rejected earlier denials of citizenship to formerly enslaved people and their descendants.",
+    "sourceName": "National Archives - 14th Amendment",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/14th-amendment",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-17-0012",
+    "ageGroup": "17",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Why was the 15th Amendment incomplete as a voting rights guarantee?",
+    "choices": [
+      "It barred race-based denial but not every device used to suppress voting",
+      "It applied only to presidential elections",
+      "It expired before ratification",
+      "It excluded Congress from enforcement"
+    ],
+    "correctAnswer": "It barred race-based denial but not every device used to suppress voting",
+    "explanation": "States used facially different rules such as literacy tests to evade the amendment.",
+    "sourceName": "National Archives - 15th Amendment",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/15th-amendment",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-17-0013",
+    "ageGroup": "17",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Why did suffragists change tactics over time?",
+    "choices": [
+      "They adapted to political barriers and opportunities",
+      "They stopped seeking voting rights",
+      "They turned the movement into a trade route",
+      "They abandoned public advocacy entirely"
+    ],
+    "correctAnswer": "They adapted to political barriers and opportunities",
+    "explanation": "LOC materials emphasize changing methods as suffragists faced resistance.",
+    "sourceName": "Library of Congress - Suffragists and Their Tactics",
+    "sourceUrl": "https://www.loc.gov/classroom-materials/suffragists-and-their-tactics/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-17-0014",
+    "ageGroup": "17",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What does Brown v. Board show about constitutional interpretation?",
+    "choices": [
+      "Court interpretations of equal protection can reshape public institutions",
+      "The Constitution cannot affect schools",
+      "Federal courts cannot hear rights cases",
+      "Segregation ended without legal conflict"
+    ],
+    "correctAnswer": "Court interpretations of equal protection can reshape public institutions",
+    "explanation": "The decision applied equal protection principles to public education.",
+    "sourceName": "National Park Service - Brown v. Board of Education",
+    "sourceUrl": "https://www.nps.gov/brvb/planyourvisit/the-story-of-brown.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-17-0015",
+    "ageGroup": "17",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What made the Voting Rights Act different from simply restating the 15th Amendment?",
+    "choices": [
+      "It supplied statutory enforcement against specific practices",
+      "It removed all federal power",
+      "It created a new amendment by itself",
+      "It applied only to ancient republics"
+    ],
+    "correctAnswer": "It supplied statutory enforcement against specific practices",
+    "explanation": "The act operationalized voting protections through federal law.",
+    "sourceName": "National Archives - Voting Rights Act",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/voting-rights-act",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-17-0016",
+    "ageGroup": "17",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "What historical argument can be made about the Marshall Plan and U.S. global leadership?",
+    "choices": [
+      "It showed economic aid becoming a tool of postwar foreign policy",
+      "It showed the United States withdrawing from Europe",
+      "It replaced all alliances with isolationism",
+      "It ended the Cold War immediately"
+    ],
+    "correctAnswer": "It showed economic aid becoming a tool of postwar foreign policy",
+    "explanation": "The plan used recovery aid to shape postwar political and economic conditions.",
+    "sourceName": "National Archives - Marshall Plan",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/marshall-plan",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-17-0017",
+    "ageGroup": "17",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Why did Lend-Lease require regular reports to Congress?",
+    "choices": [
+      "It involved executive administration of large defense transfers under statute",
+      "It was a constitutional amendment",
+      "It was a private museum program",
+      "It had no public funds involved"
+    ],
+    "correctAnswer": "It involved executive administration of large defense transfers under statute",
+    "explanation": "The statute required presidential reporting on operations under the act.",
+    "sourceName": "National Archives - Lend-Lease Act",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/lend-lease-act",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-17-0018",
+    "ageGroup": "17",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "How did the Dawes Act affect Native sovereignty?",
+    "choices": [
+      "It weakened tribal control over communal lands",
+      "It expanded treaty-making equally",
+      "It made tribes foreign nations",
+      "It restored all reservations"
+    ],
+    "correctAnswer": "It weakened tribal control over communal lands",
+    "explanation": "Allotment policy attacked collective land bases and tribal governance.",
+    "sourceName": "National Archives - Dawes Act",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/dawes-act",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-17-0019",
+    "ageGroup": "17",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "How did the Chinese Exclusion Act differ from earlier general immigration limits?",
+    "choices": [
+      "It targeted a specific Chinese labor category and barred naturalization",
+      "It applied only to European monarchs",
+      "It expanded citizenship for all migrants",
+      "It ended documentation at ports"
+    ],
+    "correctAnswer": "It targeted a specific Chinese labor category and barred naturalization",
+    "explanation": "The law specifically restricted Chinese laborers and denied naturalization.",
+    "sourceName": "National Archives - Chinese Exclusion Act",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/chinese-exclusion-act",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-17-0020",
+    "ageGroup": "17",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "What does corroboration guard against when using primary sources?",
+    "choices": [
+      "Relying on one perspective as if it were complete",
+      "Finding too many dates",
+      "Reading sources in context",
+      "Checking the creator's purpose"
+    ],
+    "correctAnswer": "Relying on one perspective as if it were complete",
+    "explanation": "Comparing sources helps historians avoid overgeneralizing from one limited viewpoint.",
+    "sourceName": "Library of Congress - Getting Started with Primary Sources",
+    "sourceUrl": "https://www.loc.gov/programs/teachers/getting-started-with-primary-sources/",
+    "reviewStatus": "reviewed"
+  }
+]

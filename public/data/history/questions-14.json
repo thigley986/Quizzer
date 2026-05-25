@@ -1,0 +1,362 @@
+[
+  {
+    "id": "history-14-0001",
+    "ageGroup": "14",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which phrase from the Declaration asserts that people have rights that governments should not take away?",
+    "choices": [
+      "Unalienable rights",
+      "Public domain",
+      "Separate but equal",
+      "Severalty"
+    ],
+    "correctAnswer": "Unalienable rights",
+    "explanation": "The Declaration describes rights that people possess and governments are formed to secure.",
+    "sourceName": "National Archives - Declaration of Independence",
+    "sourceUrl": "https://www.archives.gov/founding-docs/declaration-transcript",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-14-0002",
+    "ageGroup": "14",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which constitutional principle lets each branch limit the others?",
+    "choices": [
+      "Checks and balances",
+      "Cultural diffusion",
+      "Civil disobedience",
+      "Allotment"
+    ],
+    "correctAnswer": "Checks and balances",
+    "explanation": "The Constitution creates separate branches that can check one another's power.",
+    "sourceName": "National Archives - Constitution Transcript",
+    "sourceUrl": "https://www.archives.gov/founding-docs/constitution-transcript",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-14-0003",
+    "ageGroup": "14",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which amendment protects against compelled self-incrimination in criminal cases?",
+    "choices": [
+      "Fifth Amendment",
+      "Second Amendment",
+      "Ninth Amendment",
+      "Nineteenth Amendment"
+    ],
+    "correctAnswer": "Fifth Amendment",
+    "explanation": "The Fifth Amendment includes several criminal procedure protections.",
+    "sourceName": "National Archives - Bill of Rights Transcript",
+    "sourceUrl": "https://www.archives.gov/founding-docs/bill-of-rights-transcript",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-14-0004",
+    "ageGroup": "14",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "What did the decipherment of hieroglyphs reveal to scholars?",
+    "choices": [
+      "More evidence about ancient Egyptian history and language",
+      "The text of the U.S. Constitution",
+      "A list of Roman senators only",
+      "The date of the Homestead Act"
+    ],
+    "correctAnswer": "More evidence about ancient Egyptian history and language",
+    "explanation": "Reading hieroglyphs opened more of ancient Egyptian culture and records to study.",
+    "sourceName": "British Museum - Hieroglyphs Resources",
+    "sourceUrl": "https://www.britishmuseum.org/hieroglyphs-resources",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-14-0005",
+    "ageGroup": "14",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which Egyptian ruler was defeated before Egypt became part of the Roman Empire?",
+    "choices": [
+      "Cleopatra VII",
+      "Hatshepsut",
+      "King George III",
+      "Ptolemy V as a child"
+    ],
+    "correctAnswer": "Cleopatra VII",
+    "explanation": "The British Museum timeline places Cleopatra VII at the end of independent Ptolemaic rule.",
+    "sourceName": "British Museum - Timeline of Ancient Egypt",
+    "sourceUrl": "https://www.britishmuseum.org/learn/schools/ages-7-11/ancient-egypt/timeline-ancient-egypt",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-14-0006",
+    "ageGroup": "14",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "What does National Geographic emphasize about Silk Road travelers?",
+    "choices": [
+      "Merchants, pilgrims, and diplomats helped spread goods and ideas",
+      "Only soldiers traveled",
+      "No ideas crossed borders",
+      "Travel was limited to one city"
+    ],
+    "correctAnswer": "Merchants, pilgrims, and diplomats helped spread goods and ideas",
+    "explanation": "Different travelers moved beliefs, technologies, and cultural practices along trade routes.",
+    "sourceName": "National Geographic Education - Ideas on the Move: Silk Road",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/ideas-on-the-move/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-14-0007",
+    "ageGroup": "14",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which social group ruled Rome before the republic, according to National Geographic?",
+    "choices": [
+      "Etruscan kings",
+      "British monarchs",
+      "French governors",
+      "Egyptian pharaohs"
+    ],
+    "correctAnswer": "Etruscan kings",
+    "explanation": "The Roman Republic followed a period of Etruscan royal rule near Rome.",
+    "sourceName": "National Geographic Education - Roman Republic",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/roman-republic/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-14-0008",
+    "ageGroup": "14",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Why is ancient Greek democracy historically important?",
+    "choices": [
+      "It influenced later ideas about citizen participation",
+      "It invented the steam engine",
+      "It ratified the 14th Amendment",
+      "It bought Louisiana"
+    ],
+    "correctAnswer": "It influenced later ideas about citizen participation",
+    "explanation": "Greek democratic ideas shaped later thinking about government and citizenship.",
+    "sourceName": "National Geographic Education - Democracy in Ancient Greece",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/democracy-ancient-greece/Wikipedia/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-14-0009",
+    "ageGroup": "14",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "How did the Emancipation Proclamation affect Black military service?",
+    "choices": [
+      "It announced acceptance of Black men into Union armed forces",
+      "It banned all enlistment",
+      "It created the Roman legions",
+      "It ended the draft permanently"
+    ],
+    "correctAnswer": "It announced acceptance of Black men into Union armed forces",
+    "explanation": "The proclamation opened the way for Black soldiers and sailors to fight for the Union.",
+    "sourceName": "National Archives - Emancipation Proclamation",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/emancipation-proclamation",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-14-0010",
+    "ageGroup": "14",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Why was the 14th Amendment especially important after the Civil War?",
+    "choices": [
+      "It defined citizenship and equal civil protection",
+      "It created the presidency",
+      "It banned newspapers",
+      "It purchased western lands"
+    ],
+    "correctAnswer": "It defined citizenship and equal civil protection",
+    "explanation": "The amendment addressed citizenship and legal rights for formerly enslaved people.",
+    "sourceName": "National Archives - 14th Amendment",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/14th-amendment",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-14-0011",
+    "ageGroup": "14",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Why did the 15th Amendment require later enforcement laws?",
+    "choices": [
+      "States used devices such as literacy tests to block voting",
+      "It applied only to senators",
+      "It expired after ten years",
+      "It banned political parties"
+    ],
+    "correctAnswer": "States used devices such as literacy tests to block voting",
+    "explanation": "Discriminatory practices weakened the amendment's promise until later federal action.",
+    "sourceName": "National Archives - 15th Amendment",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/15th-amendment",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-14-0012",
+    "ageGroup": "14",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What limitation remained after the 19th Amendment was ratified?",
+    "choices": [
+      "Many women of color still faced discriminatory barriers to voting",
+      "Women could never vote in western states",
+      "The amendment applied only to property owners",
+      "Congress repealed the First Amendment"
+    ],
+    "correctAnswer": "Many women of color still faced discriminatory barriers to voting",
+    "explanation": "Ratification did not end racial discrimination in voting access.",
+    "sourceName": "National Archives - 19th Amendment",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/19th-amendment",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-14-0013",
+    "ageGroup": "14",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What did Brown v. Board of Education overturn in public education?",
+    "choices": [
+      "Legally enforced school segregation",
+      "The Louisiana Purchase",
+      "The Social Security Act",
+      "The Bill of Rights"
+    ],
+    "correctAnswer": "Legally enforced school segregation",
+    "explanation": "Brown rejected state-sponsored segregation in public schools.",
+    "sourceName": "National Park Service - Brown v. Board of Education",
+    "sourceUrl": "https://www.nps.gov/brvb/planyourvisit/the-story-of-brown.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-14-0014",
+    "ageGroup": "14",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which decade does the NPS Modern Civil Rights Movement page center on?",
+    "choices": [
+      "1954-1964",
+      "1776-1787",
+      "1803-1812",
+      "1861-1865"
+    ],
+    "correctAnswer": "1954-1964",
+    "explanation": "The NPS page frames the modern movement around events from Brown through major civil rights legislation.",
+    "sourceName": "National Park Service - Modern Civil Rights Movement",
+    "sourceUrl": "https://www.nps.gov/subjects/civilrights/modern-civil-rights-movement.htm/index.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-14-0015",
+    "ageGroup": "14",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What kind of evidence can a political cartoon provide to historians?",
+    "choices": [
+      "A viewpoint about public issues",
+      "A neutral census of every household",
+      "A complete transcript of a treaty",
+      "A guaranteed fact without bias"
+    ],
+    "correctAnswer": "A viewpoint about public issues",
+    "explanation": "Political cartoons are primary sources that reveal arguments, symbols, and perspectives.",
+    "sourceName": "Library of Congress - Getting Started with Primary Sources",
+    "sourceUrl": "https://www.loc.gov/programs/teachers/getting-started-with-primary-sources/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-14-0016",
+    "ageGroup": "14",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Why was the Dawes Act assimilationist?",
+    "choices": [
+      "It tried to replace tribal landholding with individual farming allotments",
+      "It created direct democracy in Athens",
+      "It invited all immigrants equally",
+      "It protected collective sovereignty"
+    ],
+    "correctAnswer": "It tried to replace tribal landholding with individual farming allotments",
+    "explanation": "The act reflected federal efforts to pressure Native people toward individual land ownership and farming.",
+    "sourceName": "National Archives - Dawes Act",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/dawes-act",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-14-0017",
+    "ageGroup": "14",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which statement best describes the Chinese Exclusion Act's citizenship effect?",
+    "choices": [
+      "It blocked Chinese immigrants from naturalizing as U.S. citizens",
+      "It gave citizenship to all immigrants",
+      "It created birthright citizenship",
+      "It repealed the 14th Amendment"
+    ],
+    "correctAnswer": "It blocked Chinese immigrants from naturalizing as U.S. citizens",
+    "explanation": "The act excluded Chinese immigrants from naturalization as well as restricting labor immigration.",
+    "sourceName": "National Archives - Chinese Exclusion Act",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/chinese-exclusion-act",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-14-0018",
+    "ageGroup": "14",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "What did the Market Revolution reveal about links between transportation and production?",
+    "choices": [
+      "Cheaper transport helped goods reach distant markets",
+      "Canals ended all factory work",
+      "Agriculture disappeared immediately",
+      "Cotton stopped being traded"
+    ],
+    "correctAnswer": "Cheaper transport helped goods reach distant markets",
+    "explanation": "Smithsonian materials connect transportation such as canals with wider commercial markets.",
+    "sourceName": "Smithsonian National Museum of American History - A Market Revolution",
+    "sourceUrl": "https://americanhistory.si.edu/explore/exhibitions/american-revolution-world-war/online/market-revolution",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-14-0019",
+    "ageGroup": "14",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Why was the Civil Rights Act of 1964 a milestone?",
+    "choices": [
+      "It prohibited major forms of discrimination in public accommodations and employment",
+      "It created Social Security",
+      "It bought Alaska",
+      "It ratified the 15th Amendment"
+    ],
+    "correctAnswer": "It prohibited major forms of discrimination in public accommodations and employment",
+    "explanation": "The act addressed discrimination across several areas of public life.",
+    "sourceName": "National Archives - Civil Rights Act",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/civil-rights-act",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-14-0020",
+    "ageGroup": "14",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "What historical thinking skill is involved in checking whether sources agree or conflict?",
+    "choices": [
+      "Corroboration",
+      "Mummification",
+      "Apportionment",
+      "Allotment"
+    ],
+    "correctAnswer": "Corroboration",
+    "explanation": "Corroboration compares evidence across sources to test claims.",
+    "sourceName": "Library of Congress - Getting Started with Primary Sources",
+    "sourceUrl": "https://www.loc.gov/programs/teachers/getting-started-with-primary-sources/",
+    "reviewStatus": "reviewed"
+  }
+]

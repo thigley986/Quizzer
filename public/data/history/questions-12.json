@@ -1,0 +1,362 @@
+[
+  {
+    "id": "history-12-0001",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which 1776 document includes a list of grievances against King George III?",
+    "choices": [
+      "Declaration of Independence",
+      "Bill of Rights",
+      "Dawes Act",
+      "NATO Treaty"
+    ],
+    "correctAnswer": "Declaration of Independence",
+    "explanation": "The Declaration lists complaints to justify separation from Britain.",
+    "sourceName": "National Archives - Declaration of Independence",
+    "sourceUrl": "https://www.archives.gov/founding-docs/declaration-transcript",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0002",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "What is the main role of Congress under Article I?",
+    "choices": [
+      "Make laws",
+      "Command state courts",
+      "Appoint every governor",
+      "Decode ancient writing"
+    ],
+    "correctAnswer": "Make laws",
+    "explanation": "Article I gives legislative power to Congress.",
+    "sourceName": "National Archives - Constitution Transcript",
+    "sourceUrl": "https://www.archives.gov/founding-docs/constitution-transcript",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0003",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which amendment protects against unreasonable searches and seizures?",
+    "choices": [
+      "Fourth Amendment",
+      "First Amendment",
+      "Nineteenth Amendment",
+      "Twenty-Seventh Amendment"
+    ],
+    "correctAnswer": "Fourth Amendment",
+    "explanation": "The Fourth Amendment is part of the Bill of Rights and concerns searches, seizures, and warrants.",
+    "sourceName": "National Archives - Bill of Rights Transcript",
+    "sourceUrl": "https://www.archives.gov/founding-docs/bill-of-rights-transcript",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0004",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "What did ancient Egyptians use mummification for?",
+    "choices": [
+      "Preparing bodies for beliefs about the afterlife",
+      "Electing officials",
+      "Making paper money",
+      "Building Roman roads"
+    ],
+    "correctAnswer": "Preparing bodies for beliefs about the afterlife",
+    "explanation": "British Museum education resources connect mummification with Egyptian beliefs about death and the afterlife.",
+    "sourceName": "British Museum - Ancient Egypt",
+    "sourceUrl": "https://www.britishmuseum.org/learn/schools/ages-7-11/ancient-egypt",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0005",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which ruler's era is associated with Greek rule in Egypt after Alexander the Great?",
+    "choices": [
+      "Ptolemy I and his descendants",
+      "George III",
+      "Julius Caesar's senators",
+      "Abraham Lincoln"
+    ],
+    "correctAnswer": "Ptolemy I and his descendants",
+    "explanation": "The British Museum timeline describes Ptolemaic rule after Alexander's conquest.",
+    "sourceName": "British Museum - Timeline of Ancient Egypt",
+    "sourceUrl": "https://www.britishmuseum.org/learn/schools/ages-7-11/ancient-egypt/timeline-ancient-egypt",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0006",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which phrase best describes cultural diffusion along the Silk Road?",
+    "choices": [
+      "Ideas and practices spreading through contact",
+      "All communities becoming isolated",
+      "Only coins moving, not people",
+      "A ban on travel"
+    ],
+    "correctAnswer": "Ideas and practices spreading through contact",
+    "explanation": "Trade routes allowed ideas, technologies, religions, and artistic traditions to spread.",
+    "sourceName": "National Geographic Education - Ideas on the Move: Silk Road",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/ideas-on-the-move/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0007",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "What was the Roman Forum used for in the Roman Republic?",
+    "choices": [
+      "Public meetings and legal debates",
+      "Growing cotton",
+      "Signing the 19th Amendment",
+      "Storing the Rosetta Stone"
+    ],
+    "correctAnswer": "Public meetings and legal debates",
+    "explanation": "National Geographic describes the Forum as a public place tied to meetings and legal issues.",
+    "sourceName": "National Geographic Education - Roman Republic",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/roman-republic/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0008",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "In ancient Athens, who was expected to be active in government?",
+    "choices": [
+      "Adult citizens",
+      "Foreign kings",
+      "All residents regardless of status",
+      "Only Roman senators"
+    ],
+    "correctAnswer": "Adult citizens",
+    "explanation": "Athenian democracy required active participation by eligible citizens.",
+    "sourceName": "National Geographic Education - Democracy in Ancient Greece",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/democracy-ancient-greece/Wikipedia/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0009",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Why did Lincoln wait until after Antietam to issue the preliminary Emancipation Proclamation?",
+    "choices": [
+      "A Union military success strengthened the announcement",
+      "The Constitution had ended",
+      "The Louisiana Purchase failed",
+      "The 19th Amendment had passed"
+    ],
+    "correctAnswer": "A Union military success strengthened the announcement",
+    "explanation": "The National Archives notes the proclamation followed the Union victory at Antietam.",
+    "sourceName": "National Archives - Emancipation Proclamation",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/emancipation-proclamation",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0010",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which amendment gave Congress power to enforce the abolition of slavery?",
+    "choices": [
+      "13th Amendment",
+      "10th Amendment",
+      "18th Amendment",
+      "24th Amendment"
+    ],
+    "correctAnswer": "13th Amendment",
+    "explanation": "Section 2 of the 13th Amendment gives Congress enforcement authority.",
+    "sourceName": "National Archives - 13th Amendment",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/13th-amendment",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0011",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What does “due process” in the 14th Amendment protect against?",
+    "choices": [
+      "Government taking life, liberty, or property without fair legal process",
+      "Private people writing diaries",
+      "States building schools",
+      "Courts hearing evidence"
+    ],
+    "correctAnswer": "Government taking life, liberty, or property without fair legal process",
+    "explanation": "The 14th Amendment bars states from depriving people of life, liberty, or property without due process.",
+    "sourceName": "National Archives - 14th Amendment",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/14th-amendment",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0012",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What later 1965 law helped enforce the 15th Amendment?",
+    "choices": [
+      "Voting Rights Act",
+      "Homestead Act",
+      "Marshall Plan",
+      "Chinese Exclusion Act"
+    ],
+    "correctAnswer": "Voting Rights Act",
+    "explanation": "The Voting Rights Act was framed as enforcement of the 15th Amendment.",
+    "sourceName": "National Archives - Voting Rights Act",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/voting-rights-act",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0013",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which 1848 meeting is often linked to the beginning of the modern woman suffrage movement?",
+    "choices": [
+      "Seneca Falls Convention",
+      "Constitutional Convention of 1787",
+      "Yalta Conference",
+      "Congress of Vienna"
+    ],
+    "correctAnswer": "Seneca Falls Convention",
+    "explanation": "Library of Congress suffrage materials identify Seneca Falls as a key starting point in the movement.",
+    "sourceName": "Library of Congress - Women's Suffrage",
+    "sourceUrl": "https://www.loc.gov/classroom-materials/womens-suffrage-their-rights-and-nothing-less/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0014",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Why do LOC lessons often ask students to analyze photographs and letters?",
+    "choices": [
+      "They reveal evidence and perspective from the time",
+      "They always prove one simple answer",
+      "They replace all written history",
+      "They remove the need for context"
+    ],
+    "correctAnswer": "They reveal evidence and perspective from the time",
+    "explanation": "Primary sources can show firsthand views but still require careful interpretation.",
+    "sourceName": "Library of Congress - Getting Started with Primary Sources",
+    "sourceUrl": "https://www.loc.gov/programs/teachers/getting-started-with-primary-sources/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0015",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "The Market Revolution changed production partly by expanding what?",
+    "choices": [
+      "Factories and mass production",
+      "Mummification",
+      "Feudal oaths",
+      "Direct democracy in Athens"
+    ],
+    "correctAnswer": "Factories and mass production",
+    "explanation": "Smithsonian materials describe factories and mass production displacing many independent artisans.",
+    "sourceName": "Smithsonian National Museum of American History - A Market Revolution",
+    "sourceUrl": "https://americanhistory.si.edu/explore/exhibitions/american-revolution-world-war/online/market-revolution",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0016",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which act allotted reservation land to individual Native Americans?",
+    "choices": [
+      "Dawes Act",
+      "Civil Rights Act",
+      "Lend-Lease Act",
+      "Social Security Act"
+    ],
+    "correctAnswer": "Dawes Act",
+    "explanation": "The Dawes Act authorized allotment of reservation land to individuals.",
+    "sourceName": "National Archives - Dawes Act",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/dawes-act",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0017",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "What did the Chinese Exclusion Act make difficult for Chinese immigrants in the United States?",
+    "choices": [
+      "Reuniting with families and gaining citizenship",
+      "Voting under the 19th Amendment",
+      "Claiming homesteads in every state",
+      "Serving in the Roman Senate"
+    ],
+    "correctAnswer": "Reuniting with families and gaining citizenship",
+    "explanation": "LOC materials explain that exclusion laws kept many Chinese immigrants separated and outside citizenship.",
+    "sourceName": "Library of Congress - Chinese Immigration and Exclusion",
+    "sourceUrl": "https://www.loc.gov/classroom-materials/immigration/chinese/exclusion/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0018",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "What was one purpose of the Marshall Plan after World War II?",
+    "choices": [
+      "Help rebuild European economies",
+      "Purchase Louisiana",
+      "End Athenian democracy",
+      "Ratify the Bill of Rights"
+    ],
+    "correctAnswer": "Help rebuild European economies",
+    "explanation": "The plan provided U.S. economic assistance for postwar Europe.",
+    "sourceName": "National Archives - Marshall Plan",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/marshall-plan",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0019",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "What did the Lend-Lease Act allow the United States to do before entering World War II?",
+    "choices": [
+      "Provide defense aid to other governments",
+      "Abolish slavery",
+      "Create national parks",
+      "Decode hieroglyphs"
+    ],
+    "correctAnswer": "Provide defense aid to other governments",
+    "explanation": "The act authorized the transfer of defense articles and information to support countries important to U.S. defense.",
+    "sourceName": "National Archives - Lend-Lease Act",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/lend-lease-act",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0020",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Why is Brown v. Board of Education a landmark in civil rights history?",
+    "choices": [
+      "It ruled school segregation unconstitutional",
+      "It created the Senate",
+      "It purchased western land",
+      "It started the Silk Road"
+    ],
+    "correctAnswer": "It ruled school segregation unconstitutional",
+    "explanation": "The decision challenged legally segregated public education.",
+    "sourceName": "National Park Service - Brown v. Board of Education",
+    "sourceUrl": "https://www.nps.gov/brvb/planyourvisit/the-story-of-brown.htm",
+    "reviewStatus": "reviewed"
+  }
+]

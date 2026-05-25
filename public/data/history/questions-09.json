@@ -1,0 +1,362 @@
+[
+  {
+    "id": "history-09-0001",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which document announced that the American colonies were separating from Great Britain?",
+    "choices": [
+      "Declaration of Independence",
+      "Bill of Rights",
+      "Mayflower Compact",
+      "Monroe Doctrine"
+    ],
+    "correctAnswer": "Declaration of Independence",
+    "explanation": "The Declaration explained why the colonies considered themselves independent from British rule.",
+    "sourceName": "National Archives - Declaration of Independence",
+    "sourceUrl": "https://www.archives.gov/founding-docs/declaration-transcript",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0002",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which document sets up the basic framework of the United States federal government?",
+    "choices": [
+      "The Constitution",
+      "The Louisiana Purchase Treaty",
+      "The Homestead Act",
+      "The Social Security Act"
+    ],
+    "correctAnswer": "The Constitution",
+    "explanation": "The Constitution describes the structure and powers of the national government.",
+    "sourceName": "National Archives - Constitution Transcript",
+    "sourceUrl": "https://www.archives.gov/founding-docs/constitution-transcript",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0003",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "What name is given to the first ten amendments to the U.S. Constitution?",
+    "choices": [
+      "Bill of Rights",
+      "Articles of Confederation",
+      "Federalist Papers",
+      "Emancipation Proclamation"
+    ],
+    "correctAnswer": "Bill of Rights",
+    "explanation": "The Bill of Rights is the first group of ten amendments added to protect rights and limit government power.",
+    "sourceName": "National Archives - Bill of Rights Transcript",
+    "sourceUrl": "https://www.archives.gov/founding-docs/bill-of-rights-transcript",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0004",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "What object helped scholars learn to read ancient Egyptian hieroglyphs?",
+    "choices": [
+      "Rosetta Stone",
+      "Liberty Bell",
+      "Magna Carta seal",
+      "Erie Canal map"
+    ],
+    "correctAnswer": "Rosetta Stone",
+    "explanation": "The Rosetta Stone carried related writing in three scripts, helping scholars connect Greek with Egyptian writing.",
+    "sourceName": "British Museum - Rosetta Stone",
+    "sourceUrl": "https://www.britishmuseum.org/blog/everything-you-ever-wanted-know-about-rosetta-stone",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0005",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Ancient Egyptian civilization grew along which river valley?",
+    "choices": [
+      "Nile River",
+      "Amazon River",
+      "Mississippi River",
+      "Danube River"
+    ],
+    "correctAnswer": "Nile River",
+    "explanation": "The Nile Valley supported ancient Egyptian farming, travel, and settlement.",
+    "sourceName": "British Museum - Ancient Egypt",
+    "sourceUrl": "https://www.britishmuseum.org/learn/schools/ages-7-11/ancient-egypt",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0006",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "What was the Silk Road?",
+    "choices": [
+      "A network of trade routes",
+      "A single stone road",
+      "A Roman voting law",
+      "A type of pyramid"
+    ],
+    "correctAnswer": "A network of trade routes",
+    "explanation": "The Silk Road connected regions and helped move goods, technologies, religions, and ideas.",
+    "sourceName": "National Geographic Education - Ideas on the Move: Silk Road",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/ideas-on-the-move/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0007",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which ancient city is known for one of the earliest democracies?",
+    "choices": [
+      "Athens",
+      "Memphis",
+      "Tenochtitlan",
+      "Yorktown"
+    ],
+    "correctAnswer": "Athens",
+    "explanation": "Athens developed an early form of democracy in which citizens took part in government.",
+    "sourceName": "National Geographic Education - Democracy in Ancient Greece",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/democracy-ancient-greece/Wikipedia/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0008",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "The Roman Republic is best described as what kind of government?",
+    "choices": [
+      "A republic with elected representatives",
+      "A modern monarchy",
+      "A colony ruled by Britain",
+      "A government run by pharaohs"
+    ],
+    "correctAnswer": "A republic with elected representatives",
+    "explanation": "In the Roman Republic, citizens did not all vote directly on every issue; elected officials represented them.",
+    "sourceName": "National Geographic Education - Roman Republic",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/roman-republic/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0009",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which war was fought between the Union and the Confederacy in the United States?",
+    "choices": [
+      "Civil War",
+      "Revolutionary War",
+      "War of 1812",
+      "Spanish-American War"
+    ],
+    "correctAnswer": "Civil War",
+    "explanation": "The U.S. Civil War was the conflict between the Union and the Confederacy during the 1860s.",
+    "sourceName": "National Archives - Emancipation Proclamation",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/emancipation-proclamation",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0010",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Who issued the Emancipation Proclamation on January 1, 1863?",
+    "choices": [
+      "Abraham Lincoln",
+      "George Washington",
+      "James Madison",
+      "Theodore Roosevelt"
+    ],
+    "correctAnswer": "Abraham Lincoln",
+    "explanation": "President Lincoln issued the proclamation during the Civil War.",
+    "sourceName": "National Archives - Emancipation Proclamation",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/emancipation-proclamation",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0011",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which amendment abolished slavery in the United States?",
+    "choices": [
+      "13th Amendment",
+      "15th Amendment",
+      "19th Amendment",
+      "1st Amendment"
+    ],
+    "correctAnswer": "13th Amendment",
+    "explanation": "The 13th Amendment ended slavery as a legal institution in the United States.",
+    "sourceName": "National Archives - 13th Amendment",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/13th-amendment",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0012",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which amendment protected women's right to vote nationwide?",
+    "choices": [
+      "19th Amendment",
+      "10th Amendment",
+      "13th Amendment",
+      "25th Amendment"
+    ],
+    "correctAnswer": "19th Amendment",
+    "explanation": "The 19th Amendment says voting cannot be denied because of sex.",
+    "sourceName": "National Archives - 19th Amendment",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/19th-amendment",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0013",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What is a primary source in history?",
+    "choices": [
+      "An original item from the time being studied",
+      "A made-up adventure story",
+      "A modern quiz score",
+      "A weather forecast"
+    ],
+    "correctAnswer": "An original item from the time being studied",
+    "explanation": "Primary sources are original documents, images, objects, or records from the period historians investigate.",
+    "sourceName": "Library of Congress - Getting Started with Primary Sources",
+    "sourceUrl": "https://www.loc.gov/programs/teachers/getting-started-with-primary-sources/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0014",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which purchase greatly expanded the territory of the United States in 1803?",
+    "choices": [
+      "Louisiana Purchase",
+      "Alaska Purchase",
+      "Gadsden Purchase",
+      "Manhattan Project"
+    ],
+    "correctAnswer": "Louisiana Purchase",
+    "explanation": "The United States bought the Louisiana territory from France in 1803.",
+    "sourceName": "National Archives - Louisiana Purchase Treaty",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/louisiana-purchase-treaty",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0015",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "The Homestead Act was mainly about giving eligible settlers access to what?",
+    "choices": [
+      "Public land",
+      "Factory machines",
+      "Voting machines",
+      "War bonds"
+    ],
+    "correctAnswer": "Public land",
+    "explanation": "The Homestead Act offered public land to people who met settlement and cultivation requirements.",
+    "sourceName": "National Archives - Homestead Act",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/homestead-act",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0016",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which court case is connected with ending legal segregation in public schools?",
+    "choices": [
+      "Brown v. Board of Education",
+      "Marbury v. Madison",
+      "Dred Scott v. Sandford",
+      "Gibbons v. Ogden"
+    ],
+    "correctAnswer": "Brown v. Board of Education",
+    "explanation": "Brown v. Board of Education challenged school segregation and became a major civil rights decision.",
+    "sourceName": "National Park Service - Brown v. Board of Education",
+    "sourceUrl": "https://www.nps.gov/brvb/planyourvisit/the-story-of-brown.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0017",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "The Civil Rights Act of 1964 is most closely connected with which goal?",
+    "choices": [
+      "Ending forms of discrimination",
+      "Creating national parks",
+      "Buying western land",
+      "Starting the postal service"
+    ],
+    "correctAnswer": "Ending forms of discrimination",
+    "explanation": "The law was a major civil rights measure against discrimination in public life.",
+    "sourceName": "National Archives - Civil Rights Act",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/civil-rights-act",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0018",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "The Voting Rights Act of 1965 focused on protecting access to what civic activity?",
+    "choices": [
+      "Voting",
+      "Patent filing",
+      "Land surveying",
+      "Mail delivery"
+    ],
+    "correctAnswer": "Voting",
+    "explanation": "The act targeted practices that blocked citizens from voting because of race or color.",
+    "sourceName": "National Archives - Voting Rights Act",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/voting-rights-act",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0019",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "A timeline helps historians do what?",
+    "choices": [
+      "Place events in chronological order",
+      "Measure ocean depth",
+      "Identify animal species",
+      "Predict tomorrow's weather"
+    ],
+    "correctAnswer": "Place events in chronological order",
+    "explanation": "Chronological order means arranging events by when they happened.",
+    "sourceName": "Library of Congress - Getting Started with Primary Sources",
+    "sourceUrl": "https://www.loc.gov/programs/teachers/getting-started-with-primary-sources/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0020",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "In the Market Revolution, more goods began to be made through what process?",
+    "choices": [
+      "Factory production",
+      "Hand copying only",
+      "Stone carving only",
+      "Silent voting"
+    ],
+    "correctAnswer": "Factory production",
+    "explanation": "The Market Revolution involved factories, mass production, and wider trade networks.",
+    "sourceName": "Smithsonian National Museum of American History - A Market Revolution",
+    "sourceUrl": "https://americanhistory.si.edu/explore/exhibitions/american-revolution-world-war/online/market-revolution",
+    "reviewStatus": "reviewed"
+  }
+]

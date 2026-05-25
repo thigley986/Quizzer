@@ -2,11 +2,18 @@ import { cp, mkdir, readFile, rm } from "node:fs/promises";
 import { existsSync } from "node:fs";
 import path from "node:path";
 import { pathToFileURL } from "node:url";
+import {
+  factualTargetsByAgeCategory,
+  factualTargetsByCategory,
+  prepareFactualBank,
+} from "./prepare-question-data.mjs";
 
 const root = process.cwd();
 const publicDir = path.join(root, "public");
 const distDir = path.join(root, "dist");
 const requiredFiles = ["index.html", "styles.css", "app.js"];
+const checkOnly = process.argv.includes("--check");
+const strictBank = process.argv.includes("--strict-bank") || process.env.QUIZZER_STRICT_BANK === "1";
 
 for (const file of requiredFiles) {
   const target = path.join(publicDir, file);
@@ -17,21 +24,23 @@ for (const file of requiredFiles) {
 }
 
 const appSource = await readFile(path.join(publicDir, "app.js"), "utf8");
-const hasHorseContent = /\b(horse|horses|equestrian|riding|tack|breed)\b/i.test(
-  appSource,
-);
+const factualQuestions = await prepareFactualBank({ strict: strictBank });
 
-if (hasHorseContent) {
-  throw new Error("Question content must not include horse or equestrian topics.");
-}
+assertNoHorseContent(appSource, "public/app.js");
+assertNoHorseContent(JSON.stringify(factualQuestions), "factual question bank");
 
-const { questions } = await import(
+const { buildMathQuestions } = await import(
   pathToFileURL(path.join(publicDir, "app.js")).href
 );
-validateQuestionBank(questions);
+const mathQuestions = buildMathQuestions();
 
-if (process.argv.includes("--check")) {
-  console.log("Static app checks passed.");
+validateQuestionShape(mathQuestions);
+validateQuestionShape(factualQuestions);
+validateMathBank(mathQuestions);
+validateCombinedBank([...factualQuestions, ...mathQuestions], { strict: strictBank });
+
+if (checkOnly) {
+  console.log(`Static app checks passed. Math: ${mathQuestions.length}. Factual: ${factualQuestions.length}.`);
   process.exit(0);
 }
 
@@ -39,9 +48,15 @@ await rm(distDir, { recursive: true, force: true });
 await mkdir(distDir, { recursive: true });
 await cp(publicDir, distDir, { recursive: true });
 
-console.log("Built static app to dist/.");
+console.log(`Built static app to dist/. Math: ${mathQuestions.length}. Factual: ${factualQuestions.length}.`);
 
-function validateQuestionBank(questions) {
+function assertNoHorseContent(text, label) {
+  if (/\b(horse|horses|equestrian|riding|tack|breed)\b/i.test(text)) {
+    throw new Error(`${label} must not include horse or equestrian topics.`);
+  }
+}
+
+function validateQuestionShape(questions) {
   const ageGroups = ["9", "10", "11", "12", "13", "14", "15", "16", "17", "18+"];
   const categories = [
     "science",
@@ -52,26 +67,13 @@ function validateQuestionBank(questions) {
     "nature",
     "technology",
   ];
-  const expectedByCategory = {
-    science: 80,
-    math: 100,
-    history: 70,
-    space: 70,
-    geography: 70,
-    nature: 60,
-    technology: 50,
-  };
+  const seen = new Set();
+  const seenQuestionText = new Set();
 
   if (!Array.isArray(questions)) {
     throw new Error("Question bank export must be an array.");
   }
 
-  if (questions.length !== 5000) {
-    throw new Error(`Question bank must contain 5,000 questions; found ${questions.length}.`);
-  }
-
-  const seen = new Set();
-  const seenQuestionText = new Set();
   for (const question of questions) {
     if (seen.has(question.id)) {
       throw new Error(`Duplicate question ID: ${question.id}`);
@@ -109,19 +111,52 @@ function validateQuestionBank(questions) {
       throw new Error(`${question.id} is missing source metadata.`);
     }
   }
+}
+
+function validateMathBank(questions) {
+  const ageGroups = ["9", "10", "11", "12", "13", "14", "15", "16", "17", "18+"];
+
+  if (questions.length !== 1000) {
+    throw new Error(`Math bank must generate 1,000 questions; found ${questions.length}.`);
+  }
 
   for (const ageGroup of ageGroups) {
     const ageQuestions = questions.filter((question) => question.ageGroup === ageGroup);
-    if (ageQuestions.length !== 500) {
-      throw new Error(`Age group ${ageGroup} must contain 500 questions; found ${ageQuestions.length}.`);
+    if (ageQuestions.length !== 100) {
+      throw new Error(`Math age group ${ageGroup} must contain 100 questions; found ${ageQuestions.length}.`);
     }
+  }
 
-    for (const category of categories) {
-      const count = ageQuestions.filter((question) => question.category === category).length;
-      if (count !== expectedByCategory[category]) {
-        throw new Error(
-          `Age group ${ageGroup} category ${category} must contain ${expectedByCategory[category]} questions; found ${count}.`,
-        );
+  const nonMath = questions.find((question) => question.category !== "math");
+  if (nonMath) {
+    throw new Error(`Procedural bank must only generate math questions; found ${nonMath.category}.`);
+  }
+}
+
+function validateCombinedBank(questions, { strict }) {
+  const seen = new Set();
+
+  for (const question of questions) {
+    if (seen.has(question.id)) {
+      throw new Error(`Duplicate combined question ID: ${question.id}`);
+    }
+    seen.add(question.id);
+  }
+
+  if (!strict) {
+    return;
+  }
+
+  const expectedFactual = Object.values(factualTargetsByCategory).reduce((sum, count) => sum + count, 0);
+  if (questions.length !== expectedFactual + 1000) {
+    throw new Error(`Strict bank must contain 5,000 total questions; found ${questions.length}.`);
+  }
+
+  for (const [category, expected] of Object.entries(factualTargetsByAgeCategory)) {
+    for (const ageGroup of ["9", "10", "11", "12", "13", "14", "15", "16", "17", "18+"]) {
+      const count = questions.filter((question) => question.category === category && question.ageGroup === ageGroup).length;
+      if (count !== expected) {
+        throw new Error(`Strict bank ${category}/${ageGroup} must contain ${expected} questions; found ${count}.`);
       }
     }
   }

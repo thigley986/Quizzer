@@ -1,0 +1,362 @@
+[
+  {
+    "id": "history-13-0001",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which Enlightenment-style idea appears in the Declaration of Independence?",
+    "choices": [
+      "Governments get power from the consent of the governed",
+      "Kings inherit unlimited power",
+      "Colonies cannot form governments",
+      "Trade routes decide voting rights"
+    ],
+    "correctAnswer": "Governments get power from the consent of the governed",
+    "explanation": "The Declaration argues that legitimate government rests on the people's consent.",
+    "sourceName": "National Archives - Declaration of Independence",
+    "sourceUrl": "https://www.archives.gov/founding-docs/declaration-transcript",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0002",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which principle divides power among legislative, executive, and judicial branches?",
+    "choices": [
+      "Separation of powers",
+      "Mummification",
+      "Allotment",
+      "Cultural diffusion"
+    ],
+    "correctAnswer": "Separation of powers",
+    "explanation": "The Constitution separates government powers among different branches.",
+    "sourceName": "National Archives - Constitution Transcript",
+    "sourceUrl": "https://www.archives.gov/founding-docs/constitution-transcript",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0003",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which amendment protects freedom of religion?",
+    "choices": [
+      "First Amendment",
+      "Third Amendment",
+      "Thirteenth Amendment",
+      "Twenty-First Amendment"
+    ],
+    "correctAnswer": "First Amendment",
+    "explanation": "The First Amendment bars laws establishing religion or prohibiting free exercise.",
+    "sourceName": "National Archives - Bill of Rights Transcript",
+    "sourceUrl": "https://www.archives.gov/founding-docs/bill-of-rights-transcript",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0004",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Why was Greek important on the Rosetta Stone?",
+    "choices": [
+      "Scholars could use known Greek to compare scripts",
+      "Greek was the only Egyptian script",
+      "It listed U.S. amendments",
+      "It described the Erie Canal"
+    ],
+    "correctAnswer": "Scholars could use known Greek to compare scripts",
+    "explanation": "The known Greek text helped scholars work out Egyptian scripts.",
+    "sourceName": "British Museum - Rosetta Stone",
+    "sourceUrl": "https://www.britishmuseum.org/blog/everything-you-ever-wanted-know-about-rosetta-stone",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0005",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "What was demotic in ancient Egypt?",
+    "choices": [
+      "A cursive script used for everyday administration",
+      "A Roman tax law",
+      "A Greek voting assembly",
+      "A Civil War regiment"
+    ],
+    "correctAnswer": "A cursive script used for everyday administration",
+    "explanation": "British Museum resources identify demotic as an Egyptian script used in everyday contexts.",
+    "sourceName": "British Museum - Hieroglyphs Resources",
+    "sourceUrl": "https://www.britishmuseum.org/hieroglyphs-resources",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0006",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which good gave the Silk Road its common name?",
+    "choices": [
+      "Silk",
+      "Cotton gin",
+      "Steam engine",
+      "Oil pipeline"
+    ],
+    "correctAnswer": "Silk",
+    "explanation": "Silk was one famous product moving through the trade network.",
+    "sourceName": "National Geographic Education - Ideas on the Move: Silk Road",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/ideas-on-the-move/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0007",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "In the Roman Republic, why were elected officials important?",
+    "choices": [
+      "They represented citizens in government",
+      "They translated hieroglyphs",
+      "They ratified the 19th Amendment",
+      "They commanded British colonies"
+    ],
+    "correctAnswer": "They represented citizens in government",
+    "explanation": "Representative offices were a defining part of the Roman Republic.",
+    "sourceName": "National Geographic Education - Roman Republic",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/roman-republic/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0008",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "What is one major difference between ancient Athenian democracy and modern U.S. democracy?",
+    "choices": [
+      "Athens was more direct and limited citizenship more narrowly",
+      "Athens had national television debates",
+      "Athens used the Electoral College",
+      "Athens admitted every resident to vote"
+    ],
+    "correctAnswer": "Athens was more direct and limited citizenship more narrowly",
+    "explanation": "Athenian democracy involved direct action by eligible citizens, not broad modern voting rights.",
+    "sourceName": "National Geographic Education - Democracy in Ancient Greece",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/democracy-ancient-greece/Wikipedia/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0009",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Why did the Emancipation Proclamation not end slavery everywhere in the United States?",
+    "choices": [
+      "It was limited to rebellious areas as a war measure",
+      "It was only a map",
+      "It applied only to ancient Rome",
+      "It was written before the Constitution"
+    ],
+    "correctAnswer": "It was limited to rebellious areas as a war measure",
+    "explanation": "The proclamation left slavery untouched in loyal border states and depended on Union victory.",
+    "sourceName": "National Archives - Emancipation Proclamation",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/emancipation-proclamation",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0010",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "How did the 13th Amendment differ from the Emancipation Proclamation?",
+    "choices": [
+      "It constitutionally abolished slavery throughout the United States",
+      "It bought western land",
+      "It created public schools",
+      "It restricted Chinese immigration"
+    ],
+    "correctAnswer": "It constitutionally abolished slavery throughout the United States",
+    "explanation": "The amendment provided a national constitutional end to slavery.",
+    "sourceName": "National Archives - 13th Amendment",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/13th-amendment",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0011",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which 14th Amendment phrase became central to many civil rights cases?",
+    "choices": [
+      "Equal protection of the laws",
+      "Right to quarter soldiers",
+      "Power to patent inventions",
+      "Admission of new states"
+    ],
+    "correctAnswer": "Equal protection of the laws",
+    "explanation": "Equal protection requires states to treat people under the law fairly.",
+    "sourceName": "National Archives - 14th Amendment",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/14th-amendment",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0012",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What problem did the Voting Rights Act of 1965 directly target?",
+    "choices": [
+      "Discriminatory voting practices such as literacy tests",
+      "Too many national parks",
+      "The end of factory production",
+      "Ancient trade routes"
+    ],
+    "correctAnswer": "Discriminatory voting practices such as literacy tests",
+    "explanation": "The act addressed barriers that prevented Black citizens and others from registering and voting.",
+    "sourceName": "National Archives - Voting Rights Act",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/voting-rights-act",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0013",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which suffrage strategy involved changing the Constitution rather than only state laws?",
+    "choices": [
+      "A federal amendment campaign",
+      "Building new canals",
+      "Buying territory from France",
+      "Creating a museum exhibit"
+    ],
+    "correctAnswer": "A federal amendment campaign",
+    "explanation": "Suffragists increasingly united behind a national constitutional amendment.",
+    "sourceName": "Library of Congress - Suffragists and Their Tactics",
+    "sourceUrl": "https://www.loc.gov/classroom-materials/suffragists-and-their-tactics/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0014",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Why were women's Civil War letters valuable to historians?",
+    "choices": [
+      "They recorded experiences often missing from battlefield summaries",
+      "They predicted future elections exactly",
+      "They were official weather reports",
+      "They replaced all military records"
+    ],
+    "correctAnswer": "They recorded experiences often missing from battlefield summaries",
+    "explanation": "Personal writings can show civilian, enslaved, and political experiences not captured in battle narratives.",
+    "sourceName": "Library of Congress - Women in the Civil War",
+    "sourceUrl": "https://www.loc.gov/classroom-materials/women-in-the-civil-war-ladies-contraband-and-spies/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0015",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What made the Louisiana Purchase constitutionally important?",
+    "choices": [
+      "It raised questions about federal power to acquire territory",
+      "It ended the Bill of Rights",
+      "It created the Roman Republic",
+      "It abolished slavery by amendment"
+    ],
+    "correctAnswer": "It raised questions about federal power to acquire territory",
+    "explanation": "A massive land purchase required the federal government to act under treaty-making authority.",
+    "sourceName": "National Archives - Louisiana Purchase Treaty",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/louisiana-purchase-treaty",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0016",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "What was a long-term criticism of the Dawes Act?",
+    "choices": [
+      "It undermined tribal landholding and sovereignty",
+      "It gave women the vote",
+      "It created Social Security",
+      "It ended World War II"
+    ],
+    "correctAnswer": "It undermined tribal landholding and sovereignty",
+    "explanation": "Allotment broke up tribal lands and reflected assimilationist federal policy.",
+    "sourceName": "National Archives - Dawes Act",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/dawes-act",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0017",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Why did the Chinese Exclusion Act mark a turning point in federal immigration policy?",
+    "choices": [
+      "It singled out a national-origin labor group for exclusion",
+      "It opened immigration to every country equally",
+      "It created a universal right to citizenship",
+      "It abolished passport systems worldwide"
+    ],
+    "correctAnswer": "It singled out a national-origin labor group for exclusion",
+    "explanation": "The act was a major restrictive federal immigration law focused on Chinese laborers.",
+    "sourceName": "National Archives - Chinese Exclusion Act",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/chinese-exclusion-act",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0018",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "How did the Social Security Act expand the federal government's role?",
+    "choices": [
+      "It created national programs for economic security",
+      "It gave Congress power to declare war",
+      "It ended judicial review",
+      "It purchased Louisiana"
+    ],
+    "correctAnswer": "It created national programs for economic security",
+    "explanation": "The act established federal structures for old-age benefits and unemployment-related support.",
+    "sourceName": "National Archives - Social Security Act",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/social-security-act",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0019",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "What was the Marshall Plan designed to reduce in postwar Europe?",
+    "choices": [
+      "Economic crisis and instability",
+      "Ancient Egyptian writing",
+      "Athenian direct democracy",
+      "Colonial boycotts"
+    ],
+    "correctAnswer": "Economic crisis and instability",
+    "explanation": "U.S. leaders supported European recovery after World War II to rebuild economies and limit instability.",
+    "sourceName": "National Archives - Marshall Plan",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/marshall-plan",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0020",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Why is context important when analyzing a primary source?",
+    "choices": [
+      "It helps explain why and for whom the source was made",
+      "It guarantees the source is neutral",
+      "It lets historians ignore evidence",
+      "It changes the date of the source"
+    ],
+    "correctAnswer": "It helps explain why and for whom the source was made",
+    "explanation": "Context helps historians interpret evidence without treating it as isolated fact.",
+    "sourceName": "Library of Congress - Getting Started with Primary Sources",
+    "sourceUrl": "https://www.loc.gov/programs/teachers/getting-started-with-primary-sources/",
+    "reviewStatus": "reviewed"
+  }
+]

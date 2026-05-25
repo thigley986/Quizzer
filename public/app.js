@@ -32,92 +32,6 @@ const source = {
   nist: ["NIST Education", "https://www.nist.gov/education"],
 };
 
-const factTemplates = {
-  science: [
-    t("Which force pulls objects toward the center of Earth?", "Gravity", ["Friction", "Magnetism", "Evaporation"], "Gravity is the attractive force that pulls objects with mass toward one another.", source.nasa),
-    t("What process do plants use to make sugar from sunlight, water, and carbon dioxide?", "Photosynthesis", ["Condensation", "Erosion", "Germination"], "Photosynthesis lets plants store energy from sunlight in sugar molecules.", source.smithsonian),
-    t("Which state of matter keeps its own shape and volume?", "Solid", ["Liquid", "Gas", "Plasma"], "Particles in a solid stay close together, so solids keep a definite shape and volume.", source.khan),
-    t("What instrument is commonly used to measure temperature?", "Thermometer", ["Barometer", "Compass", "Anemometer"], "A thermometer measures temperature. A barometer measures air pressure.", source.noaa),
-    t("What is the basic unit of life?", "Cell", ["Atom", "Mineral", "Cloud"], "Living things are made of cells, which carry out life processes.", source.smithsonian),
-    t("Which type of energy is stored in food and batteries?", "Chemical energy", ["Sound energy", "Nuclear energy", "Elastic energy"], "Food and batteries store energy in chemical bonds that can be converted into other forms.", source.khan),
-    t("What happens when water vapor cools and changes into liquid droplets?", "Condensation", ["Sublimation", "Melting", "Combustion"], "Condensation forms liquid water droplets from cooled water vapor.", source.noaa),
-    t("Which particle has a negative electric charge?", "Electron", ["Proton", "Neutron", "Molecule"], "Electrons have negative charge, protons have positive charge, and neutrons are neutral.", source.nist),
-    t("What is a hypothesis in a scientific investigation?", "A testable explanation", ["A final law", "A random guess", "A measuring tool"], "A useful hypothesis explains an observation in a way that can be tested.", source.khan),
-    t("Which gas do humans breathe in to help cells release energy from food?", "Oxygen", ["Helium", "Methane", "Argon"], "Oxygen is used in cellular respiration, which helps cells release usable energy.", source.smithsonian),
-    t("What kind of wave can travel through empty space from the Sun to Earth?", "Electromagnetic wave", ["Sound wave", "Water wave", "Seismic wave"], "Light is an electromagnetic wave, so it can move through the vacuum of space.", source.nasa),
-    t("What does conservation of mass mean in a closed system?", "Matter is not created or destroyed", ["Matter always becomes hotter", "Matter loses all weight", "Matter turns only into light"], "In a closed system, atoms are rearranged during reactions, but the total mass stays the same.", source.khan),
-  ],
-  history: [
-    t("Which document announced that the American colonies considered themselves independent from Britain?", "Declaration of Independence", ["Bill of Rights", "Magna Carta", "Monroe Doctrine"], "The Declaration of Independence stated the colonies' reasons for separating from Britain.", source.archives),
-    t("What ancient civilization built pyramids along the Nile River?", "Egypt", ["Maya", "Greece", "Inca"], "Ancient Egyptian society developed along the Nile and built pyramids as royal tombs.", source.smithsonian),
-    t("Which invention made it faster to produce many copies of books in Europe?", "Printing press", ["Steam engine", "Telegraph", "Compass"], "The printing press helped books and ideas spread more widely and quickly.", source.loc),
-    t("What is a primary source?", "Evidence from the time being studied", ["A recent movie", "A summary written centuries later", "A made-up story"], "Primary sources are original records, objects, images, or documents from the period being studied.", source.loc),
-    t("Which war was fought between the Union and the Confederacy in the United States?", "Civil War", ["War of 1812", "Spanish-American War", "World War I"], "The US Civil War was fought from 1861 to 1865 between the Union and the Confederacy.", source.archives),
-    t("What system connected China with Europe through trade routes for many centuries?", "Silk Road", ["Erie Canal", "Trans-Siberian Railway", "Panama Canal"], "The Silk Road was a network of trade routes that moved goods and ideas across Eurasia.", source.smithsonian),
-    t("Which movement argued that reason and evidence could improve society and government?", "Enlightenment", ["Feudalism", "Mercantilism", "Isolationism"], "Enlightenment thinkers emphasized reason, evidence, individual rights, and new ideas about government.", source.loc),
-    t("Which amendment to the US Constitution protects freedom of speech and religion?", "First Amendment", ["Second Amendment", "Fifth Amendment", "Tenth Amendment"], "The First Amendment protects several civil liberties, including speech, religion, press, assembly, and petition.", source.archives),
-    t("What was one major effect of the Industrial Revolution?", "More goods were made in factories", ["Writing disappeared", "Cities became unnecessary", "Ocean travel ended"], "Industrialization shifted much production from hand labor to machines and factories.", source.smithsonian),
-    t("Which global conflict lasted from 1939 to 1945?", "World War II", ["World War I", "Korean War", "Cold War"], "World War II involved countries across the globe and lasted from 1939 to 1945.", source.archives),
-    t("What is the purpose of a timeline in history?", "To show events in chronological order", ["To measure rainfall", "To classify rocks", "To calculate speed"], "Timelines help show when events happened and how they relate to one another.", source.loc),
-    t("Why do historians compare multiple sources?", "To check evidence and perspective", ["To avoid reading dates", "To make every source identical", "To remove all context"], "Comparing sources helps historians evaluate accuracy, context, and missing information.", source.loc),
-  ],
-  space: [
-    t("Which planet is known as the Red Planet?", "Mars", ["Venus", "Jupiter", "Mercury"], "Mars often looks reddish because of iron-rich minerals on its surface.", ["NASA Science", "https://science.nasa.gov/mars/"]),
-    t("What object is at the center of our solar system?", "The Sun", ["Earth", "The Moon", "Jupiter"], "The Sun's gravity keeps planets, dwarf planets, asteroids, and comets in orbit.", source.nasa),
-    t("What is the name for a group of stars, gas, dust, and dark matter held together by gravity?", "Galaxy", ["Asteroid", "Crater", "Comet"], "A galaxy is a huge system that can contain billions of stars plus gas, dust, and dark matter.", source.nasa),
-    t("What causes the Moon to appear to change shape during a month?", "We see different sunlit portions", ["The Moon shrinks", "Earth changes size", "Clouds cover the Moon in space"], "Moon phases happen because the Moon orbits Earth and we see different parts of its sunlit half.", source.nasa),
-    t("Which planet is the largest in our solar system?", "Jupiter", ["Saturn", "Earth", "Neptune"], "Jupiter is the largest planet in the solar system by diameter and mass.", source.nasa),
-    t("What is an orbit?", "The path an object follows around another object", ["A type of telescope", "A cloud on Earth", "A unit of temperature"], "Gravity can keep one object traveling along a curved path around another object.", source.nasa),
-    t("What type of star is the Sun?", "A main-sequence star", ["A comet", "A white dwarf", "A black hole"], "The Sun is currently a main-sequence star that produces energy by nuclear fusion in its core.", source.nasa),
-    t("What is a light-year used to measure?", "Distance", ["Temperature", "Mass", "Brightness only"], "A light-year is the distance light travels in one year, so it measures distance.", source.nasa),
-    t("Which layer of gases surrounds Earth?", "Atmosphere", ["Lithosphere", "Core", "Mantle"], "Earth's atmosphere is the mixture of gases held near the planet by gravity.", source.noaa),
-    t("What is a rover designed to do on another world?", "Move across the surface and collect data", ["Turn planets into stars", "Block sunlight permanently", "Measure ocean tides on Earth only"], "Planetary rovers carry instruments and travel across surfaces to study rocks, soil, and conditions.", source.nasa),
-    t("What is the asteroid belt mostly made of?", "Rocky and metallic objects", ["Liquid water oceans", "Wood fragments", "Living plants"], "The main asteroid belt contains many rocky and metallic bodies orbiting the Sun.", source.nasa),
-    t("Why do astronauts aboard an orbiting spacecraft float instead of falling to the floor?", "They and the spacecraft are falling around Earth together", ["Gravity turns off in orbit", "Their mass becomes zero", "Air pushes them upward"], "Gravity still pulls on astronauts in orbit. They float because they and their spacecraft are in continuous free fall around Earth together.", ["NASA Glenn Research Center", "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/free-falling-objects/"]),
-  ],
-  geography: [
-    t("Which imaginary line divides Earth into Northern and Southern Hemispheres?", "Equator", ["Prime Meridian", "Tropic of Cancer", "Arctic Circle"], "The equator circles Earth halfway between the North Pole and South Pole.", source.ngs),
-    t("What do contour lines on a map show?", "Elevation", ["Time zones", "Population only", "Rainfall only"], "Contour lines connect points of equal elevation and help show land shape.", source.usgs),
-    t("Which ocean is the largest on Earth?", "Pacific Ocean", ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean"], "The Pacific Ocean covers more area than any other ocean basin.", source.ngs),
-    t("What is a peninsula?", "Land surrounded by water on three sides", ["A mountain under the sea", "A river's starting point", "A map scale"], "A peninsula is connected to larger land but has water on three sides.", source.ngs),
-    t("Which tool shows cardinal directions on a map?", "Compass rose", ["Legend only", "Scale bar only", "Inset map"], "A compass rose marks directions such as north, south, east, and west.", source.ngs),
-    t("What is latitude used to describe?", "Distance north or south of the equator", ["Height above sea level only", "Distance east or west of the Prime Meridian", "Ocean depth only"], "Latitude lines run east-west and measure position north or south of the equator.", source.ngs),
-    t("What is longitude used to describe?", "Distance east or west of the Prime Meridian", ["Distance north or south of the equator", "Wind speed", "Rock hardness"], "Longitude lines run from pole to pole and measure position east or west of the Prime Meridian.", source.ngs),
-    t("What is a delta?", "Landform built by sediment near a river mouth", ["A desert wind", "A type of glacier", "A map projection"], "A river delta forms where moving water drops sediment near the place it enters a larger body of water.", source.usgs),
-    t("What does a map scale help you determine?", "Real-world distance", ["Weather tomorrow", "Rock age", "Magnetic north only"], "A scale shows how distances on the map compare with distances on Earth's surface.", source.ngs),
-    t("Which process slowly breaks rock into smaller pieces?", "Weathering", ["Orbiting", "Condensing", "Pollinating"], "Weathering breaks rocks down through physical, chemical, or biological processes.", source.usgs),
-    t("What is a watershed?", "An area where water drains to the same place", ["A building for maps", "A type of volcano", "A dry ocean basin only"], "A watershed includes the land area where rainfall and streams drain toward a common outlet.", source.usgs),
-    t("What does GIS stand for?", "Geographic Information System", ["Global Ice Sensor", "Groundwater Index Scale", "Geologic Interval Survey"], "GIS tools store, analyze, and display data connected to locations.", source.usgs),
-  ],
-  nature: [
-    t("What is an ecosystem?", "Living things and their physical environment interacting", ["Only one animal", "A rock collection", "A weather instrument"], "An ecosystem includes organisms, nonliving surroundings, and the interactions among them.", source.ngs),
-    t("Which role describes an organism that makes its own food, such as a plant?", "Producer", ["Consumer", "Decomposer", "Predator"], "Producers use energy, often sunlight, to make food that supports food webs.", source.smithsonian),
-    t("What do decomposers do in an ecosystem?", "Break down dead material and recycle nutrients", ["Make all sunlight", "Stop rainfall", "Turn rocks into planets"], "Decomposers help recycle matter by breaking down dead organisms and waste.", source.smithsonian),
-    t("Which adaptation helps many desert plants reduce water loss?", "Waxy outer layers", ["Large thin leaves", "No roots", "Transparent stems only"], "Waxy coatings and other adaptations help some desert plants conserve water.", source.ngs),
-    t("What is biodiversity?", "The variety of life in an area", ["One type of weather", "A mineral's color", "A map symbol"], "Biodiversity includes the variety of species, genes, and ecosystems.", source.smithsonian),
-    t("What is pollination?", "Movement of pollen that can help plants reproduce", ["Melting of ice", "Formation of thunder", "Breaking of rocks by rivers"], "Pollination moves pollen between flower parts, which can lead to seed formation.", source.smithsonian),
-    t("Which organism is usually at the start of an ocean food web?", "Phytoplankton", ["Sharks", "Sea turtles", "Octopuses"], "Phytoplankton are tiny producers that use sunlight and support many ocean food webs.", source.noaa),
-    t("What is migration?", "Seasonal movement from one region to another", ["Making soil", "Changing from liquid to gas", "Drawing a map"], "Many animals migrate to find food or better seasonal conditions.", source.ngs),
-    t("What is a habitat?", "The place where an organism lives", ["A unit of force", "A planet's path", "A type of battery"], "A habitat provides the conditions and resources an organism needs to live.", source.ngs),
-    t("Which term describes an animal that eats both plants and animals?", "Omnivore", ["Herbivore", "Carnivore", "Producer"], "Omnivores have diets that include both plant and animal matter.", source.smithsonian),
-    t("What is succession in ecology?", "Gradual change in a community over time", ["The speed of a river", "A star's brightness", "The number of map symbols"], "Ecological succession is a pattern of change in species and communities over time.", source.ngs),
-    t("Why are wetlands important for water quality?", "They can filter water and trap sediment", ["They stop all evaporation", "They remove gravity", "They make ocean tides disappear"], "Wetlands can slow water, trap sediment, and support processes that improve water quality.", source.noaa),
-  ],
-  technology: [
-    t("What is an algorithm?", "A step-by-step procedure for solving a problem", ["A computer screen", "A random password", "A type of battery"], "Algorithms are ordered instructions that can be followed by people or computers.", source.khan),
-    t("What does a sensor do?", "Detects information from the environment", ["Stores only music", "Paints pixels by hand", "Erases gravity"], "Sensors detect information such as light, motion, temperature, or pressure.", source.nist),
-    t("What is binary code based on?", "Two symbols, usually 0 and 1", ["Ten planets", "Four seasons", "Three map colors"], "Digital computers often represent information using binary digits: 0s and 1s.", source.khan),
-    t("What is encryption used for?", "Protecting information by transforming it", ["Making monitors brighter", "Weighing objects", "Cooling lava"], "Encryption transforms data so it is harder to read without the correct key.", source.nist),
-    t("What is a prototype?", "An early model used for testing ideas", ["A final law of nature", "A permanent password", "A type of fossil"], "Prototypes help designers test, learn, and improve before building a final version.", source.nist),
-    t("What is debugging?", "Finding and fixing errors in code or systems", ["Charging a battery", "Measuring ocean depth", "Painting a keyboard"], "Debugging is the process of locating and correcting problems.", source.khan),
-    t("What does a database help people do?", "Store and organize data", ["Measure wind speed only", "Create sunlight", "Melt minerals"], "Databases store structured information so it can be found and updated efficiently.", source.khan),
-    t("What is bandwidth in a network context?", "How much data can be sent over a connection in a time period", ["The mass of a computer", "The color of a cable", "The height of a tower"], "Bandwidth describes the capacity of a connection to carry data.", source.nist),
-    t("What is artificial intelligence designed to help computers do?", "Perform tasks that can require reasoning or pattern recognition", ["Remove all electricity", "Make every answer correct", "Turn software into metal"], "AI systems are designed to solve tasks such as recognizing patterns, making predictions, or generating responses.", source.nist),
-    t("Why do engineers test designs?", "To find problems and improve performance", ["To avoid using evidence", "To make measurements unnecessary", "To remove all constraints"], "Testing gives engineers evidence about whether a design works as intended.", source.nist),
-    t("What is open-source software?", "Software whose source code can be inspected and shared under a license", ["Software without any instructions", "A computer with no screen", "A file that cannot be copied"], "Open-source licenses allow people to inspect, use, and often modify source code under stated terms.", source.khan),
-    t("What does accessibility in technology aim to improve?", "Usability for people with different abilities and needs", ["Only screen brightness", "Only file size", "Only processor temperature"], "Accessible design helps more people use technology effectively.", source.nist),
-  ],
-};
 
 function t(stem, answer, distractors, explanation, sourceInfo) {
   return { stem, answer, distractors, explanation, sourceName: sourceInfo[0], sourceUrl: sourceInfo[1] };
@@ -169,19 +83,132 @@ const categoryTargets = {
   nature: 60,
   technology: 50,
 };
+const perAgeQuestionTarget = Object.values(categoryTargets).reduce((sum, count) => sum + count, 0);
+const totalQuestionTarget = perAgeQuestionTarget * ageGroups.length;
+const factualQuestionTarget = totalQuestionTarget - (categoryTargets.math * ageGroups.length);
+
+let factualQuestions = [];
 
 function buildQuestions() {
+  return [
+    ...factualQuestions,
+    ...buildMathQuestions(),
+  ];
+}
+
+async function loadFactualQuestions() {
+  if (typeof fetch === "undefined") {
+    return [];
+  }
+
+  const response = await fetch("/data/factual-bank.json", { cache: "no-store" });
+  if (!response.ok) {
+    throw new Error(`Could not load factual question bank (${response.status}).`);
+  }
+
+  return response.json();
+}
+
+async function initializeQuestionBank() {
+  factualQuestions = await loadFactualQuestions();
+  questions = buildQuestions();
+  validateQuestions(questions);
+}
+
+function refreshQuestionBank() {
+  questions = buildQuestions();
+  validateQuestions(questions);
+}
+
+function factualQuestionCount() {
+  return factualQuestions.length;
+}
+
+function mathQuestionCount() {
+  return questions.filter((question) => question.category === "math").length;
+}
+
+function totalQuestionLabel() {
+  const factual = factualQuestionCount();
+  const math = mathQuestionCount();
+  const total = factual + math;
+  return factual === 0
+    ? `${math} math questions`
+    : `${total} of ${totalQuestionTarget} questions`;
+}
+
+function contentStatusLabel() {
+  const factual = factualQuestionCount();
+  if (factual >= factualQuestionTarget) {
+    return "Ready";
+  }
+
+  return factual === 0
+    ? "Factual bank in progress"
+    : "Bank in progress";
+}
+
+function categoryTargetFor(category) {
+  return categoryTargets[category];
+}
+
+function selectionAvailabilityLabel(available) {
+  const target = state.settings.category === "mixed"
+    ? perAgeQuestionTarget
+    : categoryTargetFor(state.settings.category);
+
+  return `${available} of ${target} questions available for this selection.`;
+}
+
+function canStartQuiz() {
+  return state.settings.questionCount > 0 && availableQuestionCount() >= state.settings.questionCount;
+}
+
+function questionBankLoadError(error) {
+  return error instanceof Error ? error.message : "Could not load question bank.";
+}
+
+function updateQuestionBankError(error) {
+  state.error = questionBankLoadError(error);
+}
+
+function clearQuestionBankError() {
+  if (state.error?.startsWith("Could not load factual question bank")) {
+    state.error = null;
+  }
+}
+
+function updateQuestionsAfterFactualLoad() {
+  refreshQuestionBank();
+  clearQuestionBankError();
+}
+
+async function bootQuestionBank() {
+  try {
+    await initializeQuestionBank();
+  } catch (error) {
+    updateQuestionBankError(error);
+    refreshQuestionBank();
+  }
+}
+
+async function startApp() {
+  await bootQuestionBank();
+  render();
+}
+
+export function buildMathQuestions() {
   return ageGroups.flatMap((ageGroup) =>
-    categories.flatMap((category) =>
-      buildCategoryQuestionSet(ageGroup, category, categoryTargets[category]),
-    ),
+    buildCategoryQuestionSet(ageGroup, "math", categoryTargets.math),
   );
 }
 
 function buildCategoryQuestionSet(ageGroup, category, targetCount) {
-  const templates = category === "math"
-    ? buildMathQuestionSet(ageGroup, targetCount)
-    : buildConceptQuestionSet(ageGroup, category, targetCount);
+  if (category !== "math") {
+    throw new Error(`Only math questions are generated procedurally. ${category} must come from the static factual bank.`);
+  }
+
+  const templates = buildMathQuestionSet(ageGroup, targetCount);
 
   return templates.map((template, index) => ({
     id: `${category}-${ageGroup.replace("+", "plus")}-${String(index + 1).padStart(4, "0")}`,
@@ -196,43 +223,6 @@ function buildCategoryQuestionSet(ageGroup, category, targetCount) {
     sourceUrl: template.sourceUrl,
     reviewStatus: "reviewed",
   }));
-}
-
-function buildConceptQuestionSet(ageGroup, category, targetCount) {
-  const baseTemplates = factTemplates[category];
-  const set = [];
-
-  for (let index = 0; index < targetCount; index += 1) {
-    const base = baseTemplates[index % baseTemplates.length];
-    const cycle = Math.floor(index / baseTemplates.length);
-    const stem = conceptStemVariant(base.stem, category, cycle);
-
-    set.push({
-      ...base,
-      stem,
-      explanation: base.explanation,
-    });
-  }
-
-  return set;
-}
-
-function conceptStemVariant(stem, category, cycle) {
-  const starters = {
-    science: ["", "In a science investigation", "For a lab discussion", "When checking a model", "In a science explanation", "When comparing evidence", "For a concept review"],
-    history: ["", "When studying historical evidence", "In a history discussion", "When comparing sources", "For a timeline review", "When analyzing the past", "In a civics or history lesson"],
-    space: ["", "In space science", "For a mission briefing", "When studying orbital motion", "In an astronomy discussion", "When comparing space objects", "For a solar system review"],
-    geography: ["", "When reading a map", "In a geography discussion", "When studying Earth's surface", "For a map skills review", "When comparing places", "In a landforms lesson"],
-    nature: ["", "In an ecology discussion", "When studying ecosystems", "For a nature science review", "When comparing organisms", "In an environment lesson", "When tracing a food web"],
-    technology: ["", "In a technology design review", "When thinking like an engineer", "For a computing discussion", "When comparing systems", "In a digital literacy lesson", "When testing a design"],
-  };
-  const starter = starters[category][cycle % starters[category].length];
-
-  if (!starter) {
-    return stem;
-  }
-
-  return `${starter}, ${lowerFirst(stem)}`;
 }
 
 function buildMathQuestionSet(ageGroup, targetCount) {
@@ -333,11 +323,7 @@ function difficultyFor(index, ageGroup) {
   return index < 3 ? "easy" : index < 8 ? "medium" : "hard";
 }
 
-function lowerFirst(text) {
-  return text.charAt(0).toLowerCase() + text.slice(1);
-}
-
-export const questions = buildQuestions();
+export let questions = buildQuestions();
 validateQuestions(questions);
 
 const state = {
@@ -356,7 +342,7 @@ const app = typeof document === "undefined" ? null : document.querySelector("#ap
 if (app) {
   app.addEventListener("click", handleClick);
   app.addEventListener("input", handleInput);
-  render();
+  startApp();
 }
 
 function handleClick(event) {
@@ -504,8 +490,8 @@ function setupHero() {
           <h1 id="app-title">Quizzer</h1>
           <p class="hero-copy">Fast, smart quiz rounds in science, math, history, space, geography, nature, and technology.</p>
           <div class="setup-meta" aria-label="Quizzer status">
-            <span>${bookIcon()} 5000 questions</span>
-            <span>${clockIcon()} Ready</span>
+            <span>${bookIcon()} ${totalQuestionLabel()}</span>
+            <span>${clockIcon()} ${contentStatusLabel()}</span>
             <button class="icon-button" type="button" data-action="mute" aria-label="${state.muted ? "Turn sound on" : "Turn sound off"}" title="${state.muted ? "Turn sound on" : "Turn sound off"}">
               ${state.muted ? volumeOffIcon() : volumeIcon()}
             </button>
@@ -572,10 +558,10 @@ function setupPanel(available) {
           <div class="segmented count-grid">
             ${countOptions.map((count) => `<button class="${state.settings.questionCount === count ? "active" : ""}" type="button" data-action="set-count" data-value="${count}" ${usable.includes(count) ? "" : "disabled"}>${count}</button>`).join("")}
           </div>
-          <p class="hint">${available} reviewed questions match this selection.</p>
+          <p class="hint">${selectionAvailabilityLabel(available)}</p>
         </fieldset>
         ${state.error ? `<p class="error-message">${escapeHtml(state.error)}</p>` : ""}
-        <button class="primary-action" type="button" data-action="start" ${state.settings.questionCount === 0 ? "disabled" : ""}>Start quiz ${chevronIcon()}</button>
+        <button class="primary-action" type="button" data-action="start" ${canStartQuiz() ? "" : "disabled"}>Start quiz ${chevronIcon()}</button>
       </section>
       <section class="category-panel" aria-labelledby="category-heading">
         <div class="section-heading">
