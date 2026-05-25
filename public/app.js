@@ -343,7 +343,9 @@ let lastTouchActionButton = null;
 let lastTouchActionTime = 0;
 
 if (app) {
+  app.addEventListener("pointerdown", handlePointerDown);
   app.addEventListener("pointerup", handlePointerUp);
+  app.addEventListener("touchstart", handleTouchStart, { passive: false });
   app.addEventListener("touchend", handleTouchEnd, { passive: false });
   app.addEventListener("click", handleClick);
   app.addEventListener("beforeinput", handleBeforeInput);
@@ -354,27 +356,25 @@ if (app) {
   startApp();
 }
 
+function handlePointerDown(event) {
+  if (event.pointerType === "mouse") return;
+  handleTouchLikeAction(event);
+}
+
 function handlePointerUp(event) {
   if (event.pointerType === "mouse") return;
+  handleTouchLikeAction(event);
+}
 
-  const input = event.target.closest("input");
-  if (input?.dataset.action === "age-input") {
-    primeAgeInput(input);
-    return;
-  }
-
-  const button = event.target.closest("button");
-  if (!button || button.disabled) return;
-
-  const action = button.dataset.action;
-  if (!action) return;
-
-  event.preventDefault();
-  markTouchAction(button);
-  handleButtonAction(button, action);
+function handleTouchStart(event) {
+  handleTouchLikeAction(event);
 }
 
 function handleTouchEnd(event) {
+  handleTouchLikeAction(event);
+}
+
+function handleTouchLikeAction(event) {
   const input = event.target.closest("input");
   if (input?.dataset.action === "age-input") {
     primeAgeInput(input);
@@ -384,12 +384,13 @@ function handleTouchEnd(event) {
   const button = event.target.closest("button");
   if (!button || button.disabled) return;
 
-  if (wasRecentlyHandledTouch(button)) {
-    return;
-  }
-
   const action = button.dataset.action;
   if (!action) return;
+
+  if (wasRecentlyHandledTouch(button)) {
+    event.preventDefault();
+    return;
+  }
 
   event.preventDefault();
   markTouchAction(button);
@@ -815,7 +816,7 @@ function scoreQuiz() {
 }
 
 function immediateFeedback() {
-  return state.settings.ageGroup !== "18+" && Number(state.settings.ageGroup) <= 13;
+  return true;
 }
 
 function validateQuestions(items) {

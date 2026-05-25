@@ -41,6 +41,11 @@ test("mobile touch answer shows feedback and touch next advances", async (t) => 
   await client.send("Page.navigate", { url: server.url });
   await waitFor(client, "button[data-action=\"start\"]");
 
+  await client.evaluate(`(() => {
+    const input = document.querySelector("input[data-action='age-input']");
+    input.value = "18";
+    input.dispatchEvent(new Event("input", { bubbles: true }));
+  })()`);
   await touchAndClick(client, "button[data-action=\"set-category\"][data-value=\"math\"]");
   await touchAndClick(client, "button[data-action=\"start\"]");
   await waitFor(client, ".quiz-topline");
@@ -292,6 +297,7 @@ async function touchAndClick(client, selector) {
   const result = await client.evaluate(`(() => {
     const button = document.querySelector(${JSON.stringify(selector)});
     if (!button || button.disabled) return false;
+    button.dispatchEvent(new Event("touchstart", { bubbles: true, cancelable: true }));
     button.dispatchEvent(new Event("touchend", { bubbles: true, cancelable: true }));
     button.dispatchEvent(new MouseEvent("click", { bubbles: true, cancelable: true }));
     return true;
