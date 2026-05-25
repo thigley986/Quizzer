@@ -1,0 +1,14 @@
+{
+  "name": "quizzer",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "python3 -m http.server 5173 -d public",
+    "build": "node scripts/build.mjs",
+    "preview": "python3 -m http.server 4173 -d dist",
+    "lint": "node scripts/build.mjs --check"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
