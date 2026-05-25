@@ -25,6 +25,14 @@ npm run build
 
 The Cloudflare Pages-ready output is written to `dist/`.
 
+## Security Scan
+
+```sh
+npm run security:scan
+```
+
+The scan checks source files, generated build output, and git history for common secret formats and conversational transcript markers.
+
 ## Cloudflare Pages
 
 Use these Pages settings:
