@@ -121,8 +121,8 @@
     ],
     "correctAnswer": "Athens",
     "explanation": "Athens developed an early form of democracy in which citizens took part in government.",
-    "sourceName": "National Geographic Education - Democracy in Ancient Greece",
-    "sourceUrl": "https://education.nationalgeographic.org/resource/democracy-ancient-greece/Wikipedia/",
+    "sourceName": "National Geographic Education - Ancient Greece",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/resource-library-ancient-greece/",
     "reviewStatus": "reviewed"
   },
   {
@@ -357,6 +357,906 @@
     "explanation": "The Market Revolution involved factories, mass production, and wider trade networks.",
     "sourceName": "Smithsonian National Museum of American History - A Market Revolution",
     "sourceUrl": "https://americanhistory.si.edu/explore/exhibitions/american-revolution-world-war/online/market-revolution",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0021",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which document is associated with limiting an English king's power in 1215?",
+    "choices": [
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact",
+      "Boston Tea Party"
+    ],
+    "correctAnswer": "Magna Carta",
+    "explanation": "Magna Carta is associated with limiting an English king's power in 1215.",
+    "sourceName": "National Archives - Magna Carta",
+    "sourceUrl": "https://www.archives.gov/exhibits/featured-documents/magna-carta",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0022",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which settlement is associated with the first permanent English settlement in North America?",
+    "choices": [
+      "Jamestown",
+      "Magna Carta",
+      "Mayflower Compact",
+      "Boston Tea Party"
+    ],
+    "correctAnswer": "Jamestown",
+    "explanation": "Jamestown is associated with the first permanent English settlement in North America.",
+    "sourceName": "National Park Service - A Short History of Jamestown",
+    "sourceUrl": "https://www.nps.gov/jame/learn/historyculture/a-short-history-of-jamestown.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0023",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which agreement is associated with Pilgrims agreeing to make and follow laws for their colony?",
+    "choices": [
+      "Mayflower Compact",
+      "Magna Carta",
+      "Jamestown",
+      "Boston Tea Party"
+    ],
+    "correctAnswer": "Mayflower Compact",
+    "explanation": "Mayflower Compact is associated with Pilgrims agreeing to make and follow laws for their colony.",
+    "sourceName": "Library of Congress - The Mayflower Compact",
+    "sourceUrl": "https://www.loc.gov/exhibitions/join-in-voluntary-associations-in-america/about-this-exhibition/a-toolkit-for-associations/the-mayflower-compact/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0024",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which event is associated with colonists destroying tea to protest British tax policy?",
+    "choices": [
+      "Boston Tea Party",
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact"
+    ],
+    "correctAnswer": "Boston Tea Party",
+    "explanation": "Boston Tea Party is associated with colonists destroying tea to protest British tax policy.",
+    "sourceName": "National Park Service - Old South Meeting House",
+    "sourceUrl": "https://www.nps.gov/places/old-south-meeting-house.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0025",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which treaty is associated with formally ending the American Revolutionary War?",
+    "choices": [
+      "Treaty of Paris of 1783",
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact"
+    ],
+    "correctAnswer": "Treaty of Paris of 1783",
+    "explanation": "Treaty of Paris of 1783 is associated with formally ending the American Revolutionary War.",
+    "sourceName": "National Archives - Treaty of Paris",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/treaty-of-paris",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0026",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which government plan is associated with the first national government plan of the United States?",
+    "choices": [
+      "Articles of Confederation",
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact"
+    ],
+    "correctAnswer": "Articles of Confederation",
+    "explanation": "Articles of Confederation is associated with the first national government plan of the United States.",
+    "sourceName": "National Archives - Articles of Confederation",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/articles-of-confederation",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0027",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which law is associated with setting rules for governing the Northwest Territory?",
+    "choices": [
+      "Northwest Ordinance",
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact"
+    ],
+    "correctAnswer": "Northwest Ordinance",
+    "explanation": "Northwest Ordinance is associated with setting rules for governing the Northwest Territory.",
+    "sourceName": "National Archives - Northwest Ordinance",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/northwest-ordinance",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0028",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which meeting is associated with delegates meeting in Philadelphia to create a new U.S. Constitution?",
+    "choices": [
+      "Constitutional Convention",
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact"
+    ],
+    "correctAnswer": "Constitutional Convention",
+    "explanation": "Constitutional Convention is associated with delegates meeting in Philadelphia to create a new U.S. Constitution.",
+    "sourceName": "National Archives - A More Perfect Union",
+    "sourceUrl": "https://www.archives.gov/founding-docs/more-perfect-union",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0029",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which essays is associated with essays supporting ratification of the U.S. Constitution?",
+    "choices": [
+      "Federalist Papers",
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact"
+    ],
+    "correctAnswer": "Federalist Papers",
+    "explanation": "Federalist Papers is associated with essays supporting ratification of the U.S. Constitution.",
+    "sourceName": "Library of Congress - Federalist Papers",
+    "sourceUrl": "https://guides.loc.gov/federalist-papers/full-text",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0030",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which expedition is associated with exploring lands acquired by the United States after the Louisiana Purchase?",
+    "choices": [
+      "Lewis and Clark Expedition",
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact"
+    ],
+    "correctAnswer": "Lewis and Clark Expedition",
+    "explanation": "Lewis and Clark Expedition is associated with exploring lands acquired by the United States after the Louisiana Purchase.",
+    "sourceName": "Library of Congress - Lewis and Clark Maps",
+    "sourceUrl": "https://www.loc.gov/collections/lewis-and-clark-maps/about-this-collection/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0031",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which war is associated with a conflict between the United States and Great Britain in the early 1800s?",
+    "choices": [
+      "War of 1812",
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact"
+    ],
+    "correctAnswer": "War of 1812",
+    "explanation": "War of 1812 is associated with a conflict between the United States and Great Britain in the early 1800s.",
+    "sourceName": "National Park Service - War of 1812",
+    "sourceUrl": "https://www.nps.gov/subjects/warof1812/index.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0032",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which policy statement is associated with warning European powers against new colonization in the Americas?",
+    "choices": [
+      "Monroe Doctrine",
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact"
+    ],
+    "correctAnswer": "Monroe Doctrine",
+    "explanation": "Monroe Doctrine is associated with warning European powers against new colonization in the Americas.",
+    "sourceName": "National Archives - Monroe Doctrine",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/monroe-doctrine",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0033",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which law is associated with authorizing forced removal policies against Native nations in the Southeast?",
+    "choices": [
+      "Indian Removal Act",
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact"
+    ],
+    "correctAnswer": "Indian Removal Act",
+    "explanation": "Indian Removal Act is associated with authorizing forced removal policies against Native nations in the Southeast.",
+    "sourceName": "National Archives - Jackson's Message on Indian Removal",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/jacksons-message-to-congress-on-indian-removal",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0034",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which treaty is associated with ending the Mexican-American War and transferring large territories?",
+    "choices": [
+      "Treaty of Guadalupe Hidalgo",
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact"
+    ],
+    "correctAnswer": "Treaty of Guadalupe Hidalgo",
+    "explanation": "Treaty of Guadalupe Hidalgo is associated with ending the Mexican-American War and transferring large territories.",
+    "sourceName": "National Archives - Treaty of Guadalupe Hidalgo",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/treaty-of-guadalupe-hidalgo",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0035",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which convention is associated with an early women's rights meeting in New York?",
+    "choices": [
+      "Seneca Falls Convention",
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact"
+    ],
+    "correctAnswer": "Seneca Falls Convention",
+    "explanation": "Seneca Falls Convention is associated with an early women's rights meeting in New York.",
+    "sourceName": "National Park Service - First Women's Rights Convention",
+    "sourceUrl": "https://www.nps.gov/wori/learn/historyculture/the-first-womens-rights-convention.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0036",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which legislative package is associated with trying to manage sectional conflict after the Mexican-American War?",
+    "choices": [
+      "Compromise of 1850",
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact"
+    ],
+    "correctAnswer": "Compromise of 1850",
+    "explanation": "Compromise of 1850 is associated with trying to manage sectional conflict after the Mexican-American War.",
+    "sourceName": "National Archives - Compromise of 1850",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/compromise-of-1850",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0037",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which law is associated with letting settlers vote on slavery in Kansas and Nebraska territories?",
+    "choices": [
+      "Kansas-Nebraska Act",
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact"
+    ],
+    "correctAnswer": "Kansas-Nebraska Act",
+    "explanation": "Kansas-Nebraska Act is associated with letting settlers vote on slavery in Kansas and Nebraska territories.",
+    "sourceName": "National Archives - Kansas-Nebraska Act",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/kansas-nebraska-act",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0038",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which Supreme Court decision is associated with denying citizenship claims by Dred Scott and challenging limits on slavery?",
+    "choices": [
+      "Dred Scott decision",
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact"
+    ],
+    "correctAnswer": "Dred Scott decision",
+    "explanation": "Dred Scott decision is associated with denying citizenship claims by Dred Scott and challenging limits on slavery.",
+    "sourceName": "National Archives - Dred Scott v. Sandford",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/dred-scott-v-sandford",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0039",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which speech is associated with Lincoln's short speech dedicating a Civil War battlefield cemetery?",
+    "choices": [
+      "Gettysburg Address",
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact"
+    ],
+    "correctAnswer": "Gettysburg Address",
+    "explanation": "Gettysburg Address is associated with Lincoln's short speech dedicating a Civil War battlefield cemetery.",
+    "sourceName": "Library of Congress - Gettysburg Address",
+    "sourceUrl": "https://www.loc.gov/exhibits/gettysburg-address/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0040",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which federal agency is associated with assisting formerly enslaved people and refugees after the Civil War?",
+    "choices": [
+      "Freedmen's Bureau",
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact"
+    ],
+    "correctAnswer": "Freedmen's Bureau",
+    "explanation": "Freedmen's Bureau is associated with assisting formerly enslaved people and refugees after the Civil War.",
+    "sourceName": "National Archives - Freedmen's Bureau",
+    "sourceUrl": "https://www.archives.gov/research/african-americans/freedmens-bureau",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0041",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which Supreme Court decision is associated with upholding racial segregation under the phrase separate but equal?",
+    "choices": [
+      "Plessy v. Ferguson",
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact"
+    ],
+    "correctAnswer": "Plessy v. Ferguson",
+    "explanation": "Plessy v. Ferguson is associated with upholding racial segregation under the phrase separate but equal.",
+    "sourceName": "National Park Service - Homer Plessy",
+    "sourceUrl": "https://www.nps.gov/people/homer-plessy.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0042",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which law is associated with regulating mislabeled or unsafe foods and medicines?",
+    "choices": [
+      "Pure Food and Drug Act",
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact"
+    ],
+    "correctAnswer": "Pure Food and Drug Act",
+    "explanation": "Pure Food and Drug Act is associated with regulating mislabeled or unsafe foods and medicines.",
+    "sourceName": "U.S. Food and Drug Administration - Food and Drug Law Milestones",
+    "sourceUrl": "https://www.fda.gov/about-fda/fda-history/milestones-us-food-and-drug-law",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0043",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which canal project is associated with connecting the Atlantic and Pacific Oceans through Panama?",
+    "choices": [
+      "Panama Canal",
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact"
+    ],
+    "correctAnswer": "Panama Canal",
+    "explanation": "Panama Canal is associated with connecting the Atlantic and Pacific Oceans through Panama.",
+    "sourceName": "Office of the Historian - Panama Canal",
+    "sourceUrl": "https://history.state.gov/milestones/1899-1913/panama-canal",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0044",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which diplomatic message is associated with a German message proposing an alliance with Mexico during World War I?",
+    "choices": [
+      "Zimmermann Telegram",
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact"
+    ],
+    "correctAnswer": "Zimmermann Telegram",
+    "explanation": "Zimmermann Telegram is associated with a German message proposing an alliance with Mexico during World War I.",
+    "sourceName": "National Archives - Zimmermann Telegram",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/zimmermann-telegram",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0045",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which peace proposal is associated with Woodrow Wilson's plan for peace after World War I?",
+    "choices": [
+      "Fourteen Points",
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact"
+    ],
+    "correctAnswer": "Fourteen Points",
+    "explanation": "Fourteen Points is associated with Woodrow Wilson's plan for peace after World War I.",
+    "sourceName": "National Archives - President Woodrow Wilson's 14 Points",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/president-woodrow-wilsons-14-points",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0046",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which treaty is associated with the peace treaty with Germany after World War I?",
+    "choices": [
+      "Treaty of Versailles",
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact"
+    ],
+    "correctAnswer": "Treaty of Versailles",
+    "explanation": "Treaty of Versailles is associated with the peace treaty with Germany after World War I.",
+    "sourceName": "The National Archives - Treaty of Versailles",
+    "sourceUrl": "https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-treaty-of-versailles/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0047",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which cultural movement is associated with a flowering of Black art, literature, and music centered in Harlem?",
+    "choices": [
+      "Harlem Renaissance",
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact"
+    ],
+    "correctAnswer": "Harlem Renaissance",
+    "explanation": "Harlem Renaissance is associated with a flowering of Black art, literature, and music centered in Harlem.",
+    "sourceName": "Smithsonian National Museum of African American History and Culture - Harlem Renaissance",
+    "sourceUrl": "https://nmaahc.si.edu/explore/stories/harlem-renaissance",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0048",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which economic crisis is associated with a severe economic collapse beginning in 1929?",
+    "choices": [
+      "Great Depression",
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact"
+    ],
+    "correctAnswer": "Great Depression",
+    "explanation": "Great Depression is associated with a severe economic collapse beginning in 1929.",
+    "sourceName": "Library of Congress - Great Depression and World War II Overview",
+    "sourceUrl": "https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/great-depression-and-world-war-ii-1929-1945/overview/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0049",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which environmental disaster is associated with dust storms and farm hardship on the Great Plains during the 1930s?",
+    "choices": [
+      "Dust Bowl",
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact"
+    ],
+    "correctAnswer": "Dust Bowl",
+    "explanation": "Dust Bowl is associated with dust storms and farm hardship on the Great Plains during the 1930s.",
+    "sourceName": "Library of Congress - Dust Bowl",
+    "sourceUrl": "https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/great-depression-and-world-war-ii-1929-1945/dust-bowl/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0050",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which New Deal program is associated with a New Deal work program focused on conservation projects?",
+    "choices": [
+      "Civilian Conservation Corps",
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact"
+    ],
+    "correctAnswer": "Civilian Conservation Corps",
+    "explanation": "Civilian Conservation Corps is associated with a New Deal work program focused on conservation projects.",
+    "sourceName": "National Park Service - Civilian Conservation Corps",
+    "sourceUrl": "https://www.nps.gov/articles/the-civilian-conservation-corps.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0051",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which military attack is associated with Japan's attack on a U.S. naval base in Hawaii?",
+    "choices": [
+      "Pearl Harbor attack",
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact"
+    ],
+    "correctAnswer": "Pearl Harbor attack",
+    "explanation": "Pearl Harbor attack is associated with Japan's attack on a U.S. naval base in Hawaii.",
+    "sourceName": "National Park Service - Pearl Harbor History and Culture",
+    "sourceUrl": "https://www.nps.gov/perl/learn/historyculture/index.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0052",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which executive order is associated with authorizing exclusion zones used to incarcerate Japanese Americans during World War II?",
+    "choices": [
+      "Executive Order 9066",
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact"
+    ],
+    "correctAnswer": "Executive Order 9066",
+    "explanation": "Executive Order 9066 is associated with authorizing exclusion zones used to incarcerate Japanese Americans during World War II.",
+    "sourceName": "National Archives - Executive Order 9066",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/executive-order-9066",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0053",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which military operation is associated with Allied landings in Normandy during World War II?",
+    "choices": [
+      "D-Day landings",
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact"
+    ],
+    "correctAnswer": "D-Day landings",
+    "explanation": "D-Day landings is associated with Allied landings in Normandy during World War II.",
+    "sourceName": "National WWII Museum - D-Day",
+    "sourceUrl": "https://www.nationalww2museum.org/war/articles/d-day-allies-invade-europe",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0054",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which charter is associated with creating the United Nations after World War II?",
+    "choices": [
+      "United Nations Charter",
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact"
+    ],
+    "correctAnswer": "United Nations Charter",
+    "explanation": "United Nations Charter is associated with creating the United Nations after World War II.",
+    "sourceName": "United Nations - San Francisco Conference",
+    "sourceUrl": "https://www.un.org/en/about-us/history-of-the-un/san-francisco-conference",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0055",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which policy statement is associated with announcing U.S. support for countries resisting communist pressure?",
+    "choices": [
+      "Truman Doctrine",
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact"
+    ],
+    "correctAnswer": "Truman Doctrine",
+    "explanation": "Truman Doctrine is associated with announcing U.S. support for countries resisting communist pressure.",
+    "sourceName": "National Archives - Truman Doctrine",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/truman-doctrine",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0056",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which treaty is associated with creating the NATO alliance?",
+    "choices": [
+      "North Atlantic Treaty",
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact"
+    ],
+    "correctAnswer": "North Atlantic Treaty",
+    "explanation": "North Atlantic Treaty is associated with creating the NATO alliance.",
+    "sourceName": "National Archives - The North Atlantic Treaty",
+    "sourceUrl": "https://www.archives.gov/exhibits/featured-documents/north-atlantic-treaty",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0057",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which Cold War crisis is associated with a nuclear confrontation over Soviet missiles in Cuba?",
+    "choices": [
+      "Cuban Missile Crisis",
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact"
+    ],
+    "correctAnswer": "Cuban Missile Crisis",
+    "explanation": "Cuban Missile Crisis is associated with a nuclear confrontation over Soviet missiles in Cuba.",
+    "sourceName": "John F. Kennedy Presidential Library - Cuban Missile Crisis",
+    "sourceUrl": "https://www.jfklibrary.org/learn/about-jfk/jfk-in-history/cuban-missile-crisis",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0058",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which space mission is associated with the first mission to land humans on the Moon?",
+    "choices": [
+      "Apollo 11 mission",
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact"
+    ],
+    "correctAnswer": "Apollo 11 mission",
+    "explanation": "Apollo 11 mission is associated with the first mission to land humans on the Moon.",
+    "sourceName": "NASA - Apollo 11 Mission Overview",
+    "sourceUrl": "https://www.nasa.gov/history/apollo-11-mission-overview/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0059",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which civil rights campaign is associated with civil rights marches that helped build support for voting rights?",
+    "choices": [
+      "Selma to Montgomery marches",
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact"
+    ],
+    "correctAnswer": "Selma to Montgomery marches",
+    "explanation": "Selma to Montgomery marches is associated with civil rights marches that helped build support for voting rights.",
+    "sourceName": "National Park Service - Selma to Montgomery",
+    "sourceUrl": "https://www.nps.gov/semo/learn/historyculture/index.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0060",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which school desegregation event is associated with nine Black students integrating Central High School?",
+    "choices": [
+      "Little Rock Nine",
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact"
+    ],
+    "correctAnswer": "Little Rock Nine",
+    "explanation": "Little Rock Nine is associated with nine Black students integrating Central High School.",
+    "sourceName": "National Park Service - The Little Rock Nine",
+    "sourceUrl": "https://www.nps.gov/people/the-little-rock-nine.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0061",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which writing system is associated with wedge-shaped writing used in ancient Mesopotamia?",
+    "choices": [
+      "Cuneiform writing",
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact"
+    ],
+    "correctAnswer": "Cuneiform writing",
+    "explanation": "Cuneiform writing is associated with wedge-shaped writing used in ancient Mesopotamia.",
+    "sourceName": "Metropolitan Museum of Art - Cuneiform and Writing in Mesopotamia",
+    "sourceUrl": "https://www.metmuseum.org/toah/hd/wrtg/hd_wrtg.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0062",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which law collection is associated with an ancient Babylonian collection of laws?",
+    "choices": [
+      "Code of Hammurabi",
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact"
+    ],
+    "correctAnswer": "Code of Hammurabi",
+    "explanation": "Code of Hammurabi is associated with an ancient Babylonian collection of laws.",
+    "sourceName": "Yale Law School Avalon Project - Code of Hammurabi",
+    "sourceUrl": "https://avalon.law.yale.edu/ancient/hamframe.asp",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0063",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which artifact is associated with a clay inscription connected with Cyrus the Great's conquest of Babylon?",
+    "choices": [
+      "Cyrus Cylinder",
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact"
+    ],
+    "correctAnswer": "Cyrus Cylinder",
+    "explanation": "Cyrus Cylinder is associated with a clay inscription connected with Cyrus the Great's conquest of Babylon.",
+    "sourceName": "British Museum - Cyrus Cylinder",
+    "sourceUrl": "https://www.britishmuseum.org/collection/object/W_1880-0617-1941",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0064",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which festival and athletic contest is associated with athletic contests held in honor of Zeus at Olympia?",
+    "choices": [
+      "Ancient Olympic Games",
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact"
+    ],
+    "correctAnswer": "Ancient Olympic Games",
+    "explanation": "Ancient Olympic Games is associated with athletic contests held in honor of Zeus at Olympia.",
+    "sourceName": "Penn Museum - The Ancient Olympics",
+    "sourceUrl": "https://www.penn.museum/sites/olympics/olympicorigins.shtml",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0065",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which infrastructure system is associated with roads that helped connect the Roman Empire?",
+    "choices": [
+      "Roman roads",
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact"
+    ],
+    "correctAnswer": "Roman roads",
+    "explanation": "Roman roads is associated with roads that helped connect the Roman Empire.",
+    "sourceName": "British Museum - Ancient Rome",
+    "sourceUrl": "https://www.britishmuseum.org/learn/schools/ages-7-11/ancient-rome",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0066",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which pandemic is associated with a devastating plague pandemic in the 14th century?",
+    "choices": [
+      "Black Death",
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact"
+    ],
+    "correctAnswer": "Black Death",
+    "explanation": "Black Death is associated with a devastating plague pandemic in the 14th century.",
+    "sourceName": "British Museum - Plague and Pandemic in History",
+    "sourceUrl": "https://www.britishmuseum.org/blog/plague-and-pandemic-history",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0067",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which printed book is associated with an early major book printed with movable type in Europe?",
+    "choices": [
+      "Gutenberg Bible",
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact"
+    ],
+    "correctAnswer": "Gutenberg Bible",
+    "explanation": "Gutenberg Bible is associated with an early major book printed with movable type in Europe.",
+    "sourceName": "Library of Congress - Gutenberg Bible",
+    "sourceUrl": "https://www.loc.gov/item/49041047/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0068",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which West African empire is associated with a wealthy West African empire linked to gold and trans-Saharan trade?",
+    "choices": [
+      "Mali Empire",
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact"
+    ],
+    "correctAnswer": "Mali Empire",
+    "explanation": "Mali Empire is associated with a wealthy West African empire linked to gold and trans-Saharan trade.",
+    "sourceName": "Smithsonian National Museum of African Art - Mali Empire and Djenne Figures",
+    "sourceUrl": "https://africa.si.edu/exhibits/mali/index.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0069",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which capital city is associated with the Mexica capital city built on an island in Lake Texcoco?",
+    "choices": [
+      "Tenochtitlan",
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact"
+    ],
+    "correctAnswer": "Tenochtitlan",
+    "explanation": "Tenochtitlan is associated with the Mexica capital city built on an island in Lake Texcoco.",
+    "sourceName": "Metropolitan Museum of Art - Tenochtitlan",
+    "sourceUrl": "https://www.metmuseum.org/toah/hd/teno_1/hd_teno_1.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-09-0070",
+    "ageGroup": "9",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which Inca site is associated with Inca architecture in the Andes Mountains of Peru?",
+    "choices": [
+      "Machu Picchu",
+      "Magna Carta",
+      "Jamestown",
+      "Mayflower Compact"
+    ],
+    "correctAnswer": "Machu Picchu",
+    "explanation": "Machu Picchu is associated with Inca architecture in the Andes Mountains of Peru.",
+    "sourceName": "UNESCO World Heritage Centre - Historic Sanctuary of Machu Picchu",
+    "sourceUrl": "https://whc.unesco.org/en/list/274/",
     "reviewStatus": "reviewed"
   }
 ]

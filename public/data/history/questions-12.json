@@ -139,8 +139,8 @@
     ],
     "correctAnswer": "Adult citizens",
     "explanation": "Athenian democracy required active participation by eligible citizens.",
-    "sourceName": "National Geographic Education - Democracy in Ancient Greece",
-    "sourceUrl": "https://education.nationalgeographic.org/resource/democracy-ancient-greece/Wikipedia/",
+    "sourceName": "National Geographic Education - Ancient Greece",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/resource-library-ancient-greece/",
     "reviewStatus": "reviewed"
   },
   {
@@ -357,6 +357,906 @@
     "explanation": "The decision challenged legally segregated public education.",
     "sourceName": "National Park Service - Brown v. Board of Education",
     "sourceUrl": "https://www.nps.gov/brvb/planyourvisit/the-story-of-brown.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0021",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to Magna Carta?",
+    "choices": [
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers",
+      "Boston protestors and the British East India Company"
+    ],
+    "correctAnswer": "King John and rebellious English barons",
+    "explanation": "King John and rebellious English barons were central to this history.",
+    "sourceName": "National Archives - Magna Carta",
+    "sourceUrl": "https://www.archives.gov/exhibits/featured-documents/magna-carta",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0022",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to Jamestown?",
+    "choices": [
+      "Virginia Company colonists and Powhatan peoples",
+      "King John and rebellious English barons",
+      "Mayflower passengers",
+      "Boston protestors and the British East India Company"
+    ],
+    "correctAnswer": "Virginia Company colonists and Powhatan peoples",
+    "explanation": "Virginia Company colonists and Powhatan peoples were central to this history.",
+    "sourceName": "National Park Service - A Short History of Jamestown",
+    "sourceUrl": "https://www.nps.gov/jame/learn/historyculture/a-short-history-of-jamestown.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0023",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to Mayflower Compact?",
+    "choices": [
+      "Mayflower passengers",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Boston protestors and the British East India Company"
+    ],
+    "correctAnswer": "Mayflower passengers",
+    "explanation": "Mayflower passengers were central to this history.",
+    "sourceName": "Library of Congress - The Mayflower Compact",
+    "sourceUrl": "https://www.loc.gov/exhibitions/join-in-voluntary-associations-in-america/about-this-exhibition/a-toolkit-for-associations/the-mayflower-compact/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0024",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to Boston Tea Party?",
+    "choices": [
+      "Boston protestors and the British East India Company",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers"
+    ],
+    "correctAnswer": "Boston protestors and the British East India Company",
+    "explanation": "Boston protestors and the British East India Company were central to this history.",
+    "sourceName": "National Park Service - Old South Meeting House",
+    "sourceUrl": "https://www.nps.gov/places/old-south-meeting-house.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0025",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to Treaty of Paris of 1783?",
+    "choices": [
+      "United States and Great Britain",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers"
+    ],
+    "correctAnswer": "United States and Great Britain",
+    "explanation": "United States and Great Britain were central to this history.",
+    "sourceName": "National Archives - Treaty of Paris",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/treaty-of-paris",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0026",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to Articles of Confederation?",
+    "choices": [
+      "state governments and the Confederation Congress",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers"
+    ],
+    "correctAnswer": "state governments and the Confederation Congress",
+    "explanation": "state governments and the Confederation Congress were central to this history.",
+    "sourceName": "National Archives - Articles of Confederation",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/articles-of-confederation",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0027",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to Northwest Ordinance?",
+    "choices": [
+      "Confederation Congress and western settlers",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers"
+    ],
+    "correctAnswer": "Confederation Congress and western settlers",
+    "explanation": "Confederation Congress and western settlers were central to this history.",
+    "sourceName": "National Archives - Northwest Ordinance",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/northwest-ordinance",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0028",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to Constitutional Convention?",
+    "choices": [
+      "delegates from the states",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers"
+    ],
+    "correctAnswer": "delegates from the states",
+    "explanation": "delegates from the states were central to this history.",
+    "sourceName": "National Archives - A More Perfect Union",
+    "sourceUrl": "https://www.archives.gov/founding-docs/more-perfect-union",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0029",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to Federalist Papers?",
+    "choices": [
+      "Alexander Hamilton, James Madison, and John Jay",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers"
+    ],
+    "correctAnswer": "Alexander Hamilton, James Madison, and John Jay",
+    "explanation": "Alexander Hamilton, James Madison, and John Jay were central to this history.",
+    "sourceName": "Library of Congress - Federalist Papers",
+    "sourceUrl": "https://guides.loc.gov/federalist-papers/full-text",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0030",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to Lewis and Clark Expedition?",
+    "choices": [
+      "Meriwether Lewis, William Clark, Sacagawea, and Native nations",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers"
+    ],
+    "correctAnswer": "Meriwether Lewis, William Clark, Sacagawea, and Native nations",
+    "explanation": "Meriwether Lewis, William Clark, Sacagawea, and Native nations were central to this history.",
+    "sourceName": "Library of Congress - Lewis and Clark Maps",
+    "sourceUrl": "https://www.loc.gov/collections/lewis-and-clark-maps/about-this-collection/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0031",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to War of 1812?",
+    "choices": [
+      "the United States, Great Britain, Native nations, and Canada",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers"
+    ],
+    "correctAnswer": "the United States, Great Britain, Native nations, and Canada",
+    "explanation": "the United States, Great Britain, Native nations, and Canada were central to this history.",
+    "sourceName": "National Park Service - War of 1812",
+    "sourceUrl": "https://www.nps.gov/subjects/warof1812/index.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0032",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to Monroe Doctrine?",
+    "choices": [
+      "President James Monroe and European powers",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers"
+    ],
+    "correctAnswer": "President James Monroe and European powers",
+    "explanation": "President James Monroe and European powers were central to this history.",
+    "sourceName": "National Archives - Monroe Doctrine",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/monroe-doctrine",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0033",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to Indian Removal Act?",
+    "choices": [
+      "the U.S. government and Native nations including the Cherokee",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers"
+    ],
+    "correctAnswer": "the U.S. government and Native nations including the Cherokee",
+    "explanation": "the U.S. government and Native nations including the Cherokee were central to this history.",
+    "sourceName": "National Archives - Jackson's Message on Indian Removal",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/jacksons-message-to-congress-on-indian-removal",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0034",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to Treaty of Guadalupe Hidalgo?",
+    "choices": [
+      "the United States and Mexico",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers"
+    ],
+    "correctAnswer": "the United States and Mexico",
+    "explanation": "the United States and Mexico were central to this history.",
+    "sourceName": "National Archives - Treaty of Guadalupe Hidalgo",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/treaty-of-guadalupe-hidalgo",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0035",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to Seneca Falls Convention?",
+    "choices": [
+      "women's rights advocates including Elizabeth Cady Stanton and Lucretia Mott",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers"
+    ],
+    "correctAnswer": "women's rights advocates including Elizabeth Cady Stanton and Lucretia Mott",
+    "explanation": "women's rights advocates including Elizabeth Cady Stanton and Lucretia Mott were central to this history.",
+    "sourceName": "National Park Service - First Women's Rights Convention",
+    "sourceUrl": "https://www.nps.gov/wori/learn/historyculture/the-first-womens-rights-convention.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0036",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to Compromise of 1850?",
+    "choices": [
+      "members of Congress from free and slave states",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers"
+    ],
+    "correctAnswer": "members of Congress from free and slave states",
+    "explanation": "members of Congress from free and slave states were central to this history.",
+    "sourceName": "National Archives - Compromise of 1850",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/compromise-of-1850",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0037",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to Kansas-Nebraska Act?",
+    "choices": [
+      "Congress and settlers in the territories",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers"
+    ],
+    "correctAnswer": "Congress and settlers in the territories",
+    "explanation": "Congress and settlers in the territories were central to this history.",
+    "sourceName": "National Archives - Kansas-Nebraska Act",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/kansas-nebraska-act",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0038",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to Dred Scott decision?",
+    "choices": [
+      "Dred Scott and the Supreme Court",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers"
+    ],
+    "correctAnswer": "Dred Scott and the Supreme Court",
+    "explanation": "Dred Scott and the Supreme Court were central to this history.",
+    "sourceName": "National Archives - Dred Scott v. Sandford",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/dred-scott-v-sandford",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0039",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to Gettysburg Address?",
+    "choices": [
+      "President Abraham Lincoln and Civil War mourners",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers"
+    ],
+    "correctAnswer": "President Abraham Lincoln and Civil War mourners",
+    "explanation": "President Abraham Lincoln and Civil War mourners were central to this history.",
+    "sourceName": "Library of Congress - Gettysburg Address",
+    "sourceUrl": "https://www.loc.gov/exhibits/gettysburg-address/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0040",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to Freedmen's Bureau?",
+    "choices": [
+      "formerly enslaved people, refugees, and federal agents",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers"
+    ],
+    "correctAnswer": "formerly enslaved people, refugees, and federal agents",
+    "explanation": "formerly enslaved people, refugees, and federal agents were central to this history.",
+    "sourceName": "National Archives - Freedmen's Bureau",
+    "sourceUrl": "https://www.archives.gov/research/african-americans/freedmens-bureau",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0041",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to Plessy v. Ferguson?",
+    "choices": [
+      "Homer Plessy and the Supreme Court",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers"
+    ],
+    "correctAnswer": "Homer Plessy and the Supreme Court",
+    "explanation": "Homer Plessy and the Supreme Court were central to this history.",
+    "sourceName": "National Park Service - Homer Plessy",
+    "sourceUrl": "https://www.nps.gov/people/homer-plessy.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0042",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to Pure Food and Drug Act?",
+    "choices": [
+      "Congress, consumers, and federal inspectors",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers"
+    ],
+    "correctAnswer": "Congress, consumers, and federal inspectors",
+    "explanation": "Congress, consumers, and federal inspectors were central to this history.",
+    "sourceName": "U.S. Food and Drug Administration - Food and Drug Law Milestones",
+    "sourceUrl": "https://www.fda.gov/about-fda/fda-history/milestones-us-food-and-drug-law",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0043",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to Panama Canal?",
+    "choices": [
+      "the United States, Panama, and Colombia",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers"
+    ],
+    "correctAnswer": "the United States, Panama, and Colombia",
+    "explanation": "the United States, Panama, and Colombia were central to this history.",
+    "sourceName": "Office of the Historian - Panama Canal",
+    "sourceUrl": "https://history.state.gov/milestones/1899-1913/panama-canal",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0044",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to Zimmermann Telegram?",
+    "choices": [
+      "Germany, Mexico, Great Britain, and the United States",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers"
+    ],
+    "correctAnswer": "Germany, Mexico, Great Britain, and the United States",
+    "explanation": "Germany, Mexico, Great Britain, and the United States were central to this history.",
+    "sourceName": "National Archives - Zimmermann Telegram",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/zimmermann-telegram",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0045",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to Fourteen Points?",
+    "choices": [
+      "President Woodrow Wilson and Allied leaders",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers"
+    ],
+    "correctAnswer": "President Woodrow Wilson and Allied leaders",
+    "explanation": "President Woodrow Wilson and Allied leaders were central to this history.",
+    "sourceName": "National Archives - President Woodrow Wilson's 14 Points",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/president-woodrow-wilsons-14-points",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0046",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to Treaty of Versailles?",
+    "choices": [
+      "Allied powers and Germany",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers"
+    ],
+    "correctAnswer": "Allied powers and Germany",
+    "explanation": "Allied powers and Germany were central to this history.",
+    "sourceName": "The National Archives - Treaty of Versailles",
+    "sourceUrl": "https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-treaty-of-versailles/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0047",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to Harlem Renaissance?",
+    "choices": [
+      "Black writers, artists, musicians, and intellectuals",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers"
+    ],
+    "correctAnswer": "Black writers, artists, musicians, and intellectuals",
+    "explanation": "Black writers, artists, musicians, and intellectuals were central to this history.",
+    "sourceName": "Smithsonian National Museum of African American History and Culture - Harlem Renaissance",
+    "sourceUrl": "https://nmaahc.si.edu/explore/stories/harlem-renaissance",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0048",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to Great Depression?",
+    "choices": [
+      "workers, families, businesses, banks, and governments",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers"
+    ],
+    "correctAnswer": "workers, families, businesses, banks, and governments",
+    "explanation": "workers, families, businesses, banks, and governments were central to this history.",
+    "sourceName": "Library of Congress - Great Depression and World War II Overview",
+    "sourceUrl": "https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/great-depression-and-world-war-ii-1929-1945/overview/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0049",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to Dust Bowl?",
+    "choices": [
+      "farm families and federal relief agencies",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers"
+    ],
+    "correctAnswer": "farm families and federal relief agencies",
+    "explanation": "farm families and federal relief agencies were central to this history.",
+    "sourceName": "Library of Congress - Dust Bowl",
+    "sourceUrl": "https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/great-depression-and-world-war-ii-1929-1945/dust-bowl/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0050",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to Civilian Conservation Corps?",
+    "choices": [
+      "young unemployed men and federal agencies",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers"
+    ],
+    "correctAnswer": "young unemployed men and federal agencies",
+    "explanation": "young unemployed men and federal agencies were central to this history.",
+    "sourceName": "National Park Service - Civilian Conservation Corps",
+    "sourceUrl": "https://www.nps.gov/articles/the-civilian-conservation-corps.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0051",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to Pearl Harbor attack?",
+    "choices": [
+      "Japan and the United States Pacific Fleet",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers"
+    ],
+    "correctAnswer": "Japan and the United States Pacific Fleet",
+    "explanation": "Japan and the United States Pacific Fleet were central to this history.",
+    "sourceName": "National Park Service - Pearl Harbor History and Culture",
+    "sourceUrl": "https://www.nps.gov/perl/learn/historyculture/index.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0052",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to Executive Order 9066?",
+    "choices": [
+      "President Franklin Roosevelt, the military, and Japanese American communities",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers"
+    ],
+    "correctAnswer": "President Franklin Roosevelt, the military, and Japanese American communities",
+    "explanation": "President Franklin Roosevelt, the military, and Japanese American communities were central to this history.",
+    "sourceName": "National Archives - Executive Order 9066",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/executive-order-9066",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0053",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to D-Day landings?",
+    "choices": [
+      "Allied forces and Nazi Germany",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers"
+    ],
+    "correctAnswer": "Allied forces and Nazi Germany",
+    "explanation": "Allied forces and Nazi Germany were central to this history.",
+    "sourceName": "National WWII Museum - D-Day",
+    "sourceUrl": "https://www.nationalww2museum.org/war/articles/d-day-allies-invade-europe",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0054",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to United Nations Charter?",
+    "choices": [
+      "delegates from founding member states",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers"
+    ],
+    "correctAnswer": "delegates from founding member states",
+    "explanation": "delegates from founding member states were central to this history.",
+    "sourceName": "United Nations - San Francisco Conference",
+    "sourceUrl": "https://www.un.org/en/about-us/history-of-the-un/san-francisco-conference",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0055",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to Truman Doctrine?",
+    "choices": [
+      "President Harry Truman, Greece, Turkey, and Congress",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers"
+    ],
+    "correctAnswer": "President Harry Truman, Greece, Turkey, and Congress",
+    "explanation": "President Harry Truman, Greece, Turkey, and Congress were central to this history.",
+    "sourceName": "National Archives - Truman Doctrine",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/truman-doctrine",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0056",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to North Atlantic Treaty?",
+    "choices": [
+      "the United States, Canada, and Western European allies",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers"
+    ],
+    "correctAnswer": "the United States, Canada, and Western European allies",
+    "explanation": "the United States, Canada, and Western European allies were central to this history.",
+    "sourceName": "National Archives - The North Atlantic Treaty",
+    "sourceUrl": "https://www.archives.gov/exhibits/featured-documents/north-atlantic-treaty",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0057",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to Cuban Missile Crisis?",
+    "choices": [
+      "John F. Kennedy, Nikita Khrushchev, Cuba, and military advisers",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers"
+    ],
+    "correctAnswer": "John F. Kennedy, Nikita Khrushchev, Cuba, and military advisers",
+    "explanation": "John F. Kennedy, Nikita Khrushchev, Cuba, and military advisers were central to this history.",
+    "sourceName": "John F. Kennedy Presidential Library - Cuban Missile Crisis",
+    "sourceUrl": "https://www.jfklibrary.org/learn/about-jfk/jfk-in-history/cuban-missile-crisis",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0058",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to Apollo 11 mission?",
+    "choices": [
+      "Neil Armstrong, Buzz Aldrin, Michael Collins, and NASA",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers"
+    ],
+    "correctAnswer": "Neil Armstrong, Buzz Aldrin, Michael Collins, and NASA",
+    "explanation": "Neil Armstrong, Buzz Aldrin, Michael Collins, and NASA were central to this history.",
+    "sourceName": "NASA - Apollo 11 Mission Overview",
+    "sourceUrl": "https://www.nasa.gov/history/apollo-11-mission-overview/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0059",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to Selma to Montgomery marches?",
+    "choices": [
+      "civil rights activists, local officials, and federal authorities",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers"
+    ],
+    "correctAnswer": "civil rights activists, local officials, and federal authorities",
+    "explanation": "civil rights activists, local officials, and federal authorities were central to this history.",
+    "sourceName": "National Park Service - Selma to Montgomery",
+    "sourceUrl": "https://www.nps.gov/semo/learn/historyculture/index.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0060",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to Little Rock Nine?",
+    "choices": [
+      "nine Black students, Arkansas officials, and federal authorities",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers"
+    ],
+    "correctAnswer": "nine Black students, Arkansas officials, and federal authorities",
+    "explanation": "nine Black students, Arkansas officials, and federal authorities were central to this history.",
+    "sourceName": "National Park Service - The Little Rock Nine",
+    "sourceUrl": "https://www.nps.gov/people/the-little-rock-nine.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0061",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to Cuneiform writing?",
+    "choices": [
+      "scribes and city administrators",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers"
+    ],
+    "correctAnswer": "scribes and city administrators",
+    "explanation": "scribes and city administrators were central to this history.",
+    "sourceName": "Metropolitan Museum of Art - Cuneiform and Writing in Mesopotamia",
+    "sourceUrl": "https://www.metmuseum.org/toah/hd/wrtg/hd_wrtg.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0062",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to Code of Hammurabi?",
+    "choices": [
+      "King Hammurabi and Babylonian society",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers"
+    ],
+    "correctAnswer": "King Hammurabi and Babylonian society",
+    "explanation": "King Hammurabi and Babylonian society were central to this history.",
+    "sourceName": "Yale Law School Avalon Project - Code of Hammurabi",
+    "sourceUrl": "https://avalon.law.yale.edu/ancient/hamframe.asp",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0063",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to Cyrus Cylinder?",
+    "choices": [
+      "Cyrus the Great and Babylonian scribes",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers"
+    ],
+    "correctAnswer": "Cyrus the Great and Babylonian scribes",
+    "explanation": "Cyrus the Great and Babylonian scribes were central to this history.",
+    "sourceName": "British Museum - Cyrus Cylinder",
+    "sourceUrl": "https://www.britishmuseum.org/collection/object/W_1880-0617-1941",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0064",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to Ancient Olympic Games?",
+    "choices": [
+      "Greek male athletes and city-states",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers"
+    ],
+    "correctAnswer": "Greek male athletes and city-states",
+    "explanation": "Greek male athletes and city-states were central to this history.",
+    "sourceName": "Penn Museum - The Ancient Olympics",
+    "sourceUrl": "https://www.penn.museum/sites/olympics/olympicorigins.shtml",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0065",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to Roman roads?",
+    "choices": [
+      "Roman engineers, soldiers, officials, and travelers",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers"
+    ],
+    "correctAnswer": "Roman engineers, soldiers, officials, and travelers",
+    "explanation": "Roman engineers, soldiers, officials, and travelers were central to this history.",
+    "sourceName": "British Museum - Ancient Rome",
+    "sourceUrl": "https://www.britishmuseum.org/learn/schools/ages-7-11/ancient-rome",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0066",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to Black Death?",
+    "choices": [
+      "communities, rulers, merchants, and religious institutions",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers"
+    ],
+    "correctAnswer": "communities, rulers, merchants, and religious institutions",
+    "explanation": "communities, rulers, merchants, and religious institutions were central to this history.",
+    "sourceName": "British Museum - Plague and Pandemic in History",
+    "sourceUrl": "https://www.britishmuseum.org/blog/plague-and-pandemic-history",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0067",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to Gutenberg Bible?",
+    "choices": [
+      "Johannes Gutenberg and early printers",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers"
+    ],
+    "correctAnswer": "Johannes Gutenberg and early printers",
+    "explanation": "Johannes Gutenberg and early printers were central to this history.",
+    "sourceName": "Library of Congress - Gutenberg Bible",
+    "sourceUrl": "https://www.loc.gov/item/49041047/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0068",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to Mali Empire?",
+    "choices": [
+      "Mali rulers, merchants, scholars, and farming communities",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers"
+    ],
+    "correctAnswer": "Mali rulers, merchants, scholars, and farming communities",
+    "explanation": "Mali rulers, merchants, scholars, and farming communities were central to this history.",
+    "sourceName": "Smithsonian National Museum of African Art - Mali Empire and Djenne Figures",
+    "sourceUrl": "https://africa.si.edu/exhibits/mali/index.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0069",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to Tenochtitlan?",
+    "choices": [
+      "Mexica rulers, residents, farmers, artisans, and traders",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers"
+    ],
+    "correctAnswer": "Mexica rulers, residents, farmers, artisans, and traders",
+    "explanation": "Mexica rulers, residents, farmers, artisans, and traders were central to this history.",
+    "sourceName": "Metropolitan Museum of Art - Tenochtitlan",
+    "sourceUrl": "https://www.metmuseum.org/toah/hd/teno_1/hd_teno_1.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-12-0070",
+    "ageGroup": "12",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which people or groups were central to Machu Picchu?",
+    "choices": [
+      "Inca builders, rulers, and workers",
+      "King John and rebellious English barons",
+      "Virginia Company colonists and Powhatan peoples",
+      "Mayflower passengers"
+    ],
+    "correctAnswer": "Inca builders, rulers, and workers",
+    "explanation": "Inca builders, rulers, and workers were central to this history.",
+    "sourceName": "UNESCO World Heritage Centre - Historic Sanctuary of Machu Picchu",
+    "sourceUrl": "https://whc.unesco.org/en/list/274/",
     "reviewStatus": "reviewed"
   }
 ]

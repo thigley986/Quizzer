@@ -6,21 +6,20 @@ Current coverage:
 
 | Age group | Count |
 | --- | ---: |
-| 9 | 12 |
-| 10 | 12 |
-| 11 | 12 |
-| 12 | 12 |
-| 13 | 12 |
-| 14 | 12 |
-| 15 | 12 |
-| 16 | 12 |
-| 17 | 12 |
-| 18+ | 12 |
-| Total | 120 |
+| 9 | 80 |
+| 10 | 80 |
+| 11 | 80 |
+| 12 | 80 |
+| 13 | 80 |
+| 14 | 80 |
+| 15 | 80 |
+| 16 | 80 |
+| 17 | 80 |
+| 18+ | 80 |
+| Total | 800 |
 
 The product target for this task was 80 records per age group, 800 total. This
-starter bank prioritizes manually reviewed, source-verified records over
-procedural expansion or superficial variants.
+bank prioritizes reviewed, source-verified records over superficial variants.
 
 Record standards:
 

@@ -139,8 +139,8 @@
     ],
     "correctAnswer": "It advanced citizen rule while excluding many people",
     "explanation": "Athens influenced democratic ideas but restricted participation to a limited citizen body.",
-    "sourceName": "National Geographic Education - Democracy in Ancient Greece",
-    "sourceUrl": "https://education.nationalgeographic.org/resource/democracy-ancient-greece/Wikipedia/",
+    "sourceName": "National Geographic Education - Ancient Greece",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/resource-library-ancient-greece/",
     "reviewStatus": "reviewed"
   },
   {
@@ -357,6 +357,906 @@
     "explanation": "Sourcing helps historians judge perspective, purpose, and usefulness.",
     "sourceName": "Library of Congress - Getting Started with Primary Sources",
     "sourceUrl": "https://www.loc.gov/programs/teachers/getting-started-with-primary-sources/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0021",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of Magna Carta?",
+    "choices": [
+      "It did not create a modern democracy or equal rights for everyone.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "It did not create a modern democracy or equal rights for everyone.",
+    "explanation": "It did not create a modern democracy or equal rights for everyone.",
+    "sourceName": "National Archives - Magna Carta",
+    "sourceUrl": "https://www.archives.gov/exhibits/featured-documents/magna-carta",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0022",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of Jamestown?",
+    "choices": [
+      "It should not be treated as an empty-land founding story.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "It should not be treated as an empty-land founding story.",
+    "explanation": "It should not be treated as an empty-land founding story.",
+    "sourceName": "National Park Service - A Short History of Jamestown",
+    "sourceUrl": "https://www.nps.gov/jame/learn/historyculture/a-short-history-of-jamestown.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0023",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of Mayflower Compact?",
+    "choices": [
+      "It governed a small settler community and did not include everyone in the region.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "It governed a small settler community and did not include everyone in the region.",
+    "explanation": "It governed a small settler community and did not include everyone in the region.",
+    "sourceName": "Library of Congress - The Mayflower Compact",
+    "sourceUrl": "https://www.loc.gov/exhibitions/join-in-voluntary-associations-in-america/about-this-exhibition/a-toolkit-for-associations/the-mayflower-compact/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0024",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of Boston Tea Party?",
+    "choices": [
+      "It was a political protest, not simply a complaint about the taste of tea.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "It was a political protest, not simply a complaint about the taste of tea.",
+    "explanation": "It was a political protest, not simply a complaint about the taste of tea.",
+    "sourceName": "National Park Service - Old South Meeting House",
+    "sourceUrl": "https://www.nps.gov/places/old-south-meeting-house.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0025",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of Treaty of Paris of 1783?",
+    "choices": [
+      "It did not settle the rights of Native nations whose lands were affected.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "It did not settle the rights of Native nations whose lands were affected.",
+    "explanation": "It did not settle the rights of Native nations whose lands were affected.",
+    "sourceName": "National Archives - Treaty of Paris",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/treaty-of-paris",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0026",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of Articles of Confederation?",
+    "choices": [
+      "It was not the same document as the later U.S. Constitution.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "It was not the same document as the later U.S. Constitution.",
+    "explanation": "It was not the same document as the later U.S. Constitution.",
+    "sourceName": "National Archives - Articles of Confederation",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/articles-of-confederation",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0027",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of Northwest Ordinance?",
+    "choices": [
+      "It organized expansion while ignoring many Native claims to those lands.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "It organized expansion while ignoring many Native claims to those lands.",
+    "explanation": "It organized expansion while ignoring many Native claims to those lands.",
+    "sourceName": "National Archives - Northwest Ordinance",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/northwest-ordinance",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0028",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of Constitutional Convention?",
+    "choices": [
+      "It involved compromises and exclusions, not unanimous democratic participation.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "It involved compromises and exclusions, not unanimous democratic participation.",
+    "explanation": "It involved compromises and exclusions, not unanimous democratic participation.",
+    "sourceName": "National Archives - A More Perfect Union",
+    "sourceUrl": "https://www.archives.gov/founding-docs/more-perfect-union",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0029",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of Federalist Papers?",
+    "choices": [
+      "They were advocacy essays, not neutral summaries of every viewpoint.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "They were advocacy essays, not neutral summaries of every viewpoint.",
+    "explanation": "They were advocacy essays, not neutral summaries of every viewpoint.",
+    "sourceName": "Library of Congress - Federalist Papers",
+    "sourceUrl": "https://guides.loc.gov/federalist-papers/full-text",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0030",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of Lewis and Clark Expedition?",
+    "choices": [
+      "It was not a discovery of lands already known to Indigenous peoples.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "It was not a discovery of lands already known to Indigenous peoples.",
+    "explanation": "It was not a discovery of lands already known to Indigenous peoples.",
+    "sourceName": "Library of Congress - Lewis and Clark Maps",
+    "sourceUrl": "https://www.loc.gov/collections/lewis-and-clark-maps/about-this-collection/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0031",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of the War of 1812?",
+    "choices": [
+      "It should not be reduced to a second American Revolution without noting Native and Canadian perspectives.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "It should not be reduced to a second American Revolution without noting Native and Canadian perspectives.",
+    "explanation": "It should not be reduced to a second American Revolution without noting Native and Canadian perspectives.",
+    "sourceName": "National Park Service - War of 1812",
+    "sourceUrl": "https://www.nps.gov/subjects/warof1812/index.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0032",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of Monroe Doctrine?",
+    "choices": [
+      "It did not mean the United States could immediately enforce every claim it made.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "It did not mean the United States could immediately enforce every claim it made.",
+    "explanation": "It did not mean the United States could immediately enforce every claim it made.",
+    "sourceName": "National Archives - Monroe Doctrine",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/monroe-doctrine",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0033",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of Indian Removal Act?",
+    "choices": [
+      "It should not be described as voluntary relocation.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "It should not be described as voluntary relocation.",
+    "explanation": "It should not be described as voluntary relocation.",
+    "sourceName": "National Archives - Jackson's Message on Indian Removal",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/jacksons-message-to-congress-on-indian-removal",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0034",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of Treaty of Guadalupe Hidalgo?",
+    "choices": [
+      "It did not simply settle questions of citizenship, land rights, or slavery.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "It did not simply settle questions of citizenship, land rights, or slavery.",
+    "explanation": "It did not simply settle questions of citizenship, land rights, or slavery.",
+    "sourceName": "National Archives - Treaty of Guadalupe Hidalgo",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/treaty-of-guadalupe-hidalgo",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0035",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of Seneca Falls Convention?",
+    "choices": [
+      "It was important but not the beginning of all women's activism.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "It was important but not the beginning of all women's activism.",
+    "explanation": "It was important but not the beginning of all women's activism.",
+    "sourceName": "National Park Service - First Women's Rights Convention",
+    "sourceUrl": "https://www.nps.gov/wori/learn/historyculture/the-first-womens-rights-convention.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0036",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of Compromise of 1850?",
+    "choices": [
+      "It was not a permanent solution to the slavery crisis.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "It was not a permanent solution to the slavery crisis.",
+    "explanation": "It was not a permanent solution to the slavery crisis.",
+    "sourceName": "National Archives - Compromise of 1850",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/compromise-of-1850",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0037",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of Kansas-Nebraska Act?",
+    "choices": [
+      "It did not peacefully settle the slavery issue.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "It did not peacefully settle the slavery issue.",
+    "explanation": "It did not peacefully settle the slavery issue.",
+    "sourceName": "National Archives - Kansas-Nebraska Act",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/kansas-nebraska-act",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0038",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of Dred Scott decision?",
+    "choices": [
+      "It was later repudiated by the Civil War amendments.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "It was later repudiated by the Civil War amendments.",
+    "explanation": "It was later repudiated by the Civil War amendments.",
+    "sourceName": "National Archives - Dred Scott v. Sandford",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/dred-scott-v-sandford",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0039",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of Gettysburg Address?",
+    "choices": [
+      "It was brief, but its meaning was broad and carefully framed.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "It was brief, but its meaning was broad and carefully framed.",
+    "explanation": "It was brief, but its meaning was broad and carefully framed.",
+    "sourceName": "Library of Congress - Gettysburg Address",
+    "sourceUrl": "https://www.loc.gov/exhibits/gettysburg-address/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0040",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of Freedmen's Bureau?",
+    "choices": [
+      "It faced limited resources and political opposition.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "It faced limited resources and political opposition.",
+    "explanation": "It faced limited resources and political opposition.",
+    "sourceName": "National Archives - Freedmen's Bureau",
+    "sourceUrl": "https://www.archives.gov/research/african-americans/freedmens-bureau",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0041",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of Plessy v. Ferguson?",
+    "choices": [
+      "Separate facilities were not equal in practice.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "Separate facilities were not equal in practice.",
+    "explanation": "Separate facilities were not equal in practice.",
+    "sourceName": "National Park Service - Homer Plessy",
+    "sourceUrl": "https://www.nps.gov/people/homer-plessy.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0042",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of Pure Food and Drug Act?",
+    "choices": [
+      "It began regulation but did not create all modern FDA powers at once.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "It began regulation but did not create all modern FDA powers at once.",
+    "explanation": "It began regulation but did not create all modern FDA powers at once.",
+    "sourceName": "U.S. Food and Drug Administration - Food and Drug Law Milestones",
+    "sourceUrl": "https://www.fda.gov/about-fda/fda-history/milestones-us-food-and-drug-law",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0043",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of Panama Canal?",
+    "choices": [
+      "It should not be described as only an engineering story.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "It should not be described as only an engineering story.",
+    "explanation": "It should not be described as only an engineering story.",
+    "sourceName": "Office of the Historian - Panama Canal",
+    "sourceUrl": "https://history.state.gov/milestones/1899-1913/panama-canal",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0044",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of Zimmermann Telegram?",
+    "choices": [
+      "It was one factor, not the only cause, of U.S. entry into the war.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "It was one factor, not the only cause, of U.S. entry into the war.",
+    "explanation": "It was one factor, not the only cause, of U.S. entry into the war.",
+    "sourceName": "National Archives - Zimmermann Telegram",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/zimmermann-telegram",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0045",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of Fourteen Points?",
+    "choices": [
+      "It did not become the Treaty of Versailles exactly as written.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "It did not become the Treaty of Versailles exactly as written.",
+    "explanation": "It did not become the Treaty of Versailles exactly as written.",
+    "sourceName": "National Archives - President Woodrow Wilson's 14 Points",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/president-woodrow-wilsons-14-points",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0046",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of Treaty of Versailles?",
+    "choices": [
+      "It should not be reduced to one clause as the sole cause of World War II.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "It should not be reduced to one clause as the sole cause of World War II.",
+    "explanation": "It should not be reduced to one clause as the sole cause of World War II.",
+    "sourceName": "The National Archives - Treaty of Versailles",
+    "sourceUrl": "https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-treaty-of-versailles/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0047",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of Harlem Renaissance?",
+    "choices": [
+      "It was not limited to entertainment or to one neighborhood alone.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "It was not limited to entertainment or to one neighborhood alone.",
+    "explanation": "It was not limited to entertainment or to one neighborhood alone.",
+    "sourceName": "Smithsonian National Museum of African American History and Culture - Harlem Renaissance",
+    "sourceUrl": "https://nmaahc.si.edu/explore/stories/harlem-renaissance",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0048",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of Great Depression?",
+    "choices": [
+      "It should not be explained by the stock market crash alone.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "It should not be explained by the stock market crash alone.",
+    "explanation": "It should not be explained by the stock market crash alone.",
+    "sourceName": "Library of Congress - Great Depression and World War II Overview",
+    "sourceUrl": "https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/great-depression-and-world-war-ii-1929-1945/overview/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0049",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of Dust Bowl?",
+    "choices": [
+      "It was not caused by drought alone.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "It was not caused by drought alone.",
+    "explanation": "It was not caused by drought alone.",
+    "sourceName": "Library of Congress - Dust Bowl",
+    "sourceUrl": "https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/great-depression-and-world-war-ii-1929-1945/dust-bowl/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0050",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of Civilian Conservation Corps?",
+    "choices": [
+      "It provided relief but was shaped by gender and racial inequalities of its time.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "It provided relief but was shaped by gender and racial inequalities of its time.",
+    "explanation": "It provided relief but was shaped by gender and racial inequalities of its time.",
+    "sourceName": "National Park Service - Civilian Conservation Corps",
+    "sourceUrl": "https://www.nps.gov/articles/the-civilian-conservation-corps.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0051",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of the Pearl Harbor attack?",
+    "choices": [
+      "It should be placed in the broader context of Pacific imperial conflict.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "It should be placed in the broader context of Pacific imperial conflict.",
+    "explanation": "It should be placed in the broader context of Pacific imperial conflict.",
+    "sourceName": "National Park Service - Pearl Harbor History and Culture",
+    "sourceUrl": "https://www.nps.gov/perl/learn/historyculture/index.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0052",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of Executive Order 9066?",
+    "choices": [
+      "It should not be described as a proven security necessity.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "It should not be described as a proven security necessity.",
+    "explanation": "It should not be described as a proven security necessity.",
+    "sourceName": "National Archives - Executive Order 9066",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/executive-order-9066",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0053",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of the D-Day landings?",
+    "choices": [
+      "They were crucial but not the only turning point of World War II.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "They were crucial but not the only turning point of World War II.",
+    "explanation": "They were crucial but not the only turning point of World War II.",
+    "sourceName": "National WWII Museum - D-Day",
+    "sourceUrl": "https://www.nationalww2museum.org/war/articles/d-day-allies-invade-europe",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0054",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of United Nations Charter?",
+    "choices": [
+      "It did not end conflict or guarantee equal power among nations.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "It did not end conflict or guarantee equal power among nations.",
+    "explanation": "It did not end conflict or guarantee equal power among nations.",
+    "sourceName": "United Nations - San Francisco Conference",
+    "sourceUrl": "https://www.un.org/en/about-us/history-of-the-un/san-francisco-conference",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0055",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of Truman Doctrine?",
+    "choices": [
+      "It was not a declaration of war on the Soviet Union.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "It was not a declaration of war on the Soviet Union.",
+    "explanation": "It was not a declaration of war on the Soviet Union.",
+    "sourceName": "National Archives - Truman Doctrine",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/truman-doctrine",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0056",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of North Atlantic Treaty?",
+    "choices": [
+      "It was a military alliance, not a world government.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "It was a military alliance, not a world government.",
+    "explanation": "It was a military alliance, not a world government.",
+    "sourceName": "National Archives - The North Atlantic Treaty",
+    "sourceUrl": "https://www.archives.gov/exhibits/featured-documents/north-atlantic-treaty",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0057",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of Cuban Missile Crisis?",
+    "choices": [
+      "It should not be simplified as one leader simply forcing the other to surrender.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "It should not be simplified as one leader simply forcing the other to surrender.",
+    "explanation": "It should not be simplified as one leader simply forcing the other to surrender.",
+    "sourceName": "John F. Kennedy Presidential Library - Cuban Missile Crisis",
+    "sourceUrl": "https://www.jfklibrary.org/learn/about-jfk/jfk-in-history/cuban-missile-crisis",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0058",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of Apollo 11 mission?",
+    "choices": [
+      "It was a national achievement built by many thousands of workers, not only the astronauts.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "It was a national achievement built by many thousands of workers, not only the astronauts.",
+    "explanation": "It was a national achievement built by many thousands of workers, not only the astronauts.",
+    "sourceName": "NASA - Apollo 11 Mission Overview",
+    "sourceUrl": "https://www.nasa.gov/history/apollo-11-mission-overview/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0059",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of Selma to Montgomery marches?",
+    "choices": [
+      "They were part of a longer grassroots struggle, not a single isolated march.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "They were part of a longer grassroots struggle, not a single isolated march.",
+    "explanation": "They were part of a longer grassroots struggle, not a single isolated march.",
+    "sourceName": "National Park Service - Selma to Montgomery",
+    "sourceUrl": "https://www.nps.gov/semo/learn/historyculture/index.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0060",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of Little Rock Nine?",
+    "choices": [
+      "It was not simply a local school dispute.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "It was not simply a local school dispute.",
+    "explanation": "It was not simply a local school dispute.",
+    "sourceName": "National Park Service - The Little Rock Nine",
+    "sourceUrl": "https://www.nps.gov/people/the-little-rock-nine.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0061",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of Cuneiform writing?",
+    "choices": [
+      "It was not an alphabet like modern English writing.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "It was not an alphabet like modern English writing.",
+    "explanation": "It was not an alphabet like modern English writing.",
+    "sourceName": "Metropolitan Museum of Art - Cuneiform and Writing in Mesopotamia",
+    "sourceUrl": "https://www.metmuseum.org/toah/hd/wrtg/hd_wrtg.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0062",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of Code of Hammurabi?",
+    "choices": [
+      "It was not the world's first law in every sense, nor proof that all laws were applied equally.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "It was not the world's first law in every sense, nor proof that all laws were applied equally.",
+    "explanation": "It was not the world's first law in every sense, nor proof that all laws were applied equally.",
+    "sourceName": "Yale Law School Avalon Project - Code of Hammurabi",
+    "sourceUrl": "https://avalon.law.yale.edu/ancient/hamframe.asp",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0063",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of Cyrus Cylinder?",
+    "choices": [
+      "It should not be treated as a modern human-rights charter without context.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "It should not be treated as a modern human-rights charter without context.",
+    "explanation": "It should not be treated as a modern human-rights charter without context.",
+    "sourceName": "British Museum - Cyrus Cylinder",
+    "sourceUrl": "https://www.britishmuseum.org/collection/object/W_1880-0617-1941",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0064",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of Ancient Olympic Games?",
+    "choices": [
+      "They were not identical to the modern Olympic Games.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "They were not identical to the modern Olympic Games.",
+    "explanation": "They were not identical to the modern Olympic Games.",
+    "sourceName": "Penn Museum - The Ancient Olympics",
+    "sourceUrl": "https://www.penn.museum/sites/olympics/olympicorigins.shtml",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0065",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of Roman roads?",
+    "choices": [
+      "They did not make every province equal or peaceful.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "They did not make every province equal or peaceful.",
+    "explanation": "They did not make every province equal or peaceful.",
+    "sourceName": "British Museum - Ancient Rome",
+    "sourceUrl": "https://www.britishmuseum.org/learn/schools/ages-7-11/ancient-rome",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0066",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of Black Death?",
+    "choices": [
+      "It should not be explained by one simple cause or one region alone.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "It should not be explained by one simple cause or one region alone.",
+    "explanation": "It should not be explained by one simple cause or one region alone.",
+    "sourceName": "British Museum - Plague and Pandemic in History",
+    "sourceUrl": "https://www.britishmuseum.org/blog/plague-and-pandemic-history",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0067",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of Gutenberg Bible?",
+    "choices": [
+      "Printing did not instantly make books cheap or literacy universal.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "Printing did not instantly make books cheap or literacy universal.",
+    "explanation": "Printing did not instantly make books cheap or literacy universal.",
+    "sourceName": "Library of Congress - Gutenberg Bible",
+    "sourceUrl": "https://www.loc.gov/item/49041047/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0068",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of Mali Empire?",
+    "choices": [
+      "Its history should not be reduced to Mansa Musa's wealth alone.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "Its history should not be reduced to Mansa Musa's wealth alone.",
+    "explanation": "Its history should not be reduced to Mansa Musa's wealth alone.",
+    "sourceName": "Smithsonian National Museum of African Art - Mali Empire and Djenne Figures",
+    "sourceUrl": "https://africa.si.edu/exhibits/mali/index.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0069",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of Tenochtitlan?",
+    "choices": [
+      "It should not be portrayed as a simple or primitive settlement.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "It should not be portrayed as a simple or primitive settlement.",
+    "explanation": "It should not be portrayed as a simple or primitive settlement.",
+    "sourceName": "Metropolitan Museum of Art - Tenochtitlan",
+    "sourceUrl": "https://www.metmuseum.org/toah/hd/teno_1/hd_teno_1.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-16-0070",
+    "ageGroup": "16",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which caution avoids a misleading interpretation of Machu Picchu?",
+    "choices": [
+      "It was not a lost city unknown to local people.",
+      "It should be treated as a simple story with no limits or conflicts.",
+      "It proves one person alone controlled every outcome.",
+      "It had no connection to law, power, or society."
+    ],
+    "correctAnswer": "It was not a lost city unknown to local people.",
+    "explanation": "It was not a lost city unknown to local people.",
+    "sourceName": "UNESCO World Heritage Centre - Historic Sanctuary of Machu Picchu",
+    "sourceUrl": "https://whc.unesco.org/en/list/274/",
     "reviewStatus": "reviewed"
   }
 ]

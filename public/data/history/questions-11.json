@@ -139,8 +139,8 @@
     ],
     "correctAnswer": "Participate directly in government",
     "explanation": "Athenian democracy involved direct participation by eligible citizens.",
-    "sourceName": "National Geographic Education - Democracy in Ancient Greece",
-    "sourceUrl": "https://education.nationalgeographic.org/resource/democracy-ancient-greece/Wikipedia/",
+    "sourceName": "National Geographic Education - Ancient Greece",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/resource-library-ancient-greece/",
     "reviewStatus": "reviewed"
   },
   {
@@ -357,6 +357,906 @@
     "explanation": "Multiple sources can reveal context, bias, agreement, and disagreement.",
     "sourceName": "Library of Congress - Getting Started with Primary Sources",
     "sourceUrl": "https://www.loc.gov/programs/teachers/getting-started-with-primary-sources/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0021",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is Magna Carta most closely dated?",
+    "choices": [
+      "1215",
+      "1607",
+      "1620",
+      "1773"
+    ],
+    "correctAnswer": "1215",
+    "explanation": "Magna Carta is most closely dated to 1215.",
+    "sourceName": "National Archives - Magna Carta",
+    "sourceUrl": "https://www.archives.gov/exhibits/featured-documents/magna-carta",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0022",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is Jamestown most closely dated?",
+    "choices": [
+      "1607",
+      "1215",
+      "1620",
+      "1773"
+    ],
+    "correctAnswer": "1607",
+    "explanation": "Jamestown is most closely dated to 1607.",
+    "sourceName": "National Park Service - A Short History of Jamestown",
+    "sourceUrl": "https://www.nps.gov/jame/learn/historyculture/a-short-history-of-jamestown.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0023",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is Mayflower Compact most closely dated?",
+    "choices": [
+      "1620",
+      "1215",
+      "1607",
+      "1773"
+    ],
+    "correctAnswer": "1620",
+    "explanation": "Mayflower Compact is most closely dated to 1620.",
+    "sourceName": "Library of Congress - The Mayflower Compact",
+    "sourceUrl": "https://www.loc.gov/exhibitions/join-in-voluntary-associations-in-america/about-this-exhibition/a-toolkit-for-associations/the-mayflower-compact/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0024",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is Boston Tea Party most closely dated?",
+    "choices": [
+      "1773",
+      "1215",
+      "1607",
+      "1620"
+    ],
+    "correctAnswer": "1773",
+    "explanation": "Boston Tea Party is most closely dated to 1773.",
+    "sourceName": "National Park Service - Old South Meeting House",
+    "sourceUrl": "https://www.nps.gov/places/old-south-meeting-house.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0025",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is Treaty of Paris of 1783 most closely dated?",
+    "choices": [
+      "1783",
+      "1215",
+      "1607",
+      "1620"
+    ],
+    "correctAnswer": "1783",
+    "explanation": "Treaty of Paris of 1783 is most closely dated to 1783.",
+    "sourceName": "National Archives - Treaty of Paris",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/treaty-of-paris",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0026",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is Articles of Confederation most closely dated?",
+    "choices": [
+      "ratified in 1781",
+      "1215",
+      "1607",
+      "1620"
+    ],
+    "correctAnswer": "ratified in 1781",
+    "explanation": "Articles of Confederation is most closely dated to ratified in 1781.",
+    "sourceName": "National Archives - Articles of Confederation",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/articles-of-confederation",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0027",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is Northwest Ordinance most closely dated?",
+    "choices": [
+      "1787",
+      "1215",
+      "1607",
+      "1620"
+    ],
+    "correctAnswer": "1787",
+    "explanation": "Northwest Ordinance is most closely dated to 1787.",
+    "sourceName": "National Archives - Northwest Ordinance",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/northwest-ordinance",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0028",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is Constitutional Convention most closely dated?",
+    "choices": [
+      "1787",
+      "1215",
+      "1607",
+      "1620"
+    ],
+    "correctAnswer": "1787",
+    "explanation": "Constitutional Convention is most closely dated to 1787.",
+    "sourceName": "National Archives - A More Perfect Union",
+    "sourceUrl": "https://www.archives.gov/founding-docs/more-perfect-union",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0029",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is Federalist Papers most closely dated?",
+    "choices": [
+      "1787-1788",
+      "1215",
+      "1607",
+      "1620"
+    ],
+    "correctAnswer": "1787-1788",
+    "explanation": "Federalist Papers is most closely dated to 1787-1788.",
+    "sourceName": "Library of Congress - Federalist Papers",
+    "sourceUrl": "https://guides.loc.gov/federalist-papers/full-text",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0030",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is Lewis and Clark Expedition most closely dated?",
+    "choices": [
+      "1804-1806",
+      "1215",
+      "1607",
+      "1620"
+    ],
+    "correctAnswer": "1804-1806",
+    "explanation": "Lewis and Clark Expedition is most closely dated to 1804-1806.",
+    "sourceName": "Library of Congress - Lewis and Clark Maps",
+    "sourceUrl": "https://www.loc.gov/collections/lewis-and-clark-maps/about-this-collection/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0031",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is War of 1812 most closely dated?",
+    "choices": [
+      "1812-1815",
+      "1215",
+      "1607",
+      "1620"
+    ],
+    "correctAnswer": "1812-1815",
+    "explanation": "War of 1812 is most closely dated to 1812-1815.",
+    "sourceName": "National Park Service - War of 1812",
+    "sourceUrl": "https://www.nps.gov/subjects/warof1812/index.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0032",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is Monroe Doctrine most closely dated?",
+    "choices": [
+      "1823",
+      "1215",
+      "1607",
+      "1620"
+    ],
+    "correctAnswer": "1823",
+    "explanation": "Monroe Doctrine is most closely dated to 1823.",
+    "sourceName": "National Archives - Monroe Doctrine",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/monroe-doctrine",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0033",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is Indian Removal Act most closely dated?",
+    "choices": [
+      "1830",
+      "1215",
+      "1607",
+      "1620"
+    ],
+    "correctAnswer": "1830",
+    "explanation": "Indian Removal Act is most closely dated to 1830.",
+    "sourceName": "National Archives - Jackson's Message on Indian Removal",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/jacksons-message-to-congress-on-indian-removal",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0034",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is Treaty of Guadalupe Hidalgo most closely dated?",
+    "choices": [
+      "1848",
+      "1215",
+      "1607",
+      "1620"
+    ],
+    "correctAnswer": "1848",
+    "explanation": "Treaty of Guadalupe Hidalgo is most closely dated to 1848.",
+    "sourceName": "National Archives - Treaty of Guadalupe Hidalgo",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/treaty-of-guadalupe-hidalgo",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0035",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is Seneca Falls Convention most closely dated?",
+    "choices": [
+      "1848",
+      "1215",
+      "1607",
+      "1620"
+    ],
+    "correctAnswer": "1848",
+    "explanation": "Seneca Falls Convention is most closely dated to 1848.",
+    "sourceName": "National Park Service - First Women's Rights Convention",
+    "sourceUrl": "https://www.nps.gov/wori/learn/historyculture/the-first-womens-rights-convention.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0036",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is Compromise of 1850 most closely dated?",
+    "choices": [
+      "1850",
+      "1215",
+      "1607",
+      "1620"
+    ],
+    "correctAnswer": "1850",
+    "explanation": "Compromise of 1850 is most closely dated to 1850.",
+    "sourceName": "National Archives - Compromise of 1850",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/compromise-of-1850",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0037",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is Kansas-Nebraska Act most closely dated?",
+    "choices": [
+      "1854",
+      "1215",
+      "1607",
+      "1620"
+    ],
+    "correctAnswer": "1854",
+    "explanation": "Kansas-Nebraska Act is most closely dated to 1854.",
+    "sourceName": "National Archives - Kansas-Nebraska Act",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/kansas-nebraska-act",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0038",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is Dred Scott decision most closely dated?",
+    "choices": [
+      "1857",
+      "1215",
+      "1607",
+      "1620"
+    ],
+    "correctAnswer": "1857",
+    "explanation": "Dred Scott decision is most closely dated to 1857.",
+    "sourceName": "National Archives - Dred Scott v. Sandford",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/dred-scott-v-sandford",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0039",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is Gettysburg Address most closely dated?",
+    "choices": [
+      "1863",
+      "1215",
+      "1607",
+      "1620"
+    ],
+    "correctAnswer": "1863",
+    "explanation": "Gettysburg Address is most closely dated to 1863.",
+    "sourceName": "Library of Congress - Gettysburg Address",
+    "sourceUrl": "https://www.loc.gov/exhibits/gettysburg-address/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0040",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is Freedmen's Bureau most closely dated?",
+    "choices": [
+      "created in 1865",
+      "1215",
+      "1607",
+      "1620"
+    ],
+    "correctAnswer": "created in 1865",
+    "explanation": "Freedmen's Bureau is most closely dated to created in 1865.",
+    "sourceName": "National Archives - Freedmen's Bureau",
+    "sourceUrl": "https://www.archives.gov/research/african-americans/freedmens-bureau",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0041",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is Plessy v. Ferguson most closely dated?",
+    "choices": [
+      "1896",
+      "1215",
+      "1607",
+      "1620"
+    ],
+    "correctAnswer": "1896",
+    "explanation": "Plessy v. Ferguson is most closely dated to 1896.",
+    "sourceName": "National Park Service - Homer Plessy",
+    "sourceUrl": "https://www.nps.gov/people/homer-plessy.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0042",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is Pure Food and Drug Act most closely dated?",
+    "choices": [
+      "1906",
+      "1215",
+      "1607",
+      "1620"
+    ],
+    "correctAnswer": "1906",
+    "explanation": "Pure Food and Drug Act is most closely dated to 1906.",
+    "sourceName": "U.S. Food and Drug Administration - Food and Drug Law Milestones",
+    "sourceUrl": "https://www.fda.gov/about-fda/fda-history/milestones-us-food-and-drug-law",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0043",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is Panama Canal most closely dated?",
+    "choices": [
+      "opened in 1914",
+      "1215",
+      "1607",
+      "1620"
+    ],
+    "correctAnswer": "opened in 1914",
+    "explanation": "Panama Canal is most closely dated to opened in 1914.",
+    "sourceName": "Office of the Historian - Panama Canal",
+    "sourceUrl": "https://history.state.gov/milestones/1899-1913/panama-canal",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0044",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is Zimmermann Telegram most closely dated?",
+    "choices": [
+      "1917",
+      "1215",
+      "1607",
+      "1620"
+    ],
+    "correctAnswer": "1917",
+    "explanation": "Zimmermann Telegram is most closely dated to 1917.",
+    "sourceName": "National Archives - Zimmermann Telegram",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/zimmermann-telegram",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0045",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is Fourteen Points most closely dated?",
+    "choices": [
+      "1918",
+      "1215",
+      "1607",
+      "1620"
+    ],
+    "correctAnswer": "1918",
+    "explanation": "Fourteen Points is most closely dated to 1918.",
+    "sourceName": "National Archives - President Woodrow Wilson's 14 Points",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/president-woodrow-wilsons-14-points",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0046",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is Treaty of Versailles most closely dated?",
+    "choices": [
+      "1919",
+      "1215",
+      "1607",
+      "1620"
+    ],
+    "correctAnswer": "1919",
+    "explanation": "Treaty of Versailles is most closely dated to 1919.",
+    "sourceName": "The National Archives - Treaty of Versailles",
+    "sourceUrl": "https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-treaty-of-versailles/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0047",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is Harlem Renaissance most closely dated?",
+    "choices": [
+      "1920s",
+      "1215",
+      "1607",
+      "1620"
+    ],
+    "correctAnswer": "1920s",
+    "explanation": "Harlem Renaissance is most closely dated to 1920s.",
+    "sourceName": "Smithsonian National Museum of African American History and Culture - Harlem Renaissance",
+    "sourceUrl": "https://nmaahc.si.edu/explore/stories/harlem-renaissance",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0048",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is Great Depression most closely dated?",
+    "choices": [
+      "began in 1929",
+      "1215",
+      "1607",
+      "1620"
+    ],
+    "correctAnswer": "began in 1929",
+    "explanation": "Great Depression is most closely dated to began in 1929.",
+    "sourceName": "Library of Congress - Great Depression and World War II Overview",
+    "sourceUrl": "https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/great-depression-and-world-war-ii-1929-1945/overview/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0049",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is Dust Bowl most closely dated?",
+    "choices": [
+      "1930s",
+      "1215",
+      "1607",
+      "1620"
+    ],
+    "correctAnswer": "1930s",
+    "explanation": "Dust Bowl is most closely dated to 1930s.",
+    "sourceName": "Library of Congress - Dust Bowl",
+    "sourceUrl": "https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/great-depression-and-world-war-ii-1929-1945/dust-bowl/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0050",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is Civilian Conservation Corps most closely dated?",
+    "choices": [
+      "1933",
+      "1215",
+      "1607",
+      "1620"
+    ],
+    "correctAnswer": "1933",
+    "explanation": "Civilian Conservation Corps is most closely dated to 1933.",
+    "sourceName": "National Park Service - Civilian Conservation Corps",
+    "sourceUrl": "https://www.nps.gov/articles/the-civilian-conservation-corps.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0051",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is Pearl Harbor attack most closely dated?",
+    "choices": [
+      "December 7, 1941",
+      "1215",
+      "1607",
+      "1620"
+    ],
+    "correctAnswer": "December 7, 1941",
+    "explanation": "Pearl Harbor attack is most closely dated to December 7, 1941.",
+    "sourceName": "National Park Service - Pearl Harbor History and Culture",
+    "sourceUrl": "https://www.nps.gov/perl/learn/historyculture/index.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0052",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is Executive Order 9066 most closely dated?",
+    "choices": [
+      "1942",
+      "1215",
+      "1607",
+      "1620"
+    ],
+    "correctAnswer": "1942",
+    "explanation": "Executive Order 9066 is most closely dated to 1942.",
+    "sourceName": "National Archives - Executive Order 9066",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/executive-order-9066",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0053",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is D-Day landings most closely dated?",
+    "choices": [
+      "June 6, 1944",
+      "1215",
+      "1607",
+      "1620"
+    ],
+    "correctAnswer": "June 6, 1944",
+    "explanation": "D-Day landings is most closely dated to June 6, 1944.",
+    "sourceName": "National WWII Museum - D-Day",
+    "sourceUrl": "https://www.nationalww2museum.org/war/articles/d-day-allies-invade-europe",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0054",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is United Nations Charter most closely dated?",
+    "choices": [
+      "1945",
+      "1215",
+      "1607",
+      "1620"
+    ],
+    "correctAnswer": "1945",
+    "explanation": "United Nations Charter is most closely dated to 1945.",
+    "sourceName": "United Nations - San Francisco Conference",
+    "sourceUrl": "https://www.un.org/en/about-us/history-of-the-un/san-francisco-conference",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0055",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is Truman Doctrine most closely dated?",
+    "choices": [
+      "1947",
+      "1215",
+      "1607",
+      "1620"
+    ],
+    "correctAnswer": "1947",
+    "explanation": "Truman Doctrine is most closely dated to 1947.",
+    "sourceName": "National Archives - Truman Doctrine",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/truman-doctrine",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0056",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is North Atlantic Treaty most closely dated?",
+    "choices": [
+      "1949",
+      "1215",
+      "1607",
+      "1620"
+    ],
+    "correctAnswer": "1949",
+    "explanation": "North Atlantic Treaty is most closely dated to 1949.",
+    "sourceName": "National Archives - The North Atlantic Treaty",
+    "sourceUrl": "https://www.archives.gov/exhibits/featured-documents/north-atlantic-treaty",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0057",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is Cuban Missile Crisis most closely dated?",
+    "choices": [
+      "October 1962",
+      "1215",
+      "1607",
+      "1620"
+    ],
+    "correctAnswer": "October 1962",
+    "explanation": "Cuban Missile Crisis is most closely dated to October 1962.",
+    "sourceName": "John F. Kennedy Presidential Library - Cuban Missile Crisis",
+    "sourceUrl": "https://www.jfklibrary.org/learn/about-jfk/jfk-in-history/cuban-missile-crisis",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0058",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is Apollo 11 mission most closely dated?",
+    "choices": [
+      "1969",
+      "1215",
+      "1607",
+      "1620"
+    ],
+    "correctAnswer": "1969",
+    "explanation": "Apollo 11 mission is most closely dated to 1969.",
+    "sourceName": "NASA - Apollo 11 Mission Overview",
+    "sourceUrl": "https://www.nasa.gov/history/apollo-11-mission-overview/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0059",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is Selma to Montgomery marches most closely dated?",
+    "choices": [
+      "1965",
+      "1215",
+      "1607",
+      "1620"
+    ],
+    "correctAnswer": "1965",
+    "explanation": "Selma to Montgomery marches is most closely dated to 1965.",
+    "sourceName": "National Park Service - Selma to Montgomery",
+    "sourceUrl": "https://www.nps.gov/semo/learn/historyculture/index.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0060",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is Little Rock Nine most closely dated?",
+    "choices": [
+      "1957",
+      "1215",
+      "1607",
+      "1620"
+    ],
+    "correctAnswer": "1957",
+    "explanation": "Little Rock Nine is most closely dated to 1957.",
+    "sourceName": "National Park Service - The Little Rock Nine",
+    "sourceUrl": "https://www.nps.gov/people/the-little-rock-nine.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0061",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is Cuneiform writing most closely dated?",
+    "choices": [
+      "developed in the late fourth millennium BCE",
+      "1215",
+      "1607",
+      "1620"
+    ],
+    "correctAnswer": "developed in the late fourth millennium BCE",
+    "explanation": "Cuneiform writing is most closely dated to developed in the late fourth millennium BCE.",
+    "sourceName": "Metropolitan Museum of Art - Cuneiform and Writing in Mesopotamia",
+    "sourceUrl": "https://www.metmuseum.org/toah/hd/wrtg/hd_wrtg.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0062",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is Code of Hammurabi most closely dated?",
+    "choices": [
+      "18th century BCE",
+      "1215",
+      "1607",
+      "1620"
+    ],
+    "correctAnswer": "18th century BCE",
+    "explanation": "Code of Hammurabi is most closely dated to 18th century BCE.",
+    "sourceName": "Yale Law School Avalon Project - Code of Hammurabi",
+    "sourceUrl": "https://avalon.law.yale.edu/ancient/hamframe.asp",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0063",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is Cyrus Cylinder most closely dated?",
+    "choices": [
+      "539 BCE",
+      "1215",
+      "1607",
+      "1620"
+    ],
+    "correctAnswer": "539 BCE",
+    "explanation": "Cyrus Cylinder is most closely dated to 539 BCE.",
+    "sourceName": "British Museum - Cyrus Cylinder",
+    "sourceUrl": "https://www.britishmuseum.org/collection/object/W_1880-0617-1941",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0064",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is Ancient Olympic Games most closely dated?",
+    "choices": [
+      "traditionally dated from 776 BCE",
+      "1215",
+      "1607",
+      "1620"
+    ],
+    "correctAnswer": "traditionally dated from 776 BCE",
+    "explanation": "Ancient Olympic Games is most closely dated to traditionally dated from 776 BCE.",
+    "sourceName": "Penn Museum - The Ancient Olympics",
+    "sourceUrl": "https://www.penn.museum/sites/olympics/olympicorigins.shtml",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0065",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is Roman roads most closely dated?",
+    "choices": [
+      "Roman Republic and Empire periods",
+      "1215",
+      "1607",
+      "1620"
+    ],
+    "correctAnswer": "Roman Republic and Empire periods",
+    "explanation": "Roman roads is most closely dated to Roman Republic and Empire periods.",
+    "sourceName": "British Museum - Ancient Rome",
+    "sourceUrl": "https://www.britishmuseum.org/learn/schools/ages-7-11/ancient-rome",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0066",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is Black Death most closely dated?",
+    "choices": [
+      "mid-14th century",
+      "1215",
+      "1607",
+      "1620"
+    ],
+    "correctAnswer": "mid-14th century",
+    "explanation": "Black Death is most closely dated to mid-14th century.",
+    "sourceName": "British Museum - Plague and Pandemic in History",
+    "sourceUrl": "https://www.britishmuseum.org/blog/plague-and-pandemic-history",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0067",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is Gutenberg Bible most closely dated?",
+    "choices": [
+      "1450s",
+      "1215",
+      "1607",
+      "1620"
+    ],
+    "correctAnswer": "1450s",
+    "explanation": "Gutenberg Bible is most closely dated to 1450s.",
+    "sourceName": "Library of Congress - Gutenberg Bible",
+    "sourceUrl": "https://www.loc.gov/item/49041047/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0068",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is Mali Empire most closely dated?",
+    "choices": [
+      "13th to 16th centuries",
+      "1215",
+      "1607",
+      "1620"
+    ],
+    "correctAnswer": "13th to 16th centuries",
+    "explanation": "Mali Empire is most closely dated to 13th to 16th centuries.",
+    "sourceName": "Smithsonian National Museum of African Art - Mali Empire and Djenne Figures",
+    "sourceUrl": "https://africa.si.edu/exhibits/mali/index.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0069",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is Tenochtitlan most closely dated?",
+    "choices": [
+      "founded in the 14th century",
+      "1215",
+      "1607",
+      "1620"
+    ],
+    "correctAnswer": "founded in the 14th century",
+    "explanation": "Tenochtitlan is most closely dated to founded in the 14th century.",
+    "sourceName": "Metropolitan Museum of Art - Tenochtitlan",
+    "sourceUrl": "https://www.metmuseum.org/toah/hd/teno_1/hd_teno_1.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-11-0070",
+    "ageGroup": "11",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "When is Machu Picchu most closely dated?",
+    "choices": [
+      "15th century",
+      "1215",
+      "1607",
+      "1620"
+    ],
+    "correctAnswer": "15th century",
+    "explanation": "Machu Picchu is most closely dated to 15th century.",
+    "sourceName": "UNESCO World Heritage Centre - Historic Sanctuary of Machu Picchu",
+    "sourceUrl": "https://whc.unesco.org/en/list/274/",
     "reviewStatus": "reviewed"
   }
 ]

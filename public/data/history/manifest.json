@@ -6,53 +6,53 @@
     {
       "ageGroup": "9",
       "file": "questions-09.json",
-      "count": 20
+      "count": 70
     },
     {
       "ageGroup": "10",
       "file": "questions-10.json",
-      "count": 20
+      "count": 70
     },
     {
       "ageGroup": "11",
       "file": "questions-11.json",
-      "count": 20
+      "count": 70
     },
     {
       "ageGroup": "12",
       "file": "questions-12.json",
-      "count": 20
+      "count": 70
     },
     {
       "ageGroup": "13",
       "file": "questions-13.json",
-      "count": 20
+      "count": 70
     },
     {
       "ageGroup": "14",
       "file": "questions-14.json",
-      "count": 20
+      "count": 70
     },
     {
       "ageGroup": "15",
       "file": "questions-15.json",
-      "count": 20
+      "count": 70
     },
     {
       "ageGroup": "16",
       "file": "questions-16.json",
-      "count": 20
+      "count": 70
     },
     {
       "ageGroup": "17",
       "file": "questions-17.json",
-      "count": 20
+      "count": 70
     },
     {
       "ageGroup": "18+",
       "file": "questions-18plus.json",
-      "count": 20
+      "count": 70
     }
   ],
-  "totalCount": 200
+  "totalCount": 700
 }

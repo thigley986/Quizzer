@@ -1,6 +1,6 @@
 # History Question Bank
 
-This directory contains the static reviewed history question bank. The current bank is a quality-first partial set: 20 questions for each supported age group, 200 total.
+This directory contains the static reviewed history question bank. The current bank meets the product target: 70 reviewed history questions for each supported age group, 700 total.
 
 ## Files
 
@@ -30,7 +30,7 @@ Each question object uses the app question schema:
 
 ## Review Notes
 
-- Sources are official or museum/educational sources, including the National Archives, Library of Congress, Smithsonian/National Museum of American History, National Park Service, British Museum, and National Geographic Education.
+- Sources are official or museum/educational sources, including the National Archives, Library of Congress, Smithsonian museums, National Park Service, British Museum, NASA, UNESCO, the United Nations, and reputable university/public history sources.
 - Question wording and explanations are original summaries based on the cited source facts.
 - The bank intentionally excludes pop culture and horse/equestrian content.
-- The product target is 70 history questions per age group; this first static set reaches 20 per age group without padding via superficial variants.
+- The product target is 70 history questions per age group; this static set reaches 70 per age group and 700 total.

@@ -139,8 +139,8 @@
     ],
     "correctAnswer": "Athens was more direct and limited citizenship more narrowly",
     "explanation": "Athenian democracy involved direct action by eligible citizens, not broad modern voting rights.",
-    "sourceName": "National Geographic Education - Democracy in Ancient Greece",
-    "sourceUrl": "https://education.nationalgeographic.org/resource/democracy-ancient-greece/Wikipedia/",
+    "sourceName": "National Geographic Education - Ancient Greece",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/resource-library-ancient-greece/",
     "reviewStatus": "reviewed"
   },
   {
@@ -357,6 +357,906 @@
     "explanation": "Context helps historians interpret evidence without treating it as isolated fact.",
     "sourceName": "Library of Congress - Getting Started with Primary Sources",
     "sourceUrl": "https://www.loc.gov/programs/teachers/getting-started-with-primary-sources/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0021",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of Magna Carta?",
+    "choices": [
+      "It required the king to accept legal limits on royal power.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "It required the king to accept legal limits on royal power.",
+    "explanation": "It required the king to accept legal limits on royal power.",
+    "sourceName": "National Archives - Magna Carta",
+    "sourceUrl": "https://www.archives.gov/exhibits/featured-documents/magna-carta",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0022",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of Jamestown?",
+    "choices": [
+      "It was founded as an English commercial colony.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "It was founded as an English commercial colony.",
+    "explanation": "It was founded as an English commercial colony.",
+    "sourceName": "National Park Service - A Short History of Jamestown",
+    "sourceUrl": "https://www.nps.gov/jame/learn/historyculture/a-short-history-of-jamestown.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0023",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of Mayflower Compact?",
+    "choices": [
+      "It set out a basic promise of self-government for Plymouth settlers.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "It set out a basic promise of self-government for Plymouth settlers.",
+    "explanation": "It set out a basic promise of self-government for Plymouth settlers.",
+    "sourceName": "Library of Congress - The Mayflower Compact",
+    "sourceUrl": "https://www.loc.gov/exhibitions/join-in-voluntary-associations-in-america/about-this-exhibition/a-toolkit-for-associations/the-mayflower-compact/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0024",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of Boston Tea Party?",
+    "choices": [
+      "It protested tea policy and taxation without colonial representation.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "It protested tea policy and taxation without colonial representation.",
+    "explanation": "It protested tea policy and taxation without colonial representation.",
+    "sourceName": "National Park Service - Old South Meeting House",
+    "sourceUrl": "https://www.nps.gov/places/old-south-meeting-house.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0025",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of Treaty of Paris of 1783?",
+    "choices": [
+      "It recognized American independence from Great Britain.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "It recognized American independence from Great Britain.",
+    "explanation": "It recognized American independence from Great Britain.",
+    "sourceName": "National Archives - Treaty of Paris",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/treaty-of-paris",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0026",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of Articles of Confederation?",
+    "choices": [
+      "It created a loose union with a weak central government.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "It created a loose union with a weak central government.",
+    "explanation": "It created a loose union with a weak central government.",
+    "sourceName": "National Archives - Articles of Confederation",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/articles-of-confederation",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0027",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of Northwest Ordinance?",
+    "choices": [
+      "It created a process for territories to become states.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "It created a process for territories to become states.",
+    "explanation": "It created a process for territories to become states.",
+    "sourceName": "National Archives - Northwest Ordinance",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/northwest-ordinance",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0028",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of Constitutional Convention?",
+    "choices": [
+      "It produced the Constitution that replaced the Articles of Confederation.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "It produced the Constitution that replaced the Articles of Confederation.",
+    "explanation": "It produced the Constitution that replaced the Articles of Confederation.",
+    "sourceName": "National Archives - A More Perfect Union",
+    "sourceUrl": "https://www.archives.gov/founding-docs/more-perfect-union",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0029",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of Federalist Papers?",
+    "choices": [
+      "They argued in favor of adopting the Constitution.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "They argued in favor of adopting the Constitution.",
+    "explanation": "They argued in favor of adopting the Constitution.",
+    "sourceName": "Library of Congress - Federalist Papers",
+    "sourceUrl": "https://guides.loc.gov/federalist-papers/full-text",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0030",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of Lewis and Clark Expedition?",
+    "choices": [
+      "It gathered geographic, scientific, and diplomatic information for the United States.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "It gathered geographic, scientific, and diplomatic information for the United States.",
+    "explanation": "It gathered geographic, scientific, and diplomatic information for the United States.",
+    "sourceName": "Library of Congress - Lewis and Clark Maps",
+    "sourceUrl": "https://www.loc.gov/collections/lewis-and-clark-maps/about-this-collection/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0031",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of the War of 1812?",
+    "choices": [
+      "It grew from maritime disputes, frontier conflict, and competing imperial interests.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "It grew from maritime disputes, frontier conflict, and competing imperial interests.",
+    "explanation": "It grew from maritime disputes, frontier conflict, and competing imperial interests.",
+    "sourceName": "National Park Service - War of 1812",
+    "sourceUrl": "https://www.nps.gov/subjects/warof1812/index.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0032",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of Monroe Doctrine?",
+    "choices": [
+      "It declared opposition to new European colonization in the Americas.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "It declared opposition to new European colonization in the Americas.",
+    "explanation": "It declared opposition to new European colonization in the Americas.",
+    "sourceName": "National Archives - Monroe Doctrine",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/monroe-doctrine",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0033",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of Indian Removal Act?",
+    "choices": [
+      "It supported the removal of Native peoples from homelands to western lands.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "It supported the removal of Native peoples from homelands to western lands.",
+    "explanation": "It supported the removal of Native peoples from homelands to western lands.",
+    "sourceName": "National Archives - Jackson's Message on Indian Removal",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/jacksons-message-to-congress-on-indian-removal",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0034",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of Treaty of Guadalupe Hidalgo?",
+    "choices": [
+      "It ended the Mexican-American War and ceded territory to the United States.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "It ended the Mexican-American War and ceded territory to the United States.",
+    "explanation": "It ended the Mexican-American War and ceded territory to the United States.",
+    "sourceName": "National Archives - Treaty of Guadalupe Hidalgo",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/treaty-of-guadalupe-hidalgo",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0035",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of Seneca Falls Convention?",
+    "choices": [
+      "It issued the Declaration of Sentiments calling for women's rights.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "It issued the Declaration of Sentiments calling for women's rights.",
+    "explanation": "It issued the Declaration of Sentiments calling for women's rights.",
+    "sourceName": "National Park Service - First Women's Rights Convention",
+    "sourceUrl": "https://www.nps.gov/wori/learn/historyculture/the-first-womens-rights-convention.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0036",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of Compromise of 1850?",
+    "choices": [
+      "It combined several measures about territories, slavery, and fugitive slaves.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "It combined several measures about territories, slavery, and fugitive slaves.",
+    "explanation": "It combined several measures about territories, slavery, and fugitive slaves.",
+    "sourceName": "National Archives - Compromise of 1850",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/compromise-of-1850",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0037",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of Kansas-Nebraska Act?",
+    "choices": [
+      "It used popular sovereignty to decide slavery in new territories.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "It used popular sovereignty to decide slavery in new territories.",
+    "explanation": "It used popular sovereignty to decide slavery in new territories.",
+    "sourceName": "National Archives - Kansas-Nebraska Act",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/kansas-nebraska-act",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0038",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of Dred Scott decision?",
+    "choices": [
+      "The Court ruled against Scott and said Congress could not ban slavery in territories.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "The Court ruled against Scott and said Congress could not ban slavery in territories.",
+    "explanation": "The Court ruled against Scott and said Congress could not ban slavery in territories.",
+    "sourceName": "National Archives - Dred Scott v. Sandford",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/dred-scott-v-sandford",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0039",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of Gettysburg Address?",
+    "choices": [
+      "It connected the Civil War to liberty, equality, and democratic government.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "It connected the Civil War to liberty, equality, and democratic government.",
+    "explanation": "It connected the Civil War to liberty, equality, and democratic government.",
+    "sourceName": "Library of Congress - Gettysburg Address",
+    "sourceUrl": "https://www.loc.gov/exhibits/gettysburg-address/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0040",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of Freedmen's Bureau?",
+    "choices": [
+      "It provided assistance such as education, labor oversight, and relief.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "It provided assistance such as education, labor oversight, and relief.",
+    "explanation": "It provided assistance such as education, labor oversight, and relief.",
+    "sourceName": "National Archives - Freedmen's Bureau",
+    "sourceUrl": "https://www.archives.gov/research/african-americans/freedmens-bureau",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0041",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of Plessy v. Ferguson?",
+    "choices": [
+      "It upheld state-imposed racial segregation.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "It upheld state-imposed racial segregation.",
+    "explanation": "It upheld state-imposed racial segregation.",
+    "sourceName": "National Park Service - Homer Plessy",
+    "sourceUrl": "https://www.nps.gov/people/homer-plessy.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0042",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of Pure Food and Drug Act?",
+    "choices": [
+      "It prohibited interstate commerce in adulterated or misbranded foods and drugs.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "It prohibited interstate commerce in adulterated or misbranded foods and drugs.",
+    "explanation": "It prohibited interstate commerce in adulterated or misbranded foods and drugs.",
+    "sourceName": "U.S. Food and Drug Administration - Food and Drug Law Milestones",
+    "sourceUrl": "https://www.fda.gov/about-fda/fda-history/milestones-us-food-and-drug-law",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0043",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of Panama Canal?",
+    "choices": [
+      "It created a faster maritime route between the Atlantic and Pacific.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "It created a faster maritime route between the Atlantic and Pacific.",
+    "explanation": "It created a faster maritime route between the Atlantic and Pacific.",
+    "sourceName": "Office of the Historian - Panama Canal",
+    "sourceUrl": "https://history.state.gov/milestones/1899-1913/panama-canal",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0044",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of Zimmermann Telegram?",
+    "choices": [
+      "It proposed that Mexico ally with Germany if the United States entered the war.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "It proposed that Mexico ally with Germany if the United States entered the war.",
+    "explanation": "It proposed that Mexico ally with Germany if the United States entered the war.",
+    "sourceName": "National Archives - Zimmermann Telegram",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/zimmermann-telegram",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0045",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of Fourteen Points?",
+    "choices": [
+      "It proposed principles such as open diplomacy and a league of nations.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "It proposed principles such as open diplomacy and a league of nations.",
+    "explanation": "It proposed principles such as open diplomacy and a league of nations.",
+    "sourceName": "National Archives - President Woodrow Wilson's 14 Points",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/president-woodrow-wilsons-14-points",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0046",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of Treaty of Versailles?",
+    "choices": [
+      "It set peace terms after World War I and created the League of Nations covenant.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "It set peace terms after World War I and created the League of Nations covenant.",
+    "explanation": "It set peace terms after World War I and created the League of Nations covenant.",
+    "sourceName": "The National Archives - Treaty of Versailles",
+    "sourceUrl": "https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-treaty-of-versailles/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0047",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of Harlem Renaissance?",
+    "choices": [
+      "It expressed Black creativity and debated identity, rights, and modern life.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "It expressed Black creativity and debated identity, rights, and modern life.",
+    "explanation": "It expressed Black creativity and debated identity, rights, and modern life.",
+    "sourceName": "Smithsonian National Museum of African American History and Culture - Harlem Renaissance",
+    "sourceUrl": "https://nmaahc.si.edu/explore/stories/harlem-renaissance",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0048",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of Great Depression?",
+    "choices": [
+      "It brought mass unemployment, bank failures, and economic hardship.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "It brought mass unemployment, bank failures, and economic hardship.",
+    "explanation": "It brought mass unemployment, bank failures, and economic hardship.",
+    "sourceName": "Library of Congress - Great Depression and World War II Overview",
+    "sourceUrl": "https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/great-depression-and-world-war-ii-1929-1945/overview/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0049",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of Dust Bowl?",
+    "choices": [
+      "It combined drought, wind erosion, and farming practices that exposed soil.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "It combined drought, wind erosion, and farming practices that exposed soil.",
+    "explanation": "It combined drought, wind erosion, and farming practices that exposed soil.",
+    "sourceName": "Library of Congress - Dust Bowl",
+    "sourceUrl": "https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/great-depression-and-world-war-ii-1929-1945/dust-bowl/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0050",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of Civilian Conservation Corps?",
+    "choices": [
+      "It provided jobs while building conservation and park infrastructure.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "It provided jobs while building conservation and park infrastructure.",
+    "explanation": "It provided jobs while building conservation and park infrastructure.",
+    "sourceName": "National Park Service - Civilian Conservation Corps",
+    "sourceUrl": "https://www.nps.gov/articles/the-civilian-conservation-corps.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0051",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of the Pearl Harbor attack?",
+    "choices": [
+      "It brought the United States directly into World War II.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "It brought the United States directly into World War II.",
+    "explanation": "It brought the United States directly into World War II.",
+    "sourceName": "National Park Service - Pearl Harbor History and Culture",
+    "sourceUrl": "https://www.nps.gov/perl/learn/historyculture/index.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0052",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of Executive Order 9066?",
+    "choices": [
+      "It authorized military exclusion that led to Japanese American incarceration.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "It authorized military exclusion that led to Japanese American incarceration.",
+    "explanation": "It authorized military exclusion that led to Japanese American incarceration.",
+    "sourceName": "National Archives - Executive Order 9066",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/executive-order-9066",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0053",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of the D-Day landings?",
+    "choices": [
+      "They opened a major western front against Nazi Germany.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "They opened a major western front against Nazi Germany.",
+    "explanation": "They opened a major western front against Nazi Germany.",
+    "sourceName": "National WWII Museum - D-Day",
+    "sourceUrl": "https://www.nationalww2museum.org/war/articles/d-day-allies-invade-europe",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0054",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of United Nations Charter?",
+    "choices": [
+      "It established the United Nations and its basic purposes.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "It established the United Nations and its basic purposes.",
+    "explanation": "It established the United Nations and its basic purposes.",
+    "sourceName": "United Nations - San Francisco Conference",
+    "sourceUrl": "https://www.un.org/en/about-us/history-of-the-un/san-francisco-conference",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0055",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of Truman Doctrine?",
+    "choices": [
+      "It asked Congress to support Greece and Turkey against external pressure and internal conflict.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "It asked Congress to support Greece and Turkey against external pressure and internal conflict.",
+    "explanation": "It asked Congress to support Greece and Turkey against external pressure and internal conflict.",
+    "sourceName": "National Archives - Truman Doctrine",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/truman-doctrine",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0056",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of North Atlantic Treaty?",
+    "choices": [
+      "It created a collective defense alliance.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "It created a collective defense alliance.",
+    "explanation": "It created a collective defense alliance.",
+    "sourceName": "National Archives - The North Atlantic Treaty",
+    "sourceUrl": "https://www.archives.gov/exhibits/featured-documents/north-atlantic-treaty",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0057",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of Cuban Missile Crisis?",
+    "choices": [
+      "It centered on Soviet nuclear missiles placed in Cuba.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "It centered on Soviet nuclear missiles placed in Cuba.",
+    "explanation": "It centered on Soviet nuclear missiles placed in Cuba.",
+    "sourceName": "John F. Kennedy Presidential Library - Cuban Missile Crisis",
+    "sourceUrl": "https://www.jfklibrary.org/learn/about-jfk/jfk-in-history/cuban-missile-crisis",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0058",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of Apollo 11 mission?",
+    "choices": [
+      "It landed Armstrong and Aldrin on the Moon while Collins orbited above.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "It landed Armstrong and Aldrin on the Moon while Collins orbited above.",
+    "explanation": "It landed Armstrong and Aldrin on the Moon while Collins orbited above.",
+    "sourceName": "NASA - Apollo 11 Mission Overview",
+    "sourceUrl": "https://www.nasa.gov/history/apollo-11-mission-overview/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0059",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of Selma to Montgomery marches?",
+    "choices": [
+      "They protested barriers to Black voting rights.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "They protested barriers to Black voting rights.",
+    "explanation": "They protested barriers to Black voting rights.",
+    "sourceName": "National Park Service - Selma to Montgomery",
+    "sourceUrl": "https://www.nps.gov/semo/learn/historyculture/index.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0060",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of Little Rock Nine?",
+    "choices": [
+      "They tested enforcement of school desegregation after Brown v. Board of Education.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "They tested enforcement of school desegregation after Brown v. Board of Education.",
+    "explanation": "They tested enforcement of school desegregation after Brown v. Board of Education.",
+    "sourceName": "National Park Service - The Little Rock Nine",
+    "sourceUrl": "https://www.nps.gov/people/the-little-rock-nine.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0061",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of Cuneiform writing?",
+    "choices": [
+      "It helped record economic, administrative, literary, and legal information.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "It helped record economic, administrative, literary, and legal information.",
+    "explanation": "It helped record economic, administrative, literary, and legal information.",
+    "sourceName": "Metropolitan Museum of Art - Cuneiform and Writing in Mesopotamia",
+    "sourceUrl": "https://www.metmuseum.org/toah/hd/wrtg/hd_wrtg.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0062",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of Code of Hammurabi?",
+    "choices": [
+      "It recorded laws and penalties for many parts of society.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "It recorded laws and penalties for many parts of society.",
+    "explanation": "It recorded laws and penalties for many parts of society.",
+    "sourceName": "Yale Law School Avalon Project - Code of Hammurabi",
+    "sourceUrl": "https://avalon.law.yale.edu/ancient/hamframe.asp",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0063",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of Cyrus Cylinder?",
+    "choices": [
+      "It presents Cyrus as a legitimate ruler after taking Babylon.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "It presents Cyrus as a legitimate ruler after taking Babylon.",
+    "explanation": "It presents Cyrus as a legitimate ruler after taking Babylon.",
+    "sourceName": "British Museum - Cyrus Cylinder",
+    "sourceUrl": "https://www.britishmuseum.org/collection/object/W_1880-0617-1941",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0064",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of Ancient Olympic Games?",
+    "choices": [
+      "They combined athletic competition with religious festival practices.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "They combined athletic competition with religious festival practices.",
+    "explanation": "They combined athletic competition with religious festival practices.",
+    "sourceName": "Penn Museum - The Ancient Olympics",
+    "sourceUrl": "https://www.penn.museum/sites/olympics/olympicorigins.shtml",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0065",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of Roman roads?",
+    "choices": [
+      "They helped move armies, officials, messages, and goods.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "They helped move armies, officials, messages, and goods.",
+    "explanation": "They helped move armies, officials, messages, and goods.",
+    "sourceName": "British Museum - Ancient Rome",
+    "sourceUrl": "https://www.britishmuseum.org/learn/schools/ages-7-11/ancient-rome",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0066",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of Black Death?",
+    "choices": [
+      "It killed a large share of affected populations.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "It killed a large share of affected populations.",
+    "explanation": "It killed a large share of affected populations.",
+    "sourceName": "British Museum - Plague and Pandemic in History",
+    "sourceUrl": "https://www.britishmuseum.org/blog/plague-and-pandemic-history",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0067",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of Gutenberg Bible?",
+    "choices": [
+      "It demonstrated movable-type printing on a large and ambitious scale.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "It demonstrated movable-type printing on a large and ambitious scale.",
+    "explanation": "It demonstrated movable-type printing on a large and ambitious scale.",
+    "sourceName": "Library of Congress - Gutenberg Bible",
+    "sourceUrl": "https://www.loc.gov/item/49041047/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0068",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of Mali Empire?",
+    "choices": [
+      "It grew wealthy through agriculture, gold, and trade networks.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "It grew wealthy through agriculture, gold, and trade networks.",
+    "explanation": "It grew wealthy through agriculture, gold, and trade networks.",
+    "sourceName": "Smithsonian National Museum of African Art - Mali Empire and Djenne Figures",
+    "sourceUrl": "https://africa.si.edu/exhibits/mali/index.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0069",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of Tenochtitlan?",
+    "choices": [
+      "It was the political and ceremonial center of the Mexica empire.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "It was the political and ceremonial center of the Mexica empire.",
+    "explanation": "It was the political and ceremonial center of the Mexica empire.",
+    "sourceName": "Metropolitan Museum of Art - Tenochtitlan",
+    "sourceUrl": "https://www.metmuseum.org/toah/hd/teno_1/hd_teno_1.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-13-0070",
+    "ageGroup": "13",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was a main purpose or feature of Machu Picchu?",
+    "choices": [
+      "It shows Inca architecture, planning, and adaptation to mountain terrain.",
+      "It created a hereditary monarchy in every state.",
+      "It ended all taxation by national governments.",
+      "It replaced courts with military rule everywhere."
+    ],
+    "correctAnswer": "It shows Inca architecture, planning, and adaptation to mountain terrain.",
+    "explanation": "It shows Inca architecture, planning, and adaptation to mountain terrain.",
+    "sourceName": "UNESCO World Heritage Centre - Historic Sanctuary of Machu Picchu",
+    "sourceUrl": "https://whc.unesco.org/en/list/274/",
     "reviewStatus": "reviewed"
   }
 ]

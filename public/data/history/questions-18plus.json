@@ -139,8 +139,8 @@
     ],
     "correctAnswer": "Ancient citizenship exclusions were severe by modern standards",
     "explanation": "Athenian democracy was direct but excluded many residents from citizenship.",
-    "sourceName": "National Geographic Education - Democracy in Ancient Greece",
-    "sourceUrl": "https://education.nationalgeographic.org/resource/democracy-ancient-greece/Wikipedia/",
+    "sourceName": "National Geographic Education - Ancient Greece",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/resource-library-ancient-greece/",
     "reviewStatus": "reviewed"
   },
   {
@@ -357,6 +357,906 @@
     "explanation": "Strong interpretations rest on multiple evaluated sources and clear context.",
     "sourceName": "Library of Congress - Getting Started with Primary Sources",
     "sourceUrl": "https://www.loc.gov/programs/teachers/getting-started-with-primary-sources/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0021",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of Magna Carta is most historically defensible?",
+    "choices": [
+      "It is best read as a medieval settlement later reinterpreted as a constitutional landmark.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "It is best read as a medieval settlement later reinterpreted as a constitutional landmark.",
+    "explanation": "It is best read as a medieval settlement later reinterpreted as a constitutional landmark.",
+    "sourceName": "National Archives - Magna Carta",
+    "sourceUrl": "https://www.archives.gov/exhibits/featured-documents/magna-carta",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0022",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of Jamestown is most historically defensible?",
+    "choices": [
+      "Jamestown is a case study in colonial survival shaped by environment, violence, trade, and coerced labor.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "Jamestown is a case study in colonial survival shaped by environment, violence, trade, and coerced labor.",
+    "explanation": "Jamestown is a case study in colonial survival shaped by environment, violence, trade, and coerced labor.",
+    "sourceName": "National Park Service - A Short History of Jamestown",
+    "sourceUrl": "https://www.nps.gov/jame/learn/historyculture/a-short-history-of-jamestown.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0023",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of Mayflower Compact is most historically defensible?",
+    "choices": [
+      "Its importance lies less in democracy as later understood than in consent among a limited settler body.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "Its importance lies less in democracy as later understood than in consent among a limited settler body.",
+    "explanation": "Its importance lies less in democracy as later understood than in consent among a limited settler body.",
+    "sourceName": "Library of Congress - The Mayflower Compact",
+    "sourceUrl": "https://www.loc.gov/exhibitions/join-in-voluntary-associations-in-america/about-this-exhibition/a-toolkit-for-associations/the-mayflower-compact/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0024",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of Boston Tea Party is most historically defensible?",
+    "choices": [
+      "It illustrates how protest, property destruction, and imperial retaliation can radicalize a political crisis.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "It illustrates how protest, property destruction, and imperial retaliation can radicalize a political crisis.",
+    "explanation": "It illustrates how protest, property destruction, and imperial retaliation can radicalize a political crisis.",
+    "sourceName": "National Park Service - Old South Meeting House",
+    "sourceUrl": "https://www.nps.gov/places/old-south-meeting-house.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0025",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of Treaty of Paris of 1783 is most historically defensible?",
+    "choices": [
+      "Its boundary clauses show how diplomacy could transfer claims without Native consent.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "Its boundary clauses show how diplomacy could transfer claims without Native consent.",
+    "explanation": "Its boundary clauses show how diplomacy could transfer claims without Native consent.",
+    "sourceName": "National Archives - Treaty of Paris",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/treaty-of-paris",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0026",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of Articles of Confederation is most historically defensible?",
+    "choices": [
+      "Its design made collective action difficult because Congress lacked key fiscal and enforcement powers.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "Its design made collective action difficult because Congress lacked key fiscal and enforcement powers.",
+    "explanation": "Its design made collective action difficult because Congress lacked key fiscal and enforcement powers.",
+    "sourceName": "National Archives - Articles of Confederation",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/articles-of-confederation",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0027",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of Northwest Ordinance is most historically defensible?",
+    "choices": [
+      "It shows how republican state formation and settler colonial expansion developed together.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "It shows how republican state formation and settler colonial expansion developed together.",
+    "explanation": "It shows how republican state formation and settler colonial expansion developed together.",
+    "sourceName": "National Archives - Northwest Ordinance",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/northwest-ordinance",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0028",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of Constitutional Convention is most historically defensible?",
+    "choices": [
+      "Its compromises reveal the tension between republican ideals, state interests, and slavery.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "Its compromises reveal the tension between republican ideals, state interests, and slavery.",
+    "explanation": "Its compromises reveal the tension between republican ideals, state interests, and slavery.",
+    "sourceName": "National Archives - A More Perfect Union",
+    "sourceUrl": "https://www.archives.gov/founding-docs/more-perfect-union",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0029",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of Federalist Papers is most historically defensible?",
+    "choices": [
+      "They are useful evidence of Federalist reasoning but must be read alongside Anti-Federalist criticism.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "They are useful evidence of Federalist reasoning but must be read alongside Anti-Federalist criticism.",
+    "explanation": "They are useful evidence of Federalist reasoning but must be read alongside Anti-Federalist criticism.",
+    "sourceName": "Library of Congress - Federalist Papers",
+    "sourceUrl": "https://guides.loc.gov/federalist-papers/full-text",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0030",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of Lewis and Clark Expedition is most historically defensible?",
+    "choices": [
+      "Its records are valuable but reflect U.S. expansionist aims and uneven power relations.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "Its records are valuable but reflect U.S. expansionist aims and uneven power relations.",
+    "explanation": "Its records are valuable but reflect U.S. expansionist aims and uneven power relations.",
+    "sourceName": "Library of Congress - Lewis and Clark Maps",
+    "sourceUrl": "https://www.loc.gov/collections/lewis-and-clark-maps/about-this-collection/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0031",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of the War of 1812 is most historically defensible?",
+    "choices": [
+      "Its outcomes varied by group, strengthening U.S. nationalism while devastating some Native alliances.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "Its outcomes varied by group, strengthening U.S. nationalism while devastating some Native alliances.",
+    "explanation": "Its outcomes varied by group, strengthening U.S. nationalism while devastating some Native alliances.",
+    "sourceName": "National Park Service - War of 1812",
+    "sourceUrl": "https://www.nps.gov/subjects/warof1812/index.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0032",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of Monroe Doctrine is most historically defensible?",
+    "choices": [
+      "Its meaning expanded over time as U.S. power grew beyond Monroe's original context.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "Its meaning expanded over time as U.S. power grew beyond Monroe's original context.",
+    "explanation": "Its meaning expanded over time as U.S. power grew beyond Monroe's original context.",
+    "sourceName": "National Archives - Monroe Doctrine",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/monroe-doctrine",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0033",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of Indian Removal Act is most historically defensible?",
+    "choices": [
+      "It illustrates the gap between treaty language, federal coercion, and Native sovereignty.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "It illustrates the gap between treaty language, federal coercion, and Native sovereignty.",
+    "explanation": "It illustrates the gap between treaty language, federal coercion, and Native sovereignty.",
+    "sourceName": "National Archives - Jackson's Message on Indian Removal",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/jacksons-message-to-congress-on-indian-removal",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0034",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of Treaty of Guadalupe Hidalgo is most historically defensible?",
+    "choices": [
+      "Its aftermath exposed conflicts over conquest, property guarantees, and sectional power.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "Its aftermath exposed conflicts over conquest, property guarantees, and sectional power.",
+    "explanation": "Its aftermath exposed conflicts over conquest, property guarantees, and sectional power.",
+    "sourceName": "National Archives - Treaty of Guadalupe Hidalgo",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/treaty-of-guadalupe-hidalgo",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0035",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of Seneca Falls Convention is most historically defensible?",
+    "choices": [
+      "Its legacy should be read alongside broader activism by women across race, class, and region.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "Its legacy should be read alongside broader activism by women across race, class, and region.",
+    "explanation": "Its legacy should be read alongside broader activism by women across race, class, and region.",
+    "sourceName": "National Park Service - First Women's Rights Convention",
+    "sourceUrl": "https://www.nps.gov/wori/learn/historyculture/the-first-womens-rights-convention.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0036",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of Compromise of 1850 is most historically defensible?",
+    "choices": [
+      "Its Fugitive Slave Act provisions deepened northern resistance while preserving sectional bargaining only briefly.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "Its Fugitive Slave Act provisions deepened northern resistance while preserving sectional bargaining only briefly.",
+    "explanation": "Its Fugitive Slave Act provisions deepened northern resistance while preserving sectional bargaining only briefly.",
+    "sourceName": "National Archives - Compromise of 1850",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/compromise-of-1850",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0037",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of Kansas-Nebraska Act is most historically defensible?",
+    "choices": [
+      "It demonstrates how procedural compromises over slavery could intensify rather than contain conflict.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "It demonstrates how procedural compromises over slavery could intensify rather than contain conflict.",
+    "explanation": "It demonstrates how procedural compromises over slavery could intensify rather than contain conflict.",
+    "sourceName": "National Archives - Kansas-Nebraska Act",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/kansas-nebraska-act",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0038",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of Dred Scott decision is most historically defensible?",
+    "choices": [
+      "Its reasoning linked race, property, and federal power in ways the 14th Amendment later rejected.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "Its reasoning linked race, property, and federal power in ways the 14th Amendment later rejected.",
+    "explanation": "Its reasoning linked race, property, and federal power in ways the 14th Amendment later rejected.",
+    "sourceName": "National Archives - Dred Scott v. Sandford",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/dred-scott-v-sandford",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0039",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of Gettysburg Address is most historically defensible?",
+    "choices": [
+      "Its power comes from linking sacrifice at Gettysburg to a renewed national commitment to equality.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "Its power comes from linking sacrifice at Gettysburg to a renewed national commitment to equality.",
+    "explanation": "Its power comes from linking sacrifice at Gettysburg to a renewed national commitment to equality.",
+    "sourceName": "Library of Congress - Gettysburg Address",
+    "sourceUrl": "https://www.loc.gov/exhibits/gettysburg-address/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0040",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of Freedmen's Bureau is most historically defensible?",
+    "choices": [
+      "Its archives reveal both federal ambition and the constraints placed on Black freedom after emancipation.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "Its archives reveal both federal ambition and the constraints placed on Black freedom after emancipation.",
+    "explanation": "Its archives reveal both federal ambition and the constraints placed on Black freedom after emancipation.",
+    "sourceName": "National Archives - Freedmen's Bureau",
+    "sourceUrl": "https://www.archives.gov/research/african-americans/freedmens-bureau",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0041",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of Plessy v. Ferguson is most historically defensible?",
+    "choices": [
+      "Its doctrine narrowed equal protection until Brown rejected school segregation decades later.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "Its doctrine narrowed equal protection until Brown rejected school segregation decades later.",
+    "explanation": "Its doctrine narrowed equal protection until Brown rejected school segregation decades later.",
+    "sourceName": "National Park Service - Homer Plessy",
+    "sourceUrl": "https://www.nps.gov/people/homer-plessy.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0042",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of Pure Food and Drug Act is most historically defensible?",
+    "choices": [
+      "Its significance lies in shifting consumer safety from private trust toward national oversight.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "Its significance lies in shifting consumer safety from private trust toward national oversight.",
+    "explanation": "Its significance lies in shifting consumer safety from private trust toward national oversight.",
+    "sourceName": "U.S. Food and Drug Administration - Food and Drug Law Milestones",
+    "sourceUrl": "https://www.fda.gov/about-fda/fda-history/milestones-us-food-and-drug-law",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0043",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of Panama Canal is most historically defensible?",
+    "choices": [
+      "Its history combines infrastructure, imperial influence, sovereignty disputes, and global trade.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "Its history combines infrastructure, imperial influence, sovereignty disputes, and global trade.",
+    "explanation": "Its history combines infrastructure, imperial influence, sovereignty disputes, and global trade.",
+    "sourceName": "Office of the Historian - Panama Canal",
+    "sourceUrl": "https://history.state.gov/milestones/1899-1913/panama-canal",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0044",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of Zimmermann Telegram is most historically defensible?",
+    "choices": [
+      "Its impact depended on interception, authentication, press publication, and the broader submarine crisis.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "Its impact depended on interception, authentication, press publication, and the broader submarine crisis.",
+    "explanation": "Its impact depended on interception, authentication, press publication, and the broader submarine crisis.",
+    "sourceName": "National Archives - Zimmermann Telegram",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/zimmermann-telegram",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0045",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of Fourteen Points is most historically defensible?",
+    "choices": [
+      "Its language of self-determination inspired hopes that exceeded what the peace settlement delivered.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "Its language of self-determination inspired hopes that exceeded what the peace settlement delivered.",
+    "explanation": "Its language of self-determination inspired hopes that exceeded what the peace settlement delivered.",
+    "sourceName": "National Archives - President Woodrow Wilson's 14 Points",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/president-woodrow-wilsons-14-points",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0046",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of Treaty of Versailles is most historically defensible?",
+    "choices": [
+      "Its contested terms reveal the difficulty of balancing punishment, security, national claims, and durable peace.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "Its contested terms reveal the difficulty of balancing punishment, security, national claims, and durable peace.",
+    "explanation": "Its contested terms reveal the difficulty of balancing punishment, security, national claims, and durable peace.",
+    "sourceName": "The National Archives - Treaty of Versailles",
+    "sourceUrl": "https://www.nationalarchives.gov.uk/explore-the-collection/stories/the-treaty-of-versailles/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0047",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of Harlem Renaissance is most historically defensible?",
+    "choices": [
+      "Its significance includes artistic innovation, racial pride, market constraints, and debates within Black intellectual life.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "Its significance includes artistic innovation, racial pride, market constraints, and debates within Black intellectual life.",
+    "explanation": "Its significance includes artistic innovation, racial pride, market constraints, and debates within Black intellectual life.",
+    "sourceName": "Smithsonian National Museum of African American History and Culture - Harlem Renaissance",
+    "sourceUrl": "https://nmaahc.si.edu/explore/stories/harlem-renaissance",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0048",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of Great Depression is most historically defensible?",
+    "choices": [
+      "Its causes and recovery involved finance, demand, global trade, policy choices, and institutional reform.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "Its causes and recovery involved finance, demand, global trade, policy choices, and institutional reform.",
+    "explanation": "Its causes and recovery involved finance, demand, global trade, policy choices, and institutional reform.",
+    "sourceName": "Library of Congress - Great Depression and World War II Overview",
+    "sourceUrl": "https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/great-depression-and-world-war-ii-1929-1945/overview/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0049",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of Dust Bowl is most historically defensible?",
+    "choices": [
+      "Its history requires combining climate, land use, markets, technology, and policy analysis.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "Its history requires combining climate, land use, markets, technology, and policy analysis.",
+    "explanation": "Its history requires combining climate, land use, markets, technology, and policy analysis.",
+    "sourceName": "Library of Congress - Dust Bowl",
+    "sourceUrl": "https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/great-depression-and-world-war-ii-1929-1945/dust-bowl/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0050",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of Civilian Conservation Corps is most historically defensible?",
+    "choices": [
+      "Its legacy combines material improvements to public lands with exclusions embedded in New Deal labor policy.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "Its legacy combines material improvements to public lands with exclusions embedded in New Deal labor policy.",
+    "explanation": "Its legacy combines material improvements to public lands with exclusions embedded in New Deal labor policy.",
+    "sourceName": "National Park Service - Civilian Conservation Corps",
+    "sourceUrl": "https://www.nps.gov/articles/the-civilian-conservation-corps.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0051",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of the Pearl Harbor attack is most historically defensible?",
+    "choices": [
+      "Its consequences included military mobilization, Pacific war strategy, and domestic civil-liberties crises.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "Its consequences included military mobilization, Pacific war strategy, and domestic civil-liberties crises.",
+    "explanation": "Its consequences included military mobilization, Pacific war strategy, and domestic civil-liberties crises.",
+    "sourceName": "National Park Service - Pearl Harbor History and Culture",
+    "sourceUrl": "https://www.nps.gov/perl/learn/historyculture/index.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0052",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of Executive Order 9066 is most historically defensible?",
+    "choices": [
+      "Its history links executive power, racialization, military deference, property loss, and later redress.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "Its history links executive power, racialization, military deference, property loss, and later redress.",
+    "explanation": "Its history links executive power, racialization, military deference, property loss, and later redress.",
+    "sourceName": "National Archives - Executive Order 9066",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/executive-order-9066",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0053",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of the D-Day landings is most historically defensible?",
+    "choices": [
+      "Their success depended on logistics, deception, air power, naval support, and German strategic constraints.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "Their success depended on logistics, deception, air power, naval support, and German strategic constraints.",
+    "explanation": "Their success depended on logistics, deception, air power, naval support, and German strategic constraints.",
+    "sourceName": "National WWII Museum - D-Day",
+    "sourceUrl": "https://www.nationalww2museum.org/war/articles/d-day-allies-invade-europe",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0054",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of United Nations Charter is most historically defensible?",
+    "choices": [
+      "Its design balances sovereign equality with great-power privilege in the Security Council.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "Its design balances sovereign equality with great-power privilege in the Security Council.",
+    "explanation": "Its design balances sovereign equality with great-power privilege in the Security Council.",
+    "sourceName": "United Nations - San Francisco Conference",
+    "sourceUrl": "https://www.un.org/en/about-us/history-of-the-un/san-francisco-conference",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0055",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of Truman Doctrine is most historically defensible?",
+    "choices": [
+      "It framed local conflicts in global ideological terms, expanding presidential foreign-policy claims.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "It framed local conflicts in global ideological terms, expanding presidential foreign-policy claims.",
+    "explanation": "It framed local conflicts in global ideological terms, expanding presidential foreign-policy claims.",
+    "sourceName": "National Archives - Truman Doctrine",
+    "sourceUrl": "https://www.archives.gov/milestone-documents/truman-doctrine",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0056",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of North Atlantic Treaty is most historically defensible?",
+    "choices": [
+      "Its collective-defense promise changed the peacetime alliance commitments of the United States.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "Its collective-defense promise changed the peacetime alliance commitments of the United States.",
+    "explanation": "Its collective-defense promise changed the peacetime alliance commitments of the United States.",
+    "sourceName": "National Archives - The North Atlantic Treaty",
+    "sourceUrl": "https://www.archives.gov/exhibits/featured-documents/north-atlantic-treaty",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0057",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of Cuban Missile Crisis is most historically defensible?",
+    "choices": [
+      "Its resolution involved public and private bargaining, alliance politics, and nuclear-risk management.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "Its resolution involved public and private bargaining, alliance politics, and nuclear-risk management.",
+    "explanation": "Its resolution involved public and private bargaining, alliance politics, and nuclear-risk management.",
+    "sourceName": "John F. Kennedy Presidential Library - Cuban Missile Crisis",
+    "sourceUrl": "https://www.jfklibrary.org/learn/about-jfk/jfk-in-history/cuban-missile-crisis",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0058",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of Apollo 11 mission is most historically defensible?",
+    "choices": [
+      "Its significance includes Cold War prestige, systems engineering, media spectacle, and lunar science.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "Its significance includes Cold War prestige, systems engineering, media spectacle, and lunar science.",
+    "explanation": "Its significance includes Cold War prestige, systems engineering, media spectacle, and lunar science.",
+    "sourceName": "NASA - Apollo 11 Mission Overview",
+    "sourceUrl": "https://www.nasa.gov/history/apollo-11-mission-overview/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0059",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of Selma to Montgomery marches is most historically defensible?",
+    "choices": [
+      "Their impact depended on local organizing, state violence, national publicity, and legislative strategy.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "Their impact depended on local organizing, state violence, national publicity, and legislative strategy.",
+    "explanation": "Their impact depended on local organizing, state violence, national publicity, and legislative strategy.",
+    "sourceName": "National Park Service - Selma to Montgomery",
+    "sourceUrl": "https://www.nps.gov/semo/learn/historyculture/index.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0060",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of Little Rock Nine is most historically defensible?",
+    "choices": [
+      "Its history shows that constitutional decisions required political will and federal power to become reality.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "Its history shows that constitutional decisions required political will and federal power to become reality.",
+    "explanation": "Its history shows that constitutional decisions required political will and federal power to become reality.",
+    "sourceName": "National Park Service - The Little Rock Nine",
+    "sourceUrl": "https://www.nps.gov/people/the-little-rock-nine.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0061",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of Cuneiform writing is most historically defensible?",
+    "choices": [
+      "Its tablets let historians study institutions that would otherwise leave few narrative records.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "Its tablets let historians study institutions that would otherwise leave few narrative records.",
+    "explanation": "Its tablets let historians study institutions that would otherwise leave few narrative records.",
+    "sourceName": "Metropolitan Museum of Art - Cuneiform and Writing in Mesopotamia",
+    "sourceUrl": "https://www.metmuseum.org/toah/hd/wrtg/hd_wrtg.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0062",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of Code of Hammurabi is most historically defensible?",
+    "choices": [
+      "Its clauses are evidence for royal ideology and legal norms, not a complete record of daily court practice.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "Its clauses are evidence for royal ideology and legal norms, not a complete record of daily court practice.",
+    "explanation": "Its clauses are evidence for royal ideology and legal norms, not a complete record of daily court practice.",
+    "sourceName": "Yale Law School Avalon Project - Code of Hammurabi",
+    "sourceUrl": "https://avalon.law.yale.edu/ancient/hamframe.asp",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0063",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of Cyrus Cylinder is most historically defensible?",
+    "choices": [
+      "Its meaning depends on Mesopotamian royal conventions as much as Persian imperial policy.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "Its meaning depends on Mesopotamian royal conventions as much as Persian imperial policy.",
+    "explanation": "Its meaning depends on Mesopotamian royal conventions as much as Persian imperial policy.",
+    "sourceName": "British Museum - Cyrus Cylinder",
+    "sourceUrl": "https://www.britishmuseum.org/collection/object/W_1880-0617-1941",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0064",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of Ancient Olympic Games is most historically defensible?",
+    "choices": [
+      "Their history reveals pan-Hellenic culture while also showing exclusions by gender, status, and origin.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "Their history reveals pan-Hellenic culture while also showing exclusions by gender, status, and origin.",
+    "explanation": "Their history reveals pan-Hellenic culture while also showing exclusions by gender, status, and origin.",
+    "sourceName": "Penn Museum - The Ancient Olympics",
+    "sourceUrl": "https://www.penn.museum/sites/olympics/olympicorigins.shtml",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0065",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of Roman roads is most historically defensible?",
+    "choices": [
+      "Roman roads were tools of integration and coercion, serving commerce, communication, and military occupation.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "Roman roads were tools of integration and coercion, serving commerce, communication, and military occupation.",
+    "explanation": "Roman roads were tools of integration and coercion, serving commerce, communication, and military occupation.",
+    "sourceName": "British Museum - Ancient Rome",
+    "sourceUrl": "https://www.britishmuseum.org/learn/schools/ages-7-11/ancient-rome",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0066",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of Black Death is most historically defensible?",
+    "choices": [
+      "Its consequences varied by region and depended on demography, labor systems, belief, and state capacity.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "Its consequences varied by region and depended on demography, labor systems, belief, and state capacity.",
+    "explanation": "Its consequences varied by region and depended on demography, labor systems, belief, and state capacity.",
+    "sourceName": "British Museum - Plague and Pandemic in History",
+    "sourceUrl": "https://www.britishmuseum.org/blog/plague-and-pandemic-history",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0067",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of Gutenberg Bible is most historically defensible?",
+    "choices": [
+      "Its importance lies in production technique, religious text circulation, and the economics of early print.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "Its importance lies in production technique, religious text circulation, and the economics of early print.",
+    "explanation": "Its importance lies in production technique, religious text circulation, and the economics of early print.",
+    "sourceName": "Library of Congress - Gutenberg Bible",
+    "sourceUrl": "https://www.loc.gov/item/49041047/",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0068",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of Mali Empire is most historically defensible?",
+    "choices": [
+      "Its power rested on regional production, trade routes, political authority, and religious-intellectual networks.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "Its power rested on regional production, trade routes, political authority, and religious-intellectual networks.",
+    "explanation": "Its power rested on regional production, trade routes, political authority, and religious-intellectual networks.",
+    "sourceName": "Smithsonian National Museum of African Art - Mali Empire and Djenne Figures",
+    "sourceUrl": "https://africa.si.edu/exhibits/mali/index.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0069",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of Tenochtitlan is most historically defensible?",
+    "choices": [
+      "Its history requires attention to Indigenous statecraft, tribute systems, ecology, and conquest narratives.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "Its history requires attention to Indigenous statecraft, tribute systems, ecology, and conquest narratives.",
+    "explanation": "Its history requires attention to Indigenous statecraft, tribute systems, ecology, and conquest narratives.",
+    "sourceName": "Metropolitan Museum of Art - Tenochtitlan",
+    "sourceUrl": "https://www.metmuseum.org/toah/hd/teno_1/hd_teno_1.htm",
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "history-18plus-0070",
+    "ageGroup": "18+",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which interpretation of Machu Picchu is most historically defensible?",
+    "choices": [
+      "Its interpretation must combine archaeology, landscape history, imperial power, and modern heritage politics.",
+      "It is best explained as an isolated event without institutions or context.",
+      "It should be interpreted only through later legends.",
+      "It has no value for understanding broader historical change."
+    ],
+    "correctAnswer": "Its interpretation must combine archaeology, landscape history, imperial power, and modern heritage politics.",
+    "explanation": "Its interpretation must combine archaeology, landscape history, imperial power, and modern heritage politics.",
+    "sourceName": "UNESCO World Heritage Centre - Historic Sanctuary of Machu Picchu",
+    "sourceUrl": "https://whc.unesco.org/en/list/274/",
     "reviewStatus": "reviewed"
   }
 ]
