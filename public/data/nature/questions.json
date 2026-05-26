@@ -78,13 +78,13 @@
     "difficulty": "easy",
     "question": "Which trait is an adaptation that can help an organism survive in a forest?",
     "choices": [
-      "random decoration",
-      "webbed feet",
-      "a calendar month",
-      "a shorter source URL"
+      "sharp claws for climbing trees",
+      "webbed feet for swimming",
+      "salt-filtering glands",
+      "thick blubber layer"
     ],
-    "correctAnswer": "webbed feet",
-    "explanation": "An adaptation is a body feature or behavior that improves survival or reproduction in a habitat.",
+    "correctAnswer": "sharp claws for climbing trees",
+    "explanation": "An adaptation is a body feature or behavior that improves survival in a habitat. Sharp claws help forest animals grip bark and climb trees to find food and escape predators.",
     "sourceName": "Smithsonian National Zoo - Suited for Survival",
     "sourceUrl": "https://nationalzoo.si.edu/education/school-programs/suited-survival",
     "reviewStatus": "reviewed"
@@ -1012,7 +1012,7 @@
     "ageGroup": "9",
     "category": "nature",
     "difficulty": "medium",
-    "question": "Why could bioluminescence help animals in sunlit plankton layer?",
+    "question": "Why could bioluminescence help animals living in the deep, dark ocean where sunlight cannot reach?",
     "choices": [
       "it can help lure prey, communicate, or avoid predators",
       "it turns deep water into land",
@@ -1020,7 +1020,7 @@
       "it removes darkness from the whole ocean"
     ],
     "correctAnswer": "it can help lure prey, communicate, or avoid predators",
-    "explanation": "In dark deep water, producing light can help animals find food, mates, or protection.",
+    "explanation": "In the deep ocean where no sunlight penetrates, animals produce their own light to attract prey, signal mates, or confuse predators.",
     "sourceName": "NOAA National Ocean Service - Bioluminescence",
     "sourceUrl": "https://oceanservice.noaa.gov/facts/biolum.html",
     "reviewStatus": "reviewed"
@@ -1158,15 +1158,15 @@
     "difficulty": "easy",
     "question": "Which trait is an adaptation that can help an organism survive in a freshwater pond?",
     "choices": [
-      "random decoration",
-      "a calendar month",
-      "a shorter source URL",
-      "waxy leaves"
+      "Air-filled spongy tissue that helps the plant float and get oxygen",
+      "A thick waxy coating on leaves to prevent water loss",
+      "Deep roots that reach water stored far underground",
+      "Spines instead of leaves to reduce surface area in dry heat"
     ],
-    "correctAnswer": "waxy leaves",
-    "explanation": "An adaptation is a body feature or behavior that improves survival or reproduction in a habitat.",
-    "sourceName": "Smithsonian National Zoo - Suited for Survival",
-    "sourceUrl": "https://nationalzoo.si.edu/education/school-programs/suited-survival",
+    "correctAnswer": "Air-filled spongy tissue that helps the plant float and get oxygen",
+    "explanation": "Many freshwater pond plants, like water lilies and water hyacinths, have aerenchyma — spongy tissue with large air-filled spaces. This helps the plant float near the surface for sunlight and moves oxygen down to roots buried in low-oxygen mud, making it a key survival adaptation for aquatic life.",
+    "sourceName": "USDA ARS AgResearch Magazine — Aerenchyma",
+    "sourceUrl": "https://agresearchmag.ars.usda.gov/1997/aug/aerenchyma",
     "reviewStatus": "reviewed"
   },
   {
@@ -2236,17 +2236,17 @@
     "ageGroup": "11",
     "category": "nature",
     "difficulty": "medium",
-    "question": "Which trait is an adaptation that can help an organism survive in a desert?",
+    "question": "Which trait is an adaptation that can help a plant survive in a desert?",
     "choices": [
-      "camouflage coloring",
-      "a shorter source URL",
-      "random decoration",
-      "a calendar month"
+      "A waxy coating on leaves and stems that slows water loss",
+      "Air-filled spongy tissue to help roots get oxygen in waterlogged soil",
+      "Drip-tip leaves that shed heavy rainfall quickly to prevent fungal growth",
+      "Broad, thin leaves to capture as much dim light as possible"
     ],
-    "correctAnswer": "camouflage coloring",
-    "explanation": "An adaptation is a body feature or behavior that improves survival or reproduction in a habitat.",
-    "sourceName": "Smithsonian National Zoo - Suited for Survival",
-    "sourceUrl": "https://nationalzoo.si.edu/education/school-programs/suited-survival",
+    "correctAnswer": "A waxy coating on leaves and stems that slows water loss",
+    "explanation": "Desert plants like cacti and succulents have a thick, waxy cuticle — a nearly waterproof outer layer — that keeps moisture inside when the stomata are closed. This dramatically reduces evaporation in the intense dry heat, allowing the plant to conserve the water it has stored.",
+    "sourceName": "Arizona-Sonora Desert Museum — How Plants Cope with the Desert Climate",
+    "sourceUrl": "https://www.desertmuseum.org/programs/succulents_adaptation.php",
     "reviewStatus": "reviewed"
   },
   {
@@ -2488,17 +2488,17 @@
     "ageGroup": "11",
     "category": "nature",
     "difficulty": "easy",
-    "question": "Why might a salmon migrate instead of staying in one place all year?",
+    "question": "Why might a salmon migrate between the ocean and a freshwater river instead of staying in one place all year?",
     "choices": [
-      "to stop all seasons",
-      "to avoid using energy",
-      "to reach warmer winter conditions",
-      "to become a plant"
+      "to spawn in freshwater streams and feed in the nutrient-rich ocean",
+      "to avoid using any energy",
+      "to reach warmer winter temperatures",
+      "to become a freshwater plant"
     ],
-    "correctAnswer": "to reach warmer winter conditions",
-    "explanation": "Many migrations follow seasonal or geographic changes in food, breeding, or survival conditions.",
-    "sourceName": "National Geographic Education - Animal Migration",
-    "sourceUrl": "https://education.nationalgeographic.org/resource/resource-library-animal-migration/",
+    "correctAnswer": "to spawn in freshwater streams and feed in the nutrient-rich ocean",
+    "explanation": "Salmon are anadromous: they hatch in freshwater, migrate to the ocean to grow and feed, then return to their natal streams to spawn.",
+    "sourceName": "NOAA Fisheries - Atlantic Salmon",
+    "sourceUrl": "https://www.fisheries.noaa.gov/species/atlantic-salmon",
     "reviewStatus": "reviewed"
   },
   {
@@ -3316,17 +3316,17 @@
     "ageGroup": "12",
     "category": "nature",
     "difficulty": "medium",
-    "question": "Which trait is an adaptation that can help an organism survive in a grassland?",
+    "question": "Which trait is an adaptation that can help a plant survive in a grassland?",
     "choices": [
-      "random decoration",
-      "a calendar month",
-      "deep roots",
-      "a shorter source URL"
+      "Deep roots that store nutrients and reach underground water during droughts",
+      "Prop roots that anchor the plant in loose, waterlogged soil",
+      "Drip-tip leaves that channel heavy rainfall off the surface quickly",
+      "Aerenchyma tissue that transports oxygen to submerged roots"
     ],
-    "correctAnswer": "deep roots",
-    "explanation": "An adaptation is a body feature or behavior that improves survival or reproduction in a habitat.",
-    "sourceName": "Smithsonian National Zoo - Suited for Survival",
-    "sourceUrl": "https://nationalzoo.si.edu/education/school-programs/suited-survival",
+    "correctAnswer": "Deep roots that store nutrients and reach underground water during droughts",
+    "explanation": "Grassland grasses like big bluestem can send roots 2 meters or more into the soil, tapping deep water reserves during dry spells. These roots also store starches that fuel rapid regrowth after wildfires, making them the defining survival adaptation of grassland plants.",
+    "sourceName": "ScienceFacts.net — Grassland Plant Adaptations: Examples and Diagram",
+    "sourceUrl": "https://www.sciencefacts.net/grassland-plant-adaptations.html",
     "reviewStatus": "reviewed"
   },
   {
@@ -3570,15 +3570,15 @@
     "difficulty": "easy",
     "question": "Why might a caribou migrate instead of staying in one place all year?",
     "choices": [
-      "to reach safe nesting beaches",
-      "to avoid using energy",
+      "to reach Arctic tundra calving grounds with fewer predators and abundant summer plants",
+      "to avoid using any energy",
       "to become a plant",
-      "to stop all seasons"
+      "to stop all seasons from changing"
     ],
-    "correctAnswer": "to reach safe nesting beaches",
-    "explanation": "Many migrations follow seasonal or geographic changes in food, breeding, or survival conditions.",
-    "sourceName": "National Geographic Education - Animal Migration",
-    "sourceUrl": "https://education.nationalgeographic.org/resource/resource-library-animal-migration/",
+    "correctAnswer": "to reach Arctic tundra calving grounds with fewer predators and abundant summer plants",
+    "explanation": "Caribou migrate from boreal forests to open Arctic tundra each spring, where fewer predators, abundant vegetation, and cooler air from the coast help cows safely give birth and raise calves.",
+    "sourceName": "NOAA Arctic Report Card - Migratory Tundra Caribou",
+    "sourceUrl": "https://arctic.noaa.gov/report-card/report-card-2024/migratory-tundra-caribou-in-a-warmer-climate/",
     "reviewStatus": "reviewed"
   },
   {
@@ -4216,17 +4216,17 @@
     "ageGroup": "12",
     "category": "nature",
     "difficulty": "easy",
-    "question": "Which ocean-layer idea applies to a vent community?",
+    "question": "Which adaptation or feature is used by many animals living in a deep-sea vent community where no sunlight reaches?",
     "choices": [
-      "mountain root zone",
-      "city sidewalk layer",
-      "bioluminescence",
-      "desert canopy layer"
+      "producing their own light through bioluminescence",
+      "photosynthesizing with leaves",
+      "migration to shallow coastal waters each season",
+      "using the sun's ultraviolet rays for energy"
     ],
-    "correctAnswer": "bioluminescence",
-    "explanation": "Smithsonian Ocean describes ocean layers with different light levels and adaptations.",
-    "sourceName": "NOAA National Ocean Service - Ocean Light Zones",
-    "sourceUrl": "https://oceanservice.noaa.gov/facts/light_travel.html",
+    "correctAnswer": "producing their own light through bioluminescence",
+    "explanation": "In the lightless deep sea near hydrothermal vents, many animals produce their own light through bioluminescence to communicate, attract prey, or avoid predators.",
+    "sourceName": "NOAA National Ocean Service - Bioluminescence",
+    "sourceUrl": "https://oceanservice.noaa.gov/facts/biolum.html",
     "reviewStatus": "reviewed"
   },
   {
@@ -4398,15 +4398,15 @@
     "difficulty": "medium",
     "question": "Which trait is an adaptation that can help an organism survive in a tundra?",
     "choices": [
-      "a shorter source URL",
-      "a calendar month",
-      "strong shells",
-      "random decoration"
+      "thick insulating fur that traps body heat",
+      "webbed feet for navigating coral reefs",
+      "large ear flaps to radiate body heat in hot climates",
+      "salt-filtering glands for drinking seawater"
     ],
-    "correctAnswer": "strong shells",
-    "explanation": "An adaptation is a body feature or behavior that improves survival or reproduction in a habitat.",
-    "sourceName": "Smithsonian National Zoo - Suited for Survival",
-    "sourceUrl": "https://nationalzoo.si.edu/education/school-programs/suited-survival",
+    "correctAnswer": "thick insulating fur that traps body heat",
+    "explanation": "Tundra animals such as musk oxen, caribou, and Arctic foxes have dense, multi-layered fur that traps warm air close to the body, a critical adaptation for surviving the extreme cold of tundra winters.",
+    "sourceName": "National Geographic Education - Tundra Biome",
+    "sourceUrl": "https://education.nationalgeographic.org/resource/tundra-biome/",
     "reviewStatus": "reviewed"
   },
   {
@@ -4650,15 +4650,15 @@
     "difficulty": "easy",
     "question": "Why might a gray whale migrate instead of staying in one place all year?",
     "choices": [
-      "to become a plant",
-      "to avoid using energy",
-      "to stop all seasons",
-      "to reach flowing river routes"
+      "to feed in Arctic waters in summer and breed in warm Baja lagoons in winter",
+      "to avoid using any energy",
+      "to turn into a land mammal",
+      "to follow ocean currents to the North Pole year-round"
     ],
-    "correctAnswer": "to reach flowing river routes",
-    "explanation": "Many migrations follow seasonal or geographic changes in food, breeding, or survival conditions.",
-    "sourceName": "National Geographic Education - Animal Migration",
-    "sourceUrl": "https://education.nationalgeographic.org/resource/resource-library-animal-migration/",
+    "correctAnswer": "to feed in Arctic waters in summer and breed in warm Baja lagoons in winter",
+    "explanation": "Gray whales make one of the longest mammal migrations, traveling up to 12,000 miles round-trip between Arctic feeding grounds and warm Baja California lagoons where they breed and calve.",
+    "sourceName": "NOAA Fisheries - Gray Whale",
+    "sourceUrl": "https://www.fisheries.noaa.gov/species/gray-whale",
     "reviewStatus": "reviewed"
   },
   {
@@ -4864,15 +4864,15 @@
     "ageGroup": "13",
     "category": "nature",
     "difficulty": "easy",
-    "question": "Which kelp-forest condition or feature fits a spring kelp bed?",
+    "question": "Which kelp-forest condition or feature best describes a spring kelp bed?",
     "choices": [
-      "freezing desert sand only",
-      "seasonal storm damage",
-      "lava inside a volcano",
-      "tree roots in dry soil"
+      "freezing desert sand",
+      "cold, nutrient-rich upwelling water and increasing sunlight",
+      "lava flows heating the seafloor",
+      "tree roots anchored in dry soil"
     ],
-    "correctAnswer": "seasonal storm damage",
-    "explanation": "Kelp forests are underwater algae communities that need light and often occur in cool, nutrient-rich coastal waters.",
+    "correctAnswer": "cold, nutrient-rich upwelling water and increasing sunlight",
+    "explanation": "Spring kelp beds thrive because coastal upwelling delivers cold, nutrient-rich water while lengthening days provide more sunlight, allowing giant kelp to grow several inches per day.",
     "sourceName": "NOAA National Ocean Service - Kelp Forests",
     "sourceUrl": "https://oceanservice.noaa.gov/facts/kelp.html",
     "reviewStatus": "reviewed"
@@ -4992,14 +4992,14 @@
     "difficulty": "medium",
     "question": "Which effect could make an algal bloom in a slow river mouth a problem?",
     "choices": [
-      "more mountain snowpack",
-      "faster bird migration",
-      "food for grazers when not harmful",
-      "stronger tree roots on land"
+      "oxygen depletion as the algae decay and kill fish",
+      "increased water clarity that harms bottom plants",
+      "faster flow of river current during the bloom",
+      "reduced nutrient levels in the water column"
     ],
-    "correctAnswer": "food for grazers when not harmful",
-    "explanation": "Harmful blooms may produce toxins, block light, clog gills, or deplete oxygen as algae decay.",
-    "sourceName": "NOAA National Ocean Service - Algal Blooms",
+    "correctAnswer": "oxygen depletion as the algae decay and kill fish",
+    "explanation": "When a large algal bloom dies and decays, bacteria consume oxygen breaking it down, creating hypoxic dead zones that suffocate fish and other aquatic life.",
+    "sourceName": "NOAA National Ocean Service - Harmful Algal Blooms",
     "sourceUrl": "https://oceanservice.noaa.gov/facts/habharm.html",
     "reviewStatus": "reviewed"
   },
@@ -5478,15 +5478,15 @@
     "difficulty": "medium",
     "question": "Which trait is an adaptation that can help an organism survive in a coral reef?",
     "choices": [
-      "random decoration",
-      "a calendar month",
-      "a shorter source URL",
-      "flexible kelp blades"
+      "symbiotic algae (zooxanthellae) living inside coral tissue",
+      "thick blubber to survive freezing water",
+      "salt-filtering roots to absorb fresh water",
+      "hollow hair shafts for insulation against Arctic cold"
     ],
-    "correctAnswer": "flexible kelp blades",
-    "explanation": "An adaptation is a body feature or behavior that improves survival or reproduction in a habitat.",
-    "sourceName": "Smithsonian National Zoo - Suited for Survival",
-    "sourceUrl": "https://nationalzoo.si.edu/education/school-programs/suited-survival",
+    "correctAnswer": "symbiotic algae (zooxanthellae) living inside coral tissue",
+    "explanation": "Corals host symbiotic algae called zooxanthellae inside their tissues; these algae photosynthesize and provide corals with up to 90% of their energy, a key adaptation for surviving in nutrient-poor tropical waters.",
+    "sourceName": "NOAA National Ocean Service - Coral Reefs",
+    "sourceUrl": "https://oceanservice.noaa.gov/facts/coral.html",
     "reviewStatus": "reviewed"
   },
   {
@@ -5730,15 +5730,15 @@
     "difficulty": "medium",
     "question": "Why might a shorebird migrate instead of staying in one place all year?",
     "choices": [
-      "to reach fresh grazing plants",
-      "to become a plant",
-      "to stop all seasons",
-      "to avoid using energy"
+      "to reach Arctic breeding grounds where summer insect and invertebrate prey are abundant",
+      "to graze on fresh coastal plants",
+      "to avoid all predators permanently",
+      "to find warmer water for swimming"
     ],
-    "correctAnswer": "to reach fresh grazing plants",
-    "explanation": "Many migrations follow seasonal or geographic changes in food, breeding, or survival conditions.",
-    "sourceName": "National Geographic Education - Animal Migration",
-    "sourceUrl": "https://education.nationalgeographic.org/resource/resource-library-animal-migration/",
+    "correctAnswer": "to reach Arctic breeding grounds where summer insect and invertebrate prey are abundant",
+    "explanation": "Shorebirds migrate to Arctic tundra each summer to exploit the seasonal explosion of insects and invertebrates, which provides food for raising chicks before migrating south for winter.",
+    "sourceName": "U.S. National Park Service - How Shorebirds Adapt to a Warming Arctic",
+    "sourceUrl": "https://www.nps.gov/articles/000/arcticshorebirdadaptation.htm",
     "reviewStatus": "reviewed"
   },
   {
@@ -6558,15 +6558,15 @@
     "difficulty": "medium",
     "question": "Which trait is an adaptation that can help an organism survive in a kelp forest?",
     "choices": [
-      "salt-filtering roots",
-      "a shorter source URL",
-      "random decoration",
-      "a calendar month"
+      "gas-filled bladders (pneumatocysts) that keep fronds buoyant toward sunlight",
+      "salt-filtering roots to absorb fresh water",
+      "thick fur to retain warmth in freezing air",
+      "wings for rapid travel between patches"
     ],
-    "correctAnswer": "salt-filtering roots",
-    "explanation": "An adaptation is a body feature or behavior that improves survival or reproduction in a habitat.",
-    "sourceName": "Smithsonian National Zoo - Suited for Survival",
-    "sourceUrl": "https://nationalzoo.si.edu/education/school-programs/suited-survival",
+    "correctAnswer": "gas-filled bladders (pneumatocysts) that keep fronds buoyant toward sunlight",
+    "explanation": "Kelp has gas-filled pneumatocysts that act like floats, lifting the fronds toward the sunlit surface so the algae can photosynthesize in the cold coastal water.",
+    "sourceName": "NOAA National Ocean Service - Kelp Forests",
+    "sourceUrl": "https://oceanservice.noaa.gov/facts/kelp.html",
     "reviewStatus": "reviewed"
   },
   {
@@ -6970,16 +6970,16 @@
     "ageGroup": "15",
     "category": "nature",
     "difficulty": "medium",
-    "question": "Which coral reef term describes a reef feature forming within calmer lagoon water?",
+    "question": "Which coral reef type is separated from the shoreline by a broad expanse of calmer lagoon water?",
     "choices": [
       "salt marsh",
       "kelp holdfast",
       "freshwater bog",
-      "lagoon reef"
+      "barrier reef"
     ],
-    "correctAnswer": "lagoon reef",
-    "explanation": "NOAA identifies fringing reefs, barrier reefs, atolls, and reef zones as parts of coral reef systems.",
-    "sourceName": "NOAA National Ocean Service - Coral Reef Types",
+    "correctAnswer": "barrier reef",
+    "explanation": "NOAA defines a barrier reef as a reef separated from the coast by a wide, deep lagoon. The Great Barrier Reef of Australia is the world's largest example.",
+    "sourceName": "NOAA National Ocean Service - What Are the Three Types of Coral Reefs?",
     "sourceUrl": "https://oceanservice.noaa.gov/facts/threecorals.html",
     "reviewStatus": "reviewed"
   },
@@ -7024,15 +7024,15 @@
     "ageGroup": "15",
     "category": "nature",
     "difficulty": "medium",
-    "question": "Which kelp-forest condition or feature fits a rocky seafloor holdfast area?",
+    "question": "Which kelp-forest structure anchors the kelp to the rocky seafloor?",
     "choices": [
       "tree roots in dry soil",
       "lava inside a volcano",
-      "freezing desert sand only",
-      "brown algae blades"
+      "freezing desert sand",
+      "a root-like holdfast gripping the rock"
     ],
-    "correctAnswer": "brown algae blades",
-    "explanation": "Kelp forests are underwater algae communities that need light and often occur in cool, nutrient-rich coastal waters.",
+    "correctAnswer": "a root-like holdfast gripping the rock",
+    "explanation": "Kelp attaches to hard substrate with a holdfast, a tough root-like structure that grips the rocky seafloor. Unlike true roots, holdfasts do not absorb water or nutrients.",
     "sourceName": "NOAA National Ocean Service - Kelp Forests",
     "sourceUrl": "https://oceanservice.noaa.gov/facts/kelp.html",
     "reviewStatus": "reviewed"
@@ -7261,14 +7261,14 @@
     "question": "Which factors help determine what life exists in a kelp forest?",
     "choices": [
       "only alphabet order",
-      "temperature, water, soil, and light",
+      "temperature, water, rocky substrate, and light",
       "only the color of a compass",
       "only the name of the nearest city"
     ],
-    "correctAnswer": "temperature, water, soil, and light",
-    "explanation": "National Geographic Education describes temperature, soil, light, and water as important biome factors.",
-    "sourceName": "National Geographic Education - Biomes",
-    "sourceUrl": "https://education.nationalgeographic.org/resource/biomes/",
+    "correctAnswer": "temperature, water, rocky substrate, and light",
+    "explanation": "Kelp forests require cold water temperatures, adequate nutrients in the water, hard rocky substrate for holdfasts to grip, and sufficient light for photosynthesis.",
+    "sourceName": "NOAA National Ocean Service - Kelp Forests",
+    "sourceUrl": "https://oceanservice.noaa.gov/facts/kelp.html",
     "reviewStatus": "reviewed"
   },
   {
@@ -7314,15 +7314,15 @@
     "difficulty": "medium",
     "question": "Which organism or feature, such as fertility-building organisms, can be part of desert biocrust?",
     "choices": [
-      "soil fertility",
+      "cyanobacteria and lichens that bind soil particles",
       "deep-sea coral only",
       "city pavement",
       "large ocean waves"
     ],
-    "correctAnswer": "soil fertility",
-    "explanation": "Biocrusts may include cyanobacteria, lichens, mosses, fungi, algae, and soil-stabilizing structures.",
-    "sourceName": "USGS Biological Soil Crusts",
-    "sourceUrl": "https://pubs.usgs.gov/fs/2001/0065/",
+    "correctAnswer": "cyanobacteria and lichens that bind soil particles",
+    "explanation": "Biological soil crusts (biocrusts) are communities of cyanobacteria, lichens, mosses, algae, and fungi whose filaments bind loose soil particles, stabilizing desert soils and cycling nutrients.",
+    "sourceName": "USGS Biological Soil Crust Science",
+    "sourceUrl": "https://www.usgs.gov/centers/southwest-biological-science-center/science/biological-soil-crust-biocrust-science",
     "reviewStatus": "reviewed"
   },
   {
@@ -7456,15 +7456,15 @@
     "ageGroup": "15",
     "category": "nature",
     "difficulty": "medium",
-    "question": "Which ocean-layer idea applies to a cold dark basin?",
+    "question": "Which community is found in the cold, dark deep ocean far from sunlight?",
     "choices": [
-      "city sidewalk layer",
-      "hydrothermal vent bacteria",
-      "desert canopy layer",
-      "mountain root zone"
+      "hydrothermal vent bacteria that obtain energy from chemical reactions",
+      "tropical coral polyps requiring warm sunlit water",
+      "surface plankton blooms driven by photosynthesis",
+      "mangrove trees rooted in shallow coastal mud"
     ],
-    "correctAnswer": "hydrothermal vent bacteria",
-    "explanation": "Smithsonian Ocean describes ocean layers with different light levels and adaptations.",
+    "correctAnswer": "hydrothermal vent bacteria that obtain energy from chemical reactions",
+    "explanation": "Hydrothermal vent communities in the deep ocean rely on chemosynthesis rather than photosynthesis; bacteria oxidize chemicals like hydrogen sulfide to produce energy without any sunlight.",
     "sourceName": "NOAA National Ocean Service - Ocean Light Zones",
     "sourceUrl": "https://oceanservice.noaa.gov/facts/light_travel.html",
     "reviewStatus": "reviewed"
@@ -7636,17 +7636,17 @@
     "ageGroup": "16",
     "category": "nature",
     "difficulty": "hard",
-    "question": "Which trait is an adaptation that can help an organism survive in a estuary?",
+    "question": "Which trait is an adaptation that can help an animal survive in an estuary, where freshwater and saltwater constantly mix?",
     "choices": [
-      "random decoration",
-      "a calendar month",
-      "large night-sensitive eyes",
-      "a shorter source URL"
+      "The ability to regulate body fluids across a wide range of salt concentrations",
+      "Aerenchyma tissue that delivers oxygen to roots in flooded soil",
+      "A thick waxy cuticle that prevents water from evaporating through the skin",
+      "Deep roots that anchor the organism during seasonal droughts"
     ],
-    "correctAnswer": "large night-sensitive eyes",
-    "explanation": "An adaptation is a body feature or behavior that improves survival or reproduction in a habitat.",
-    "sourceName": "Smithsonian National Zoo - Suited for Survival",
-    "sourceUrl": "https://nationalzoo.si.edu/education/school-programs/suited-survival",
+    "correctAnswer": "The ability to regulate body fluids across a wide range of salt concentrations",
+    "explanation": "Estuaries have constantly changing salinity as tides push in saltwater and rivers push in freshwater. Animals that thrive here, such as blue crabs and striped bass, are euryhaline — they can adjust the salt balance in their body fluids (osmoregulation) to stay stable across a wide salinity range, which is the defining challenge of estuary survival.",
+    "sourceName": "NOAA National Ocean Service — Adaptations to Life in the Estuary",
+    "sourceUrl": "https://oceanservice.noaa.gov/education/tutorial_estuaries/est07_adaptations.html",
     "reviewStatus": "reviewed"
   },
   {
@@ -8232,14 +8232,14 @@
     "difficulty": "hard",
     "question": "Which effect could make an algal bloom in a freshwater reservoir a problem?",
     "choices": [
-      "stronger tree roots on land",
-      "faster bird migration",
-      "shellfish safety risks",
-      "more mountain snowpack"
+      "cyanotoxins contaminating the drinking water supply",
+      "stronger tree roots growing along the shoreline",
+      "faster migration of waterfowl through the region",
+      "increased mountain snowpack upstream"
     ],
-    "correctAnswer": "shellfish safety risks",
-    "explanation": "Harmful blooms may produce toxins, block light, clog gills, or deplete oxygen as algae decay.",
-    "sourceName": "NOAA National Ocean Service - Algal Blooms",
+    "correctAnswer": "cyanotoxins contaminating the drinking water supply",
+    "explanation": "Freshwater harmful algal blooms, often caused by cyanobacteria, can release liver-damaging toxins such as microcystins into reservoirs used for drinking water, posing serious public health risks.",
+    "sourceName": "NOAA National Ocean Service - Harmful Algal Blooms",
     "sourceUrl": "https://oceanservice.noaa.gov/facts/habharm.html",
     "reviewStatus": "reviewed"
   },
@@ -8716,17 +8716,17 @@
     "ageGroup": "17",
     "category": "nature",
     "difficulty": "hard",
-    "question": "Which trait is an adaptation that can help an organism survive in a mangrove forest?",
+    "question": "Which trait is an adaptation that can help a tree survive in a mangrove forest, where it grows in salty, waterlogged coastal soil?",
     "choices": [
-      "clinging feet",
-      "a calendar month",
-      "a shorter source URL",
-      "random decoration"
+      "Aerial prop roots that stabilize the tree and contain pores for gas exchange in oxygen-poor mud",
+      "A thick waxy cuticle on leaves and stems that minimizes water loss in dry air",
+      "Aerenchyma-filled leaves that provide buoyancy in fast-moving river currents",
+      "Deep taproots that anchor the plant against strong dry-season winds on open plains"
     ],
-    "correctAnswer": "clinging feet",
-    "explanation": "An adaptation is a body feature or behavior that improves survival or reproduction in a habitat.",
-    "sourceName": "Smithsonian National Zoo - Suited for Survival",
-    "sourceUrl": "https://nationalzoo.si.edu/education/school-programs/suited-survival",
+    "correctAnswer": "Aerial prop roots that stabilize the tree and contain pores for gas exchange in oxygen-poor mud",
+    "explanation": "Red mangroves grow arching prop roots from their trunks and branches into the mud, giving the tree a stable base in soft, shifting sediment. These roots have tiny pores called lenticels that absorb atmospheric oxygen when exposed at low tide, solving the critical problem of breathing in waterlogged, nearly anoxic soil.",
+    "sourceName": "Smithsonian Ocean Portal — Mangroves",
+    "sourceUrl": "https://ocean.si.edu/ocean-life/plants-algae/mangroves",
     "reviewStatus": "reviewed"
   },
   {
@@ -9616,17 +9616,17 @@
     "ageGroup": "17",
     "category": "nature",
     "difficulty": "medium",
-    "question": "Which ocean-layer idea applies to a reef slope at dusk?",
+    "question": "Which bioluminescent strategy do some fish use at a reef slope at dusk to match the faint light from above and hide their silhouette from predators below?",
     "choices": [
-      "desert canopy layer",
-      "city sidewalk layer",
-      "mountain root zone",
+      "desert canopy layering",
+      "terrestrial root-zone pressure",
+      "urban heat-island absorption",
       "counterillumination"
     ],
     "correctAnswer": "counterillumination",
-    "explanation": "Smithsonian Ocean describes ocean layers with different light levels and adaptations.",
-    "sourceName": "NOAA National Ocean Service - Ocean Light Zones",
-    "sourceUrl": "https://oceanservice.noaa.gov/facts/light_travel.html",
+    "explanation": "Counterillumination is a camouflage strategy in which fish use photophores on their undersides to emit light matching the dim downwelling light, making their silhouette invisible to predators looking upward from below.",
+    "sourceName": "Smithsonian Ocean - Fish Using Counterillumination",
+    "sourceUrl": "https://ocean.si.edu/ocean-life/fish/fish-using-counterillumination",
     "reviewStatus": "reviewed"
   },
   {
@@ -9796,17 +9796,17 @@
     "ageGroup": "18+",
     "category": "nature",
     "difficulty": "hard",
-    "question": "Which trait is an adaptation that can help an organism survive in a temperate rainforest?",
+    "question": "Which trait is an adaptation that can help a plant survive in a temperate rainforest, where annual rainfall can exceed 300 cm and light reaching the forest floor is limited?",
     "choices": [
-      "random decoration",
-      "seasonal dormancy",
-      "a calendar month",
-      "a shorter source URL"
+      "Elongated leaf tips (drip tips) that channel water off leaves quickly to prevent fungal and bacterial growth",
+      "A thick waxy cuticle and reduced stomata that limit water loss during prolonged dry seasons",
+      "Deep lateral roots that mine soil moisture far from the stem during drought",
+      "Seasonal dormancy that conserves energy when temperatures drop well below freezing"
     ],
-    "correctAnswer": "seasonal dormancy",
-    "explanation": "An adaptation is a body feature or behavior that improves survival or reproduction in a habitat.",
-    "sourceName": "Smithsonian National Zoo - Suited for Survival",
-    "sourceUrl": "https://nationalzoo.si.edu/education/school-programs/suited-survival",
+    "correctAnswer": "Elongated leaf tips (drip tips) that channel water off leaves quickly to prevent fungal and bacterial growth",
+    "explanation": "Temperate rainforest plants are drenched with rain year-round in warm conditions — the ideal environment for fungi and bacteria to colonize leaves. Drip tips are elongated, pointed leaf ends that act like a spout, allowing raindrops to run off rapidly. This keeps leaf surfaces drier and reduces the risk of harmful microbial growth, an adaptation tightly linked to high-rainfall forest environments.",
+    "sourceName": "Missouri Botanical Garden — Plant Adaptations (rainforest)",
+    "sourceUrl": "https://www.mbgnet.net/sets/rforest/plants/adapt.htm",
     "reviewStatus": "reviewed"
   },
   {
@@ -10051,14 +10051,14 @@
     "question": "Why might a wildebeest migrate instead of staying in one place all year?",
     "choices": [
       "to become a plant",
-      "to avoid using energy",
-      "to reach favorable winds",
-      "to stop all seasons"
+      "to avoid using any energy",
+      "to follow seasonal rains and find fresh grass and water",
+      "to stop all seasons from changing"
     ],
-    "correctAnswer": "to reach favorable winds",
-    "explanation": "Many migrations follow seasonal or geographic changes in food, breeding, or survival conditions.",
-    "sourceName": "National Geographic Education - Animal Migration",
-    "sourceUrl": "https://education.nationalgeographic.org/resource/resource-library-animal-migration/",
+    "correctAnswer": "to follow seasonal rains and find fresh grass and water",
+    "explanation": "The Great Migration is driven by the wildebeest's need to follow East Africa's seasonal rains, which trigger the growth of nutritious grasses and replenish water sources across the Serengeti-Mara ecosystem.",
+    "sourceName": "National Geographic - Wildebeest Great Migration",
+    "sourceUrl": "https://www.nationalgeographic.com/animals/article/wildebeest-great-migration-africa-serengeti",
     "reviewStatus": "reviewed"
   },
   {
@@ -10302,13 +10302,13 @@
     "difficulty": "hard",
     "question": "Which challenge must organisms tolerate in a narrow intertidal crack?",
     "choices": [
-      "no contact with seawater",
+      "permanent submersion in deep, cold water",
       "zero competition for space",
-      "fresh nutrients from waves",
+      "repeated desiccation and extreme temperature swings between tides",
       "constant deep-ocean darkness"
     ],
-    "correctAnswer": "fresh nutrients from waves",
-    "explanation": "Tide pools change between low and high tide, exposing organisms to stress and then fresh seawater.",
+    "correctAnswer": "repeated desiccation and extreme temperature swings between tides",
+    "explanation": "During low tide, intertidal organisms in narrow cracks are exposed to air, intense solar heating, rapid drying, and salinity changes from rain or evaporation; at high tide, they are re-submerged in cold seawater, requiring tolerance of both extremes.",
     "sourceName": "NOAA National Ocean Service - Tide Pools",
     "sourceUrl": "https://oceanservice.noaa.gov/facts/tide-pool.html",
     "reviewStatus": "reviewed"
@@ -10696,15 +10696,15 @@
     "ageGroup": "18+",
     "category": "nature",
     "difficulty": "medium",
-    "question": "Which ocean-layer idea applies to a submarine canyon?",
+    "question": "Which biological process occurring in submarine canyons helps recycle organic waste and return nutrients to the deep-sea food web?",
     "choices": [
-      "waste recycling by microbes",
-      "city sidewalk layer",
-      "mountain root zone",
-      "desert canopy layer"
+      "waste recycling by microbial communities in canyon sediments",
+      "photosynthesis by canopy-forming trees",
+      "wind-driven sediment deposition on mountain peaks",
+      "solar evaporation of surface water"
     ],
-    "correctAnswer": "waste recycling by microbes",
-    "explanation": "Smithsonian Ocean describes ocean layers with different light levels and adaptations.",
+    "correctAnswer": "waste recycling by microbial communities in canyon sediments",
+    "explanation": "Bacteria and other microbes in submarine canyon sediments decompose sinking organic matter, recycling nutrients and transferring energy up to higher trophic levels in deep-sea ecosystems.",
     "sourceName": "NOAA National Ocean Service - Ocean Light Zones",
     "sourceUrl": "https://oceanservice.noaa.gov/facts/light_travel.html",
     "reviewStatus": "reviewed"

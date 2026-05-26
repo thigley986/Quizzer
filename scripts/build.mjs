@@ -51,7 +51,7 @@ await cp(publicDir, distDir, { recursive: true });
 console.log(`Built static app to dist/. Math: ${mathQuestions.length}. Factual: ${factualQuestions.length}.`);
 
 function assertNoHorseContent(text, label) {
-  if (/\b(horse|horses|equestrian|riding|tack|breed)\b/i.test(text)) {
+  if (/\b(horses?|horseback|equestrian|ponies|pony|stallions?|mares?|foals?|geldings?|bridle|saddle|dressage)\b/i.test(text)) {
     throw new Error(`${label} must not include horse or equestrian topics.`);
   }
 }

@@ -7662,9 +7662,9 @@
       "Scalability"
     ],
     "correctAnswer": "HSTS",
-    "explanation": "HSTS is the best match because it refers to a web security policy that tells browsers to use secure connections for a site.",
-    "sourceName": "IETF RFC 9110 HTTP Semantics",
-    "sourceUrl": "https://www.rfc-editor.org/rfc/rfc9110.html",
+    "explanation": "HSTS (HTTP Strict Transport Security) is a web security policy defined in RFC 6797 that tells browsers to use only HTTPS connections for a site, preventing protocol-downgrade attacks.",
+    "sourceName": "IETF RFC 6797 - HTTP Strict Transport Security (HSTS)",
+    "sourceUrl": "https://www.rfc-editor.org/rfc/rfc6797.html",
     "reviewStatus": "reviewed"
   },
   {
